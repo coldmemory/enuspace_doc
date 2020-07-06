@@ -26,7 +26,7 @@ Ensor\* pRetEnsor : pEnsor의 엘리먼트에 대한 Inverse Matrix Ensor\*를 �
 
 ```lua
 function MathEquation()
-     local x = ensor.new("{{3,4,1},{2,3,1},{5,4,7}}")
+     local x = ensor.new("/{/{3,4,1/},/{2,3,1/},/{5,4,7/}/}")
      local y = ensor.Inverse(x)
 
      ensor.Table(y)
