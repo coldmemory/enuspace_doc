@@ -2,6 +2,7 @@
 layout: default
 title: text
 parent: 기초객체(2D)
+grand_parent: enuSpace Tutorial
 nav_order: 7
 ---
 
