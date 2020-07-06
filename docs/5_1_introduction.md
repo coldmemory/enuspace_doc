@@ -25,3 +25,15 @@ enuSpace를 실행합니다. 상단의 리본메뉴의 Equation Editor 버튼을
 
 ![](/assets/statistics/equationeditor1.png)
 
+
+```lua
+function MathEquation()
+    --TODO Add your lua script code here
+     local ensor_x = ensor.new("{0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0}")
+     local ensor_y = ensor.Cos(ensor_x)
+
+     ensor.DebugString(ensor_y)
+     ensor.Plot(ensor_x, ensor_y)
+     ensor.Table(ensor_y)
+ end
+```
