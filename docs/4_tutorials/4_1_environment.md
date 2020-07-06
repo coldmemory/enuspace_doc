@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Typography
+title: 개발환경 및 구조
 parent: enuSpace Tutorial
 nav_order: 1
 ---
@@ -23,7 +23,7 @@ enuSpace는 소프트웨어 개발자 도구\(Software Development Kit :SDK\)를
 
 운영환경 : Windows 7, Windows 10 64bit \(Recommand\)
 
-![](/assets/environment/1 basic1.png)
+![](../assets/environment/1 basic1.png)
 
 ### 1. Ribbon menu
 
@@ -47,7 +47,7 @@ Project Explorer의 픽쳐 아이템에 대한 그래픽 정보를 제공합니�
 
 각 객체의 속성에 대한 정보를 제공하며, 각 속성 아이템에 대하여 속성 변경처리를 수행합니다. 속성창은 객체의 속성, 객체의 이벤트, 객체의 변수에 대하여 설정할수 있는 인터페이스를 제공합니다.
 
-![](/assets/environment/1 basic2.png)
+![](../assets/environment/1 basic2.png)
 
 \* 객체의 이벤트에 사용되는 스크립트 언어는 Lua, Javascript language를 지원하며 객체의 속성을 변경하고자 할 경우에는 속성창의 이름을 이용하여 동적으로 스크립트에서 제어할 수 있습니다. fill-opacity와 같이 -가 포함된 문자는 fill\_opacity의 변수로 접근합니다.
 
