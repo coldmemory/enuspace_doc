@@ -1,8 +1,0 @@
-# enuSpace Error Code
-
----
-
-### 
-
-
-
