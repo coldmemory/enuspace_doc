@@ -37,8 +37,6 @@ function MathEquation()
  end
 ```
 
-ensor.new\(\) 라이브러리 함수를 통하여 객체를 생성합니다.
-
 **생성 예시**
 
 ```lua
