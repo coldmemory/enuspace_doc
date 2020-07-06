@@ -1,6 +1,6 @@
 ---
 layout: default
-title: line
+title: text
 parent: 기초객체(2D)
 nav_order: 7
 ---
