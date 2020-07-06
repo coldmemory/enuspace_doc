@@ -30,7 +30,7 @@ Ensor\* pRetEnsor : 가장 작은수로부터의 value번째의 값을 가진 En
 
 ```lua
 function MathEquation()
-	local ensor_x = ensor.new("{{3,1},{4,4},{5,8},{2,3},{3,7},{4,12},{6,54},{4,3},{7,23}}")
+	local ensor_x = ensor.new("/{/{3,1},{4,4},{5,8},{2,3},{3,7},{4,12},{6,54},{4,3},{7,23/}/}")
 	local ensor_y = ensor.Small(ensor_x,4)
 
 	ensor.Table(ensor_x)
