@@ -2,7 +2,7 @@
 layout: default
 title: Acosh
 parent: Math functions
-grand_parent: enuSpace Tutorial
+grand_parent: Math & Statistics
 nav_order: 3
 ---
 
