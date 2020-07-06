@@ -32,8 +32,8 @@ pEnsor1 과 pEnsor2는 같은 엘러먼트 수의 정방행렬을 가져야 합�
 
 ```lua
 function MathEquation()
-	local x1 = ensor.new("{{3,4,1},{2,3,1},{5,4,7}}")
-	local x2 = ensor.new("{{2,4,3},{2,2,1},{2,3,3}}")
+	local x1 = ensor.new("/{/{3,4,1/},/{2,3,1/},/{5,4,7/}/}")
+	local x2 = ensor.new("/{/{2,4,3/},/{2,2,1/},/{2,3,3/}/}")
 	local y = ensor.MatMul(x1,x2)
 	ensor.Name(x1,"x1")
 	ensor.Name(x2,"x2")
