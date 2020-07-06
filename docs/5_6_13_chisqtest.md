@@ -60,8 +60,8 @@ Ensor\* pRetEnsor : Right tailed probability 와  계산된 F, df를 가진 Enso
 
 ```lua
 function MathEquation()
-     local ensor_x = ensor.new("{{58.0,35},{11,25},{10,23}}")
-     local ensor_x2 = ensor.new("{{45.35,47.65},{17.56,18.44},{16.09,16.91}}")
+     local ensor_x = ensor.new("/{/{58.0,35/},/{11,25/},/{10,23/}/}")
+     local ensor_x2 = ensor.new("/{/{45.35,47.65/},/{17.56,18.44/},/{16.09,16.91/}/}")
      local ensor_y = ensor.ChisqTest(ensor_x,ensor_x2)
 
      ensor.Table(ensor_y)
