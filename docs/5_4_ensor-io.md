@@ -45,7 +45,7 @@ function MathEquation()
 
 ```lua
 function MathEquation()
-    local ensor_obj = ensor.new("{{1,2,3},{4,5,6}}")
+    local ensor_obj = ensor.new("/{/{1,2,3/},/{4,5,6/}/}")
      ensor.SaveCSV(ensor_obj, "D:\\data.csv")
     local ensor_read = ensor.ReadCSV("D:\\data.csv")
 
