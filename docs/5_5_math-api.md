@@ -3,6 +3,7 @@ layout: default
 title: Math functions
 parent: Math & Statistics
 nav_order: 5
+has_children: true
 ---
 
 # ensor Math functions
