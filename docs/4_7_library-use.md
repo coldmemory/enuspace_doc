@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LOGIC 라이브러리 만들기
+title: 라이브러리 적용하기
 parent: enuSpace Tutorial
 nav_order: 7
 ---

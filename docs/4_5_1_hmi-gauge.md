@@ -1,6 +1,6 @@
 ---
 layout: default
-title: faceset
+title: Gauge
 parent: HMI 라이브러리 만들기
 grand_parent: enuSpace Tutorial
 nav_order: 1
