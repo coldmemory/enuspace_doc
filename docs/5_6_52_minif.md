@@ -31,7 +31,7 @@ Ensor\* pRetEnsor : condition에 맞는 데이터 중에서 최소값을 찾아 
 ```lua
 function MathEquation()
 	--TODO Add your lua script code here
- 	local ensor_x = ensor.new("{{93,76,92,64,74},{79,77,79,81,85},{85,83,88,82,85},{64,78,75,80,62},{81,74,71,63,57}}")
+ 	local ensor_x = ensor.new("/{/{93,76,92,64,74},{79,77,79,81,85},{85,83,88,82,85},{64,78,75,80,62},{81,74,71,63,57/}/}")
  	local ensor_y = ensor.MinIf(ensor_x,"d < 90 and d>60")
 
 	ensor.Table(ensor_x)
