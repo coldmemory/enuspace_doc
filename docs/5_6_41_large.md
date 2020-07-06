@@ -30,7 +30,7 @@ Ensor\* pRetEnsor : 가장 큰수로부터의 value번째의 값을 가진 Ensor
 
 ```lua
 function MathEquation()
-	local ensor_x = ensor.new("{{3,4},{5,2},{3,4},{5,6},{4,7}}")
+	local ensor_x = ensor.new("/{/{3,4/},/{5,2/},/{3,4/},/{5,6/},/{4,7/}/}")
 	local ensor_y = ensor.Large(ensor_x,3)
 
  	ensor.Table(ensor_y)
