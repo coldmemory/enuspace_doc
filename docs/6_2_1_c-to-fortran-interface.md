@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Using method
-parent: Math & Statistics
-grand_parent
+title: C to Fortarn Interface
+parent: Component Task(saturn ver.4)
+grand_parent : External Task
 nav_order: 1
 ---
 
