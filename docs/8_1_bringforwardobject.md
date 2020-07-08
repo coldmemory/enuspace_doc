@@ -6,7 +6,9 @@ nav_order: 1
 ---
 
 # BringForwardObject\(objects\)
+
 ---
+
 BringForwardObject\(\)
 
 #### Parameters
