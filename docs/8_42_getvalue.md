@@ -2,8 +2,9 @@
 layout: defaul
 title: GetValue
 parent: Script API
-nav_order: 42
+nav_order: 2a
 ---
+
 # GetValue\(variable\)
 
 GetValue\(\)

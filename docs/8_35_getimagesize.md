@@ -2,8 +2,9 @@
 layout: defaul
 title: GetImageSize
 parent: Script API
-nav_order: 35
+nav_order: 23
 ---
+
 # GetImageSize\(\)
 
 GetImageSize\(\)

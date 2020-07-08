@@ -2,8 +2,9 @@
 layout: defaul
 title: CreatePath
 parent: Script API
-nav_order: 19
+nav_order: 13
 ---
+
 # CreatePath\(id, points, transx, transy\)
 
 CreatePath\(\)

@@ -2,8 +2,9 @@
 layout: defaul
 title: RemovePicture
 parent: Script API
-nav_order: 58
+nav_order: 3a
 ---
+
 # RemovePicture\(picture\)
 
 RemovePicture\(\)

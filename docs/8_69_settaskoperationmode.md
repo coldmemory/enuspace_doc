@@ -2,8 +2,9 @@
 layout: defaul
 title: SetScriptOperationMode
 parent: Script API
-nav_order: 69
+nav_order: 45
 ---
+
 # SetTaskOperationMode\(mode\)
 
 SetScriptOperationMode\(\)

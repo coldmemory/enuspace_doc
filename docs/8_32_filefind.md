@@ -2,8 +2,9 @@
 layout: defaul
 title: FileFind
 parent: Script API
-nav_order: 32
+nav_order: 20
 ---
+
 # FileFind\(filename\)
 
 FileFind\(\)

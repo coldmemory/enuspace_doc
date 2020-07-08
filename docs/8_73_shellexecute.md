@@ -2,8 +2,9 @@
 layout: defaul
 title: ShellExecute
 parent: Script API
-nav_order: 73
+nav_order: 49
 ---
+
 # ShellExecute\(operation, file, param, directory\)
 
 ShellExecute\(\)

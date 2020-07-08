@@ -2,8 +2,9 @@
 layout: defaul
 title: RegisterJavaScriptById
 parent: Script API
-nav_order: 56
+nav_order: 38
 ---
+
 # RegisterJavaScriptById\(id, function, script\)
 
 RegisterJavaScriptById\(\)

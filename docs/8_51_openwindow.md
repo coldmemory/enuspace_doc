@@ -2,8 +2,9 @@
 layout: defaul
 title: OpenWindow
 parent: Script API
-nav_order: 51
+nav_order: 33
 ---
+
 # OpenWindow\(window, posx, posy, href\)
 
 OpenWindow\(\)

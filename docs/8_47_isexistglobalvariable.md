@@ -2,8 +2,9 @@
 layout: defaul
 title: IsExistGlobalVariable
 parent: Script API
-nav_order: 47
+nav_order: 2f
 ---
+
 # IsExistGlobalVariable\(variable\)
 
 IsExistGlobalVariable\(\)

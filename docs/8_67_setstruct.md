@@ -2,8 +2,9 @@
 layout: defaul
 title: SetStruct
 parent: Script API
-nav_order: 67
+nav_order: 43
 ---
+
 # SetStruct\(\)
 
 SetStruct\(\)

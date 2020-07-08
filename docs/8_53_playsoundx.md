@@ -2,8 +2,9 @@
 layout: defaul
 title: PlaySoundX
 parent: Script API
-nav_order: 53
+nav_order: 35
 ---
+
 # PlaySoundX\(wave\)
 
 PlaySoundX\(\)

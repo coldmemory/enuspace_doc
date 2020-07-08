@@ -2,8 +2,9 @@
 layout: defaul
 title: GetMouseWheelDelta
 parent: Script API
-nav_order: 37
+nav_order: 25
 ---
+
 # GetMouseWheelDelta\(\)
 
 GetMouseWheelDelta\(\)

@@ -2,8 +2,9 @@
 layout: defaul
 title: SendToBackObject
 parent: Script API
-nav_order: 60
+nav_order: 3c
 ---
+
 # SendToBackObject\(objects\)
 
 SendToBackObject\(\)

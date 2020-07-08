@@ -2,8 +2,9 @@
 layout: defaul
 title: GetMoveCanvas
 parent: Script API
-nav_order: 38
+nav_order: 26
 ---
+
 # GetMoveCanvas\(\)
 
 GetMoveCanvas\(\)

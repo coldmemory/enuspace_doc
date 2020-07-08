@@ -2,8 +2,9 @@
 layout: defaul
 title: SetValue
 parent: Script API
-nav_order: 70
+nav_order: 46
 ---
+
 # SetValue\(variable, value\)
 
 SetValue\(\)

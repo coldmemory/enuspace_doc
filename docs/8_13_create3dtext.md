@@ -2,8 +2,9 @@
 layout: defaul
 title: Create3DText
 parent: Script API
-nav_order: 13
+nav_order: d
 ---
+
 # Create3DText\(id, text, style, fontsize, transx, transy, transz\)
 
 Create3DText\(\)

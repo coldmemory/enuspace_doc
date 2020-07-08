@@ -2,8 +2,9 @@
 layout: defaul
 title: GetWindowSize
 parent: Script API
-nav_order: 44
+nav_order: 2c
 ---
+
 # GetWindowSize\(\)
 
 GetWindowSize\(\)

@@ -2,8 +2,9 @@
 layout: defaul
 title: LoadPicture
 parent: Script API
-nav_order: 48
+nav_order: 30
 ---
+
 # LoadPicture\(picture\)
 
 LoadPicture\(\)

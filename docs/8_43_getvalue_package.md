@@ -2,8 +2,9 @@
 layout: defaul
 title: GetValuePackage
 parent: Script API
-nav_order: 43
+nav_order: 2b
 ---
+
 # GetValuePackage\(variable\)
 
 GetValuePackage\(\)

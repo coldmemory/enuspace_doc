@@ -2,8 +2,9 @@
 layout: defaul
 title: SetArrayValue
 parent: Script API
-nav_order: 61
+nav_order: 3d
 ---
+
 # SetArrayValue\(target, source\)
 
 SetArrayValue\(\)

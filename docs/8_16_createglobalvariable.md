@@ -2,8 +2,9 @@
 layout: defaul
 title: CreateGlobalVariable
 parent: Script API
-nav_order: 16
+nav_order: 10
 ---
+
 # CreateGlobalVariable\(type, variable, value\)
 
 CreateGlobalVariable\(\)

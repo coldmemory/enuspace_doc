@@ -2,8 +2,9 @@
 layout: defaul
 title: SetTagValue
 parent: Script API
-nav_order: 68
+nav_order: 44
 ---
+
 # SetTagValue\("tagid", value\)
 
 SetTagValue\(\)

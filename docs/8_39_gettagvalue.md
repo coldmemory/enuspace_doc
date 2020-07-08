@@ -2,8 +2,9 @@
 layout: defaul
 title: GetTagValue
 parent: Script API
-nav_order: 39
+nav_order: 27
 ---
+
 # GetTagValue\("tagid"\)
 
 GetTagValue\(\)
