@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: getworldcursorpos
+parent: Script API
+nav_order: 38
+---
 # GetWorldCursorPos\(\)
 
 GetWorldCursorPos\(\)

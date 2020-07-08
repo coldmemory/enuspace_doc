@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: removepicture
+parent: Script API
+nav_order: 52
+---
 # RemovePicture\(picture\)
 
 RemovePicture\(\)

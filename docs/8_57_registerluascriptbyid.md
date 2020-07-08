@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: registerluascriptbyid
+parent: Script API
+nav_order: 51
+---
 # RegisterLuaScriptById\(id, function, script\)
 
 RegisterLuaScriptById\(\)

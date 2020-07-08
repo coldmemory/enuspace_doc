@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: getdatetimestring
+parent: Script API
+nav_order: 26
+---
 # GetDateTimeString\(timetype\)
 
 GetDateTimeString\(\)

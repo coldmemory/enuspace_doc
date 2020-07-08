@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: printmessage
+parent: Script API
+nav_order: 49
+---
 # PrintMessage\(message\)
 
 PrintMessage\(\)

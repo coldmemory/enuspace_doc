@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: createimage
+parent: Script API
+nav_order: 7
+---
 # CreateImage\(id, x, y, width, height, href, transx, transy\)
 
 CreateImage\(\)

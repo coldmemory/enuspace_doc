@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: executetaskfunction
+parent: Script API
+nav_order: 23
+---
 # ExecuteTaskFunction\(task, function\)
 
 ExecuteTaskFunction\(\)

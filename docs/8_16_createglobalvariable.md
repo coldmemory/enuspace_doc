@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: createglobalvariable
+parent: Script API
+nav_order: 6
+---
 # CreateGlobalVariable\(type, variable, value\)
 
 CreateGlobalVariable\(\)

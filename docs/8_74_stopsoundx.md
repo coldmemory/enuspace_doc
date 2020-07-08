@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: stopsoundx
+parent: Script API
+nav_order: 70
+---
 # StopSoundX\(wave\)
 
 StopSoundX\(\)

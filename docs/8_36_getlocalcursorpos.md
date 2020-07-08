@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: getlocalcursorpos
+parent: Script API
+nav_order: 28
+---
 # GetLocalCursorPos\(\)
 
 GetLocalCursorPos\(\)

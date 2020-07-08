@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: setattribute3d
+parent: Script API
+nav_order: 58
+---
 # SetAttribute3D\(\)
 
 SetAttribute3D\(\)

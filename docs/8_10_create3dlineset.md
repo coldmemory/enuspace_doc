@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: create3dlineset
+parent: Script API
+nav_order: 0
+---
 # Create3DLineSet\(id, points, transx, transy, transz\)
 
 Create3DLineSet\(\)

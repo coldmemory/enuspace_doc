@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: bringtofrontobject
+parent: Script API
+nav_order: 21
+---
 # BringToFrontObject\(objects\)
 
 BringToFrontObject\(\)

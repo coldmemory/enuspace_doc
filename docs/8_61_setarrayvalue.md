@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: setarrayvalue
+parent: Script API
+nav_order: 56
+---
 # SetArrayValue\(target, source\)
 
 SetArrayValue\(\)

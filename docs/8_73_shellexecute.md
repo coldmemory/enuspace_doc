@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: shellexecute
+parent: Script API
+nav_order: 69
+---
 # ShellExecute\(operation, file, param, directory\)
 
 ShellExecute\(\)

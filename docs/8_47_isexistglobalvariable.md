@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: isexistglobalvariable
+parent: Script API
+nav_order: 40
+---
 # IsExistGlobalVariable\(variable\)
 
 IsExistGlobalVariable\(\)

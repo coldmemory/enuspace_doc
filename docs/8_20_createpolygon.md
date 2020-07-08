@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: createpolygon
+parent: Script API
+nav_order: 11
+---
 # CreatePolygon\(id, points, transx, transy\)
 
 CreatePolygon\(\)

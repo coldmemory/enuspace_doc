@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: createtrend
+parent: Script API
+nav_order: 15
+---
 # CreateTrend\(id, x, y, width, height, transx, trnasy\)
 
 CreateTrend\(\)

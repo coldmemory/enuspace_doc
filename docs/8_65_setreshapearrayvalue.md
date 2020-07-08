@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: setreshapearrayvalue
+parent: Script API
+nav_order: 60
+---
 # SetReShapeArrayValue\(pinid, type, dimension, value\)
 
 SetReShapeArrayValue\(\)

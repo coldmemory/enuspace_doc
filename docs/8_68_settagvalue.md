@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: settagvalue
+parent: Script API
+nav_order: 63
+---
 # SetTagValue\("tagid", value\)
 
 SetTagValue\(\)

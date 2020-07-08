@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: memcpy
+parent: Script API
+nav_order: 42
+---
 # memcpy\(target, source, size\)
 
 memcpy\(\)

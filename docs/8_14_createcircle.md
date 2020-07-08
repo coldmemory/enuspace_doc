@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: createcircle
+parent: Script API
+nav_order: 4
+---
 # CreateCircle\(id, radius, cx, cy, transx, transy\)
 
 CreateCircle\(\)

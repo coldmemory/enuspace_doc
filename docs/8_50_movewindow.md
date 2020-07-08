@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: movewindow
+parent: Script API
+nav_order: 44
+---
 # MoveWindow\(window, posx, posy\)
 
 MoveWindow\(\)

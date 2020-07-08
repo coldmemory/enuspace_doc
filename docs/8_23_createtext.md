@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: createtext
+parent: Script API
+nav_order: 14
+---
 # CreateText\(id, x, y, dx, dy, text, transx, transy\)
 
 CreateText\(\)

@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: create3dsphere
+parent: Script API
+nav_order: 1
+---
 # Create3DSphere\(id, radius, slices, transx, transy, transz\)
 
 Create3DSphere\(\)

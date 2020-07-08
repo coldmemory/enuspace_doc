@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: create3dcone
+parent: Script API
+nav_order: 65
+---
 # Create3DCone\(id, bottomRadius, height, slices, transx, transy, transz\)
 
 Create3DCone\(\)

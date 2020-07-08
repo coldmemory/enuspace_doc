@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: getarrayvalue
+parent: Script API
+nav_order: 25
+---
 # GetArrayValue\(variable\)
 
 GetArrayValue\(\)

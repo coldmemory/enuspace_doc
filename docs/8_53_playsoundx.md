@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: playsoundx
+parent: Script API
+nav_order: 47
+---
 # PlaySoundX\(wave\)
 
 PlaySoundX\(\)

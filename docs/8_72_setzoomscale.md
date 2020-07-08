@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: setzoomscale
+parent: Script API
+nav_order: 68
+---
 # SetZoomScale\(scale\)
 
 SetZoomScale\(\)

@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: getzoomscale
+parent: Script API
+nav_order: 39
+---
 # GetZoomScale\(\)
 
 GetZoomScale\(\)

@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: setstruct
+parent: Script API
+nav_order: 62
+---
 # SetStruct\(\)
 
 SetStruct\(\)

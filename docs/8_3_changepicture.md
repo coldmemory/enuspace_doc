@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: changepicture
+parent: Script API
+nav_order: 32
+---
 # ChangePicture\(window, picture\)
 
 ChangePicture\(\)

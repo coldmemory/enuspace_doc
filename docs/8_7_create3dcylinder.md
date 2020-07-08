@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: create3dcylinder
+parent: Script API
+nav_order: 71
+---
 # Create3DCylinder\(id, height, radius, slices, transx, transy, transz\)
 
 Create3DCylinder\(\)

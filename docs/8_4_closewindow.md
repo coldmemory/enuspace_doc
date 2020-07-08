@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: closewindow
+parent: Script API
+nav_order: 43
+---
 # CloseWindow\(window\)
 
 CloseWindow\(\)

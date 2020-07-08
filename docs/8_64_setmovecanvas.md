@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: setmovecanvas
+parent: Script API
+nav_order: 59
+---
 # SetMoveCanvas\(window, transx, transy\)
 
 SetMoveCanvas\(\)

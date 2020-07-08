@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: openwindow
+parent: Script API
+nav_order: 45
+---
 # OpenWindow\(window, posx, posy, href\)
 
 OpenWindow\(\)

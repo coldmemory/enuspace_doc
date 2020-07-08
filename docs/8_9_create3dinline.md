@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: create3dinline
+parent: Script API
+nav_order: 73
+---
 # Create3DInline\(id, strUrl, transx, transy, transz\)
 
 Create3DInline\(\)

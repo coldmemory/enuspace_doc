@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: create3dfaceset
+parent: Script API
+nav_order: 72
+---
 # Create3DFaceSet\(id, points, coordIndex, transx, transy, transz\)
 
 Create3DFaceSet\(\)

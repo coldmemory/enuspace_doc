@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: bringforwardobject
+parent: Script API
+nav_order: 10
+---
 # BringForwardObject\(objects\)
 
 BringForwardObject\(\)

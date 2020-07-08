@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: setvalue
+parent: Script API
+nav_order: 66
+---
 # SetValue\(variable, value\)
 
 SetValue\(\)

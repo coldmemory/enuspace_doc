@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: settaskoperationmode
+parent: Script API
+nav_order: 64
+---
 # SetTaskOperationMode\(mode\)
 
 SetScriptOperationMode\(\)

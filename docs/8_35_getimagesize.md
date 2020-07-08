@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: getimagesize
+parent: Script API
+nav_order: 27
+---
 # GetImageSize\(\)
 
 GetImageSize\(\)

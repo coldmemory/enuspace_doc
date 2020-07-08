@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: gettaskoperationmode
+parent: Script API
+nav_order: 33
+---
 # GetTaskOperationMode\(\)
 
 GetScriptOperationMode\(\)

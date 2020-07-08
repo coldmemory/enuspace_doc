@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: loadpicture
+parent: Script API
+nav_order: 41
+---
 # LoadPicture\(picture\)
 
 LoadPicture\(\)

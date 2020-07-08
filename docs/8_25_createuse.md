@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: createuse
+parent: Script API
+nav_order: 16
+---
 # CreateUse\(id, x, y, href, type, transx, transy\)
 
 CreateUse\(\)

@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: execfunctionsync
+parent: Script API
+nav_order: 19
+---
 # ExecFunctionSync\(\)
 
 ExecFunctionSync\(\)

@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: getwindowsize
+parent: Script API
+nav_order: 37
+---
 # GetWindowSize\(\)
 
 GetWindowSize\(\)

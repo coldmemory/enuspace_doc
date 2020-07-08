@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: create3dbox
+parent: Script API
+nav_order: 54
+---
 # Create3DBox\(id, size, transx, transy, transz\)
 
 Create3DBox\(\)

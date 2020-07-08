@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: createpolyline
+parent: Script API
+nav_order: 12
+---
 # CreatePolyline\(id, points, transx, transy\)
 
 CreatePolyline\(\)

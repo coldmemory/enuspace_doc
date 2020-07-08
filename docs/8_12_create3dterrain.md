@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: create3dterrain
+parent: Script API
+nav_order: 2
+---
 # Create3DTerrain\(id, size, subdivision, transx, transy, transz\)
 
 Create3DTerrain\(\)

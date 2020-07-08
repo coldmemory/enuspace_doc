@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: getvalue
+parent: Script API
+nav_order: 35
+---
 # GetValue\(variable\)
 
 GetValue\(\)

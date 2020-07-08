@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: registerjavascriptbyid
+parent: Script API
+nav_order: 50
+---
 # RegisterJavaScriptById\(id, function, script\)
 
 RegisterJavaScriptById\(\)

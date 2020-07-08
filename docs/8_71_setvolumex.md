@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: setvolumex
+parent: Script API
+nav_order: 67
+---
 # SetVolumeX\(volume\)
 
 SetVolumeX\(\)

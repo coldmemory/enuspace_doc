@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: createline
+parent: Script API
+nav_order: 8
+---
 # CreateLine\(id, x1, y1, x2, y2, transx, transy\)
 
 CreateLine\(\)

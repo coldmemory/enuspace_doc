@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: setattribute
+parent: Script API
+nav_order: 57
+---
 # SetAttribute\(variable, value\)
 
 SetAttribute\(\)

@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: getmovecanvas
+parent: Script API
+nav_order: 30
+---
 # GetMoveCanvas\(\)
 
 GetMoveCanvas\(\)

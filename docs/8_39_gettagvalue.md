@@ -1,3 +1,9 @@
+---
+layout: defaul
+ttitle: gettagvalue
+parent: Script API
+nav_order: 31
+---
 # GetTagValue\("tagid"\)
 
 GetTagValue\(\)
