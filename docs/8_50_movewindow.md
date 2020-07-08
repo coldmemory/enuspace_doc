@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: movewindow
+title: MoveWindow
 parent: Script API
 nav_order: 50
 ---

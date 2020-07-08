@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: createtext
+title: CreateText
 parent: Script API
 nav_order: 23
 ---

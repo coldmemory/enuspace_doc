@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: create3dlineset
+title: Create3DLineSet
 parent: Script API
 nav_order: 10
 ---

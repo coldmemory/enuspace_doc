@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: settagvalue
+title: SetTagValue
 parent: Script API
 nav_order: 68
 ---

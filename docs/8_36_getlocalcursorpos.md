@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: getlocalcursorpos
+title: GetLocalCursorPos
 parent: Script API
 nav_order: 36
 ---

@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: createglobalvariable
+title: CreateGlobalVariable
 parent: Script API
 nav_order: 16
 ---

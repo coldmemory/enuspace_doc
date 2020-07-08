@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: closewindow
+title: CloseWindow
 parent: Script API
 nav_order: 4
 ---

@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: setvolumex
+title: SetVolumeX
 parent: Script API
 nav_order: 71
 ---

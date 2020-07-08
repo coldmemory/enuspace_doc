@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: createcircle
+title: CreateCircle
 parent: Script API
 nav_order: 14
 ---

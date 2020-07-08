@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: getworldcursorpos
+title: GetWorldCursorPos
 parent: Script API
 nav_order: 45
 ---

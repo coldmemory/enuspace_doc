@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: isexistglobalvariable
+title: IsExistGlobalVariable
 parent: Script API
 nav_order: 47
 ---

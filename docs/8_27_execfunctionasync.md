@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: execfunctionasync
+title: ExecFunctionAsync
 parent: Script API
 nav_order: 27
 ---

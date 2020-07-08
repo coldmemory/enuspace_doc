@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: createellipse
+title: CreateEllipse
 parent: Script API
 nav_order: 15
 ---

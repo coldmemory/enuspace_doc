@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: gettagvalue
+title: GetTagValue
 parent: Script API
 nav_order: 39
 ---

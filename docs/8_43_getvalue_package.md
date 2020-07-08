@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: getvalue
+title: GetValuePackage
 parent: Script API
 nav_order: 43
 ---

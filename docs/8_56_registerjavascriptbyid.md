@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: registerjavascriptbyid
+title: RegisterJavaScriptById
 parent: Script API
 nav_order: 56
 ---

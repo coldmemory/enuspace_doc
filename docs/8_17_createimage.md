@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: createimage
+title: CreateImage
 parent: Script API
 nav_order: 17
 ---

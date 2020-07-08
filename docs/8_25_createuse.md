@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: createuse
+title: CreateUse
 parent: Script API
 nav_order: 25
 ---

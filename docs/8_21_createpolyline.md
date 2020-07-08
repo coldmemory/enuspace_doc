@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: createpolyline
+title: CreatePolyline
 parent: Script API
 nav_order: 21
 ---

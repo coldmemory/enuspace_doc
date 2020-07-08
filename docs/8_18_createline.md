@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: createline
+title: CreateLine
 parent: Script API
 nav_order: 18
 ---

@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: create3dcone
+title: Create3DCone
 parent: Script API
 nav_order: 6
 ---

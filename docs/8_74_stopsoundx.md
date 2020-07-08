@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: stopsoundx
+title: StopSoundX
 parent: Script API
 nav_order: 74
 ---

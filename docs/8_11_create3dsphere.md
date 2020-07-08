@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: create3dsphere
+title: Create3DSphere
 parent: Script API
 nav_order: 11
 ---

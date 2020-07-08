@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: create3dbox
+title: Create3DBox
 parent: Script API
 nav_order: 5
 ---

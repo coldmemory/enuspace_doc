@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: setvalue
+title: SetValue
 parent: Script API
 nav_order: 70
 ---

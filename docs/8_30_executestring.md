@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: executestring
+title: ExecuteString
 parent: Script API
 nav_order: 30
 ---

@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: getmousewheeldelta
+title: GetMouseWheelDelta
 parent: Script API
 nav_order: 37
 ---

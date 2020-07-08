@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: setattribute3d
+title: SetAttribute3D
 parent: Script API
 nav_order: 63
 ---

@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: changepicture
+title: ChangePicture
 parent: Script API
 nav_order: 3
 ---

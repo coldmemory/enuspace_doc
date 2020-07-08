@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: createpolygon
+title: CreatePolygon
 parent: Script API
 nav_order: 20
 ---

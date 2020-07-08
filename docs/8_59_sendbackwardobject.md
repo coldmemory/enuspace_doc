@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: sendbackwardobject
+title: SendBackwardObject
 parent: Script API
 nav_order: 59
 ---

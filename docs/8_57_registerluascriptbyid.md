@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: registerluascriptbyid
+title: RegisterLuaScriptById
 parent: Script API
 nav_order: 57
 ---

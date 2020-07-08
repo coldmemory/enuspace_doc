@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: setreshapearrayvalue
+title: SetReShapeArrayValue
 parent: Script API
 nav_order: 65
 ---

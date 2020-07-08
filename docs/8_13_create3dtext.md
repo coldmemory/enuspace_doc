@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: create3dtext
+title: Create3DText
 parent: Script API
 nav_order: 13
 ---

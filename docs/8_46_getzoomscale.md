@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: getzoomscale
+title: GetZoomScale
 parent: Script API
 nav_order: 46
 ---

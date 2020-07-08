@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: getmovecanvas
+title: GetMoveCanvas
 parent: Script API
 nav_order: 38
 ---

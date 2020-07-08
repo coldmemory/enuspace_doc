@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: createrect
+title: CreateRect
 parent: Script API
 nav_order: 22
 ---

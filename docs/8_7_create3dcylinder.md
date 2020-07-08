@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: create3dcylinder
+title: Create3DCylinder
 parent: Script API
 nav_order: 7
 ---

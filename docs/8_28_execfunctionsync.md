@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: execfunctionsync
+title: ExecFunctionSync
 parent: Script API
 nav_order: 28
 ---

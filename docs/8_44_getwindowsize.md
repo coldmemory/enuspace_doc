@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: getwindowsize
+title: GetWindowSize
 parent: Script API
 nav_order: 44
 ---

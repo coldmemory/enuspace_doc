@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: executeprogram
+title: ExecuteProgram
 parent: Script API
 nav_order: 29
 ---

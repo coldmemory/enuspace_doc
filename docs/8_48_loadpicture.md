@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: loadpicture
+title: LoadPicture
 parent: Script API
 nav_order: 48
 ---

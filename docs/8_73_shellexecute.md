@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: shellexecute
+title: ShellExecute
 parent: Script API
 nav_order: 73
 ---

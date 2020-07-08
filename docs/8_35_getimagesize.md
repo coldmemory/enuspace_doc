@@ -1,6 +1,6 @@
 ---
 layout: defaul
-title: getimagesize
+title: GetImageSize
 parent: Script API
 nav_order: 35
 ---
