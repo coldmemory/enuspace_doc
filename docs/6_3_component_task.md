@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Component Task(jupiter ver.3)

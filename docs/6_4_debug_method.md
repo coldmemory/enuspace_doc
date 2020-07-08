@@ -2,7 +2,7 @@
 layout: default
 title: Debug 방법
 parent: External Task
-nav_order: 1
+nav_order: 4
 ---
 
 # External Task Debug 방법
