@@ -2,7 +2,7 @@
 layout: defaul
 title: settaskoperationmode
 parent: Script API
-nav_order: 64
+nav_order: 69
 ---
 # SetTaskOperationMode\(mode\)
 

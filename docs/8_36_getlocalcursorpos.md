@@ -2,7 +2,7 @@
 layout: defaul
 title: getlocalcursorpos
 parent: Script API
-nav_order: 28
+nav_order: 36
 ---
 # GetLocalCursorPos\(\)
 

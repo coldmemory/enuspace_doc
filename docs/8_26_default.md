@@ -2,7 +2,7 @@
 layout: defaul
 title: default
 parent: Script API
-nav_order: 17
+nav_order: 26
 ---
 # GetValue\(\)
 

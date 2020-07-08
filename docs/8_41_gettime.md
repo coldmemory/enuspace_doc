@@ -2,7 +2,7 @@
 layout: defaul
 title: gettime
 parent: Script API
-nav_order: 34
+nav_order: 41
 ---
 #### GetTime\(\)
 

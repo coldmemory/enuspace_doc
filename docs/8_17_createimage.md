@@ -2,7 +2,7 @@
 layout: defaul
 title: createimage
 parent: Script API
-nav_order: 7
+nav_order: 17
 ---
 # CreateImage\(id, x, y, width, height, href, transx, transy\)
 

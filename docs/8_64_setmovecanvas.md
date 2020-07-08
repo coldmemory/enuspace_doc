@@ -2,7 +2,7 @@
 layout: defaul
 title: setmovecanvas
 parent: Script API
-nav_order: 59
+nav_order: 64
 ---
 # SetMoveCanvas\(window, transx, transy\)
 

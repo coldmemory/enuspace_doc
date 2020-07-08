@@ -2,7 +2,7 @@
 layout: defaul
 title: setreshapearrayvalue
 parent: Script API
-nav_order: 60
+nav_order: 65
 ---
 # SetReShapeArrayValue\(pinid, type, dimension, value\)
 

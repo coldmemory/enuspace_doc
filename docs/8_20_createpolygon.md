@@ -2,7 +2,7 @@
 layout: defaul
 title: createpolygon
 parent: Script API
-nav_order: 11
+nav_order: 20
 ---
 # CreatePolygon\(id, points, transx, transy\)
 

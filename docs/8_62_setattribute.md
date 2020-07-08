@@ -2,7 +2,7 @@
 layout: defaul
 title: setattribute
 parent: Script API
-nav_order: 57
+nav_order: 62
 ---
 # SetAttribute\(variable, value\)
 

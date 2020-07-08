@@ -2,7 +2,7 @@
 layout: defaul
 title: createpolyline
 parent: Script API
-nav_order: 12
+nav_order: 21
 ---
 # CreatePolyline\(id, points, transx, transy\)
 

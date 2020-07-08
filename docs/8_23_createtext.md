@@ -2,7 +2,7 @@
 layout: defaul
 title: createtext
 parent: Script API
-nav_order: 14
+nav_order: 23
 ---
 # CreateText\(id, x, y, dx, dy, text, transx, transy\)
 

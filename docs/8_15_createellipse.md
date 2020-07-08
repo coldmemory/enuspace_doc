@@ -2,7 +2,7 @@
 layout: defaul
 title: createellipse
 parent: Script API
-nav_order: 5
+nav_order: 15
 ---
 # CreateEllipse\(id, rx, ry, cx, cy, transx, transy\)
 

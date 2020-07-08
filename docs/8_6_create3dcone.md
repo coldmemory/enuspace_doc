@@ -2,7 +2,7 @@
 layout: defaul
 title: create3dcone
 parent: Script API
-nav_order: 65
+nav_order: 6
 ---
 # Create3DCone\(id, bottomRadius, height, slices, transx, transy, transz\)
 

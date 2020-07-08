@@ -2,7 +2,7 @@
 layout: defaul
 title: create3dbox
 parent: Script API
-nav_order: 54
+nav_order: 5
 ---
 # Create3DBox\(id, size, transx, transy, transz\)
 

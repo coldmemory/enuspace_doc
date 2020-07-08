@@ -2,7 +2,7 @@
 layout: defaul
 title: setzoomscale
 parent: Script API
-nav_order: 68
+nav_order: 72
 ---
 # SetZoomScale\(scale\)
 

@@ -2,7 +2,7 @@
 layout: defaul
 title: bringforwardobject
 parent: Script API
-nav_order: 10
+nav_order: 1
 ---
 # BringForwardObject\(objects\)
 

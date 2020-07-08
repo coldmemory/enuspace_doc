@@ -2,7 +2,7 @@
 layout: defaul
 title: create3dfaceset
 parent: Script API
-nav_order: 72
+nav_order: 8
 ---
 # Create3DFaceSet\(id, points, coordIndex, transx, transy, transz\)
 

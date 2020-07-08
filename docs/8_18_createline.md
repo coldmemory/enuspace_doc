@@ -2,7 +2,7 @@
 layout: defaul
 title: createline
 parent: Script API
-nav_order: 8
+nav_order: 18
 ---
 # CreateLine\(id, x1, y1, x2, y2, transx, transy\)
 

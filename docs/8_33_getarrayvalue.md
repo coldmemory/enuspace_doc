@@ -2,7 +2,7 @@
 layout: defaul
 title: getarrayvalue
 parent: Script API
-nav_order: 25
+nav_order: 33
 ---
 # GetArrayValue\(variable\)
 

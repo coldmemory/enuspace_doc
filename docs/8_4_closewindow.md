@@ -2,7 +2,7 @@
 layout: defaul
 title: closewindow
 parent: Script API
-nav_order: 43
+nav_order: 4
 ---
 # CloseWindow\(window\)
 

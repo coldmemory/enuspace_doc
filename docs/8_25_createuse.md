@@ -2,7 +2,7 @@
 layout: defaul
 title: createuse
 parent: Script API
-nav_order: 16
+nav_order: 25
 ---
 # CreateUse\(id, x, y, href, type, transx, transy\)
 

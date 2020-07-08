@@ -2,7 +2,7 @@
 layout: defaul
 title: getdatetimestring
 parent: Script API
-nav_order: 26
+nav_order: 34
 ---
 # GetDateTimeString\(timetype\)
 

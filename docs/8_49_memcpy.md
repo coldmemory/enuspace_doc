@@ -2,7 +2,7 @@
 layout: defaul
 title: memcpy
 parent: Script API
-nav_order: 42
+nav_order: 49
 ---
 # memcpy\(target, source, size\)
 

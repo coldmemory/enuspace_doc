@@ -2,7 +2,7 @@
 layout: defaul
 title: createpath
 parent: Script API
-nav_order: 9
+nav_order: 19
 ---
 # CreatePath\(id, points, transx, transy\)
 

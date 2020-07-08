@@ -2,7 +2,7 @@
 layout: defaul
 title: createtrend
 parent: Script API
-nav_order: 15
+nav_order: 24
 ---
 # CreateTrend\(id, x, y, width, height, transx, trnasy\)
 

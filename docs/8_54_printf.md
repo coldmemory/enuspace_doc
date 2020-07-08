@@ -2,7 +2,7 @@
 layout: defaul
 title: printf
 parent: Script API
-nav_order: 48
+nav_order: 54
 ---
 # printf\(message\)
 

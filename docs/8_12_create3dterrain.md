@@ -2,7 +2,7 @@
 layout: defaul
 title: create3dterrain
 parent: Script API
-nav_order: 2
+nav_order: 12
 ---
 # Create3DTerrain\(id, size, subdivision, transx, transy, transz\)
 

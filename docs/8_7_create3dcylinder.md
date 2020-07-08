@@ -2,7 +2,7 @@
 layout: defaul
 title: create3dcylinder
 parent: Script API
-nav_order: 71
+nav_order: 7
 ---
 # Create3DCylinder\(id, height, radius, slices, transx, transy, transz\)
 

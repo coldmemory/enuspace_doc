@@ -2,7 +2,7 @@
 layout: defaul
 title: execfunctionsync
 parent: Script API
-nav_order: 19
+nav_order: 28
 ---
 # ExecFunctionSync\(\)
 

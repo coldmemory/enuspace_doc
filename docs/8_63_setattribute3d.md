@@ -2,7 +2,7 @@
 layout: defaul
 title: setattribute3d
 parent: Script API
-nav_order: 58
+nav_order: 63
 ---
 # SetAttribute3D\(\)
 

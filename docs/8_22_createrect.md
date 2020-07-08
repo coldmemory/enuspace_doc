@@ -2,7 +2,7 @@
 layout: defaul
 title: createrect
 parent: Script API
-nav_order: 13
+nav_order: 22
 ---
 # CreateRect\(id, x, y, width, height, transx, transy\)
 

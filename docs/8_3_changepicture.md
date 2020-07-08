@@ -2,7 +2,7 @@
 layout: defaul
 title: changepicture
 parent: Script API
-nav_order: 32
+nav_order: 3
 ---
 # ChangePicture\(window, picture\)
 

@@ -2,7 +2,7 @@
 layout: defaul
 title: getvalue
 parent: Script API
-nav_order: 36
+nav_order: 43
 ---
 # GetValuePackage\(variable\)
 

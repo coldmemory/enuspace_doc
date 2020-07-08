@@ -2,7 +2,7 @@
 layout: defaul
 title: gettaskoperationmode
 parent: Script API
-nav_order: 33
+nav_order: 40
 ---
 # GetTaskOperationMode\(\)
 

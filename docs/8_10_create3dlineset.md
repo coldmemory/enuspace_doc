@@ -2,7 +2,7 @@
 layout: defaul
 title: create3dlineset
 parent: Script API
-nav_order: 0
+nav_order: 10
 ---
 # Create3DLineSet\(id, points, transx, transy, transz\)
 

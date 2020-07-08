@@ -2,7 +2,7 @@
 layout: defaul
 title: create3dsphere
 parent: Script API
-nav_order: 1
+nav_order: 11
 ---
 # Create3DSphere\(id, radius, slices, transx, transy, transz\)
 

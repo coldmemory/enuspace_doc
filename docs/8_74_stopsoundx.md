@@ -2,7 +2,7 @@
 layout: defaul
 title: stopsoundx
 parent: Script API
-nav_order: 70
+nav_order: 74
 ---
 # StopSoundX\(wave\)
 

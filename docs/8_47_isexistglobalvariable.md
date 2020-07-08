@@ -2,7 +2,7 @@
 layout: defaul
 title: isexistglobalvariable
 parent: Script API
-nav_order: 40
+nav_order: 47
 ---
 # IsExistGlobalVariable\(variable\)
 

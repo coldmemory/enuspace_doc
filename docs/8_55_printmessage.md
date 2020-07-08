@@ -2,7 +2,7 @@
 layout: defaul
 title: printmessage
 parent: Script API
-nav_order: 49
+nav_order: 55
 ---
 # PrintMessage\(message\)
 
