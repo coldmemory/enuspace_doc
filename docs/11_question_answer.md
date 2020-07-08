@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 자주하는 질문(Q/A)
-nav_order: 
+nav_order: B
 has_children: False
 ---
 
