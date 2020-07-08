@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: removepicture
+title: removepicture
 parent: Script API
 nav_order: 52
 ---

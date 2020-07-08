@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: memcpy
+title: memcpy
 parent: Script API
 nav_order: 42
 ---

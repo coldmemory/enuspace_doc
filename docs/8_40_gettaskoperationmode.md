@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: gettaskoperationmode
+title: gettaskoperationmode
 parent: Script API
 nav_order: 33
 ---

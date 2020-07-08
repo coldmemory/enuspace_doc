@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: createtrend
+title: createtrend
 parent: Script API
 nav_order: 15
 ---

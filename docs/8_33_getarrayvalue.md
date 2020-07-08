@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: getarrayvalue
+title: getarrayvalue
 parent: Script API
 nav_order: 25
 ---

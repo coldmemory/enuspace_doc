@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: setmovecanvas
+title: setmovecanvas
 parent: Script API
 nav_order: 59
 ---

@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: create3dfaceset
+title: create3dfaceset
 parent: Script API
 nav_order: 72
 ---

@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: getwindowsize
+title: getwindowsize
 parent: Script API
 nav_order: 37
 ---

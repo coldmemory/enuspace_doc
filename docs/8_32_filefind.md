@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: filefind
+title: filefind
 parent: Script API
 nav_order: 24
 ---

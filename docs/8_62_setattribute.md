@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: setattribute
+title: setattribute
 parent: Script API
 nav_order: 57
 ---

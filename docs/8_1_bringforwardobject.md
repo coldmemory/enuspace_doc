@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: bringforwardobject
+title: bringforwardobject
 parent: Script API
 nav_order: 10
 ---

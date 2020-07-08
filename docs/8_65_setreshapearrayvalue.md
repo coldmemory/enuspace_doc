@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: setreshapearrayvalue
+title: setreshapearrayvalue
 parent: Script API
 nav_order: 60
 ---

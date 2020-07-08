@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: setstruct
+title: setstruct
 parent: Script API
 nav_order: 62
 ---

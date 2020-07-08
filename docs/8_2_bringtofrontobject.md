@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: bringtofrontobject
+title: bringtofrontobject
 parent: Script API
 nav_order: 21
 ---

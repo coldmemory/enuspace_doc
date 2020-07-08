@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: setscriptoperationmode
+title: setscriptoperationmode
 parent: Script API
 nav_order: 61
 ---

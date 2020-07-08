@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: settaskoperationmode
+title: settaskoperationmode
 parent: Script API
 nav_order: 64
 ---

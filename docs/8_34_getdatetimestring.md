@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: getdatetimestring
+title: getdatetimestring
 parent: Script API
 nav_order: 26
 ---

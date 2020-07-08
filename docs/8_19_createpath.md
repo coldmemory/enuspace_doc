@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: createpath
+title: createpath
 parent: Script API
 nav_order: 9
 ---

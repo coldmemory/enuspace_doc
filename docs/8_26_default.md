@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: default
+title: default
 parent: Script API
 nav_order: 17
 ---

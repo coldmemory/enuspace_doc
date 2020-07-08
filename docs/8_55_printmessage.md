@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: printmessage
+title: printmessage
 parent: Script API
 nav_order: 49
 ---

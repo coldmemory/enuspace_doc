@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: create3dinline
+title: create3dinline
 parent: Script API
 nav_order: 73
 ---

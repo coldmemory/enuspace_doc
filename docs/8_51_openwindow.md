@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: openwindow
+title: openwindow
 parent: Script API
 nav_order: 45
 ---

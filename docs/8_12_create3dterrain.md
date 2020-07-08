@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: create3dterrain
+title: create3dterrain
 parent: Script API
 nav_order: 2
 ---

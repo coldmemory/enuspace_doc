@@ -1,6 +1,6 @@
 ---
 layout: defaul
-ttitle: playsoundx
+title: playsoundx
 parent: Script API
 nav_order: 47
 ---
