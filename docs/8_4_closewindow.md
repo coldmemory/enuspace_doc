@@ -1,5 +1,5 @@
 ---
-layout: defaul
+layout: default
 title: CloseWindow
 parent: Script API
 nav_order: 4
