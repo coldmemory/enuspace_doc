@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: PlaySound
 parent: Script API
 nav_order: 34
 ---
-
 # PlaySound\(wave\)
 
 PlaySound\(\)

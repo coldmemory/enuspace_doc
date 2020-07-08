@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: GetValuePackage
 parent: Script API
 nav_order: 2b
 ---
-
 # GetValuePackage\(variable\)
 
 GetValuePackage\(\)

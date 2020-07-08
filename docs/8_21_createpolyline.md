@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: CreatePolyline
 parent: Script API
 nav_order: 15
 ---
-
 # CreatePolyline\(id, points, transx, transy\)
 
 CreatePolyline\(\)

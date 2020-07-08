@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: SetValue
 parent: Script API
 nav_order: 46
 ---
-
 # SetValue\(variable, value\)
 
 SetValue\(\)

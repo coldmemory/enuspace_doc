@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: GetTime
 parent: Script API
 nav_order: 29
 ---
-
 #### GetTime\(\)
 
 GetTime\(\)

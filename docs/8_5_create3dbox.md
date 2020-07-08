@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: Create3DBox
 parent: Script API
 nav_order: 5
 ---
-
 # Create3DBox\(id, size, transx, transy, transz\)
 
 Create3DBox\(\)

@@ -1,17 +1,11 @@
 ---
-layout: defaul
+layout: default
 title: BringForwardObject
 parent: Script API
 nav_order: 1
 ---
-<<<<<<< HEAD
-
 # BringForwardObject\(objects\)
-=======
->>>>>>> 63608ad381d8b559074f26c41c8d60eb9458cf66
 
-# BringForwardObject\(objects\)
----
 BringForwardObject\(\)
 
 #### Parameters

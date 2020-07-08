@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: SetScriptOperationMode
 parent: Script API
 nav_order: 45
 ---
-
 # SetTaskOperationMode\(mode\)
 
 SetScriptOperationMode\(\)

@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: SetReShapeArrayValue
 parent: Script API
 nav_order: 41
 ---
-
 # SetReShapeArrayValue\(pinid, type, dimension, value\)
 
 SetReShapeArrayValue\(\)

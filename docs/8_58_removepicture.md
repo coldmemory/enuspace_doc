@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: RemovePicture
 parent: Script API
 nav_order: 3a
 ---
-
 # RemovePicture\(picture\)
 
 RemovePicture\(\)

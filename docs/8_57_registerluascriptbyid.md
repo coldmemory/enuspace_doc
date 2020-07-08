@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: RegisterLuaScriptById
 parent: Script API
 nav_order: 39
 ---
-
 # RegisterLuaScriptById\(id, function, script\)
 
 RegisterLuaScriptById\(\)

@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: SetVolumeX
 parent: Script API
 nav_order: 47
 ---
-
 # SetVolumeX\(volume\)
 
 SetVolumeX\(\)

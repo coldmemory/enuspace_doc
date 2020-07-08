@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: OpenWindow
 parent: Script API
 nav_order: 33
 ---
-
 # OpenWindow\(window, posx, posy, href\)
 
 OpenWindow\(\)

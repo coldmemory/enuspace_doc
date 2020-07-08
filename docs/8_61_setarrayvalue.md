@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: SetArrayValue
 parent: Script API
 nav_order: 3d
 ---
-
 # SetArrayValue\(target, source\)
 
 SetArrayValue\(\)

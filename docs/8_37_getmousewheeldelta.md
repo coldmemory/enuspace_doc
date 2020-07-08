@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: GetMouseWheelDelta
 parent: Script API
 nav_order: 25
 ---
-
 # GetMouseWheelDelta\(\)
 
 GetMouseWheelDelta\(\)

@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: FileFind
 parent: Script API
 nav_order: 20
 ---
-
 # FileFind\(filename\)
 
 FileFind\(\)

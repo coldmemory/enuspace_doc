@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: StopSoundX
 parent: Script API
 nav_order: 4a
 ---
-
 # StopSoundX\(wave\)
 
 StopSoundX\(\)

@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: MoveWindow
 parent: Script API
 nav_order: 32
 ---
-
 # MoveWindow\(window, posx, posy\)
 
 MoveWindow\(\)

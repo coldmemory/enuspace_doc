@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: ExecuteString
 parent: Script API
 nav_order: 1e
 ---
-
 # ExecuteString\(string, parent\)
 
 ExecuteString\(\)

@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: SetAttribute3D
 parent: Script API
 nav_order: 3f
 ---
-
 # SetAttribute3D\(\)
 
 SetAttribute3D\(\)

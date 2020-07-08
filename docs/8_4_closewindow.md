@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: CloseWindow
 parent: Script API
 nav_order: 4
 ---
-
 # CloseWindow\(window\)
 
 CloseWindow\(\)

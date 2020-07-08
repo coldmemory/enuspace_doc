@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: CreateTrend
 parent: Script API
 nav_order: 18
 ---
-
 # CreateTrend\(id, x, y, width, height, transx, trnasy\)
 
 CreateTrend\(\)

@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: CreatePolygon
 parent: Script API
 nav_order: 14
 ---
-
 # CreatePolygon\(id, points, transx, transy\)
 
 CreatePolygon\(\)

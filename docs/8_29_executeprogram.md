@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: ExecuteProgram
 parent: Script API
 nav_order: 1d
 ---
-
 # ExecuteProgram\(program, param\)
 
 ExecuteProgram\(\)

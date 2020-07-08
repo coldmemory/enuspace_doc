@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: CreateText
 parent: Script API
 nav_order: 17
 ---
-
 # CreateText\(id, x, y, dx, dy, text, transx, transy\)
 
 CreateText\(\)

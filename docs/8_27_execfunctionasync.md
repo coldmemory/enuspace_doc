@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: ExecFunctionAsync
 parent: Script API
 nav_order: 1b
 ---
-
 # ExecFunctionAsync\(\)
 
 ExecFunctionAsync\(\)

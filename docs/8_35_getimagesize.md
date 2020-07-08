@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: GetImageSize
 parent: Script API
 nav_order: 23
 ---
-
 # GetImageSize\(\)
 
 GetImageSize\(\)

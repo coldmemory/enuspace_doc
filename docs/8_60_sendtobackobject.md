@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: SendToBackObject
 parent: Script API
 nav_order: 3c
 ---
-
 # SendToBackObject\(objects\)
 
 SendToBackObject\(\)

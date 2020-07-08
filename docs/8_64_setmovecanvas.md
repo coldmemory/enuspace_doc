@@ -1,10 +1,9 @@
 ---
-layout: defaul
+layout: default
 title: SetMoveCanvas
 parent: Script API
 nav_order: 40
 ---
-
 # SetMoveCanvas\(window, transx, transy\)
 
 SetMoveCanvas\(\)
