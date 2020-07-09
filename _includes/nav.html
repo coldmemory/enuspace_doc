@@ -2,7 +2,7 @@
   {%- assign ordered_pages_list = site.html_pages | where_exp:"item", "item.nav_order != nil" -%}
   {%- assign unordered_pages_list = site.html_pages | where_exp:"item", "item.nav_order == nil" -%}
   {%- if site.nav_sort == 'case_insensitive' -%}
-    {%- assign sorted_ordered_pages_list = ordered_pages_list | sort_desc:"nav_order" -%}
+    {%- assign sorted_ordered_pages_list = ordered_pages_list | sort_regular:"nav_order" -%}
     {%- assign sorted_unordered_pages_list = unordered_pages_list | sort_natural:"title" -%}
   {%- else -%}
     {%- assign sorted_ordered_pages_list = ordered_pages_list | sort:"nav_order" -%}
