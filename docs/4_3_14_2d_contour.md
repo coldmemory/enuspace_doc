@@ -3,7 +3,6 @@ layout: default
 title: contour
 parent: 기초객체(2D)
 grand_parent: enuSpace Tutorial
-nav_order: 14
 ---
 
 Revision 2019.12.09 - enuSpace for saturn \(v4.0\)

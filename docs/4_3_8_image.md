@@ -3,7 +3,6 @@ layout: default
 title: image
 parent: 기초객체(2D)
 grand_parent: enuSpace Tutorial
-nav_order: 8
 ---
 
 # image
