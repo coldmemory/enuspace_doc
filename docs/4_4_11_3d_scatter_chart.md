@@ -1,6 +1,6 @@
 ---
 layout: default
-title: contour
+title: 3d scatter chart
 parent: 기초객체(3D)
 grand_parent: enuSpace Tutorial
 ---
