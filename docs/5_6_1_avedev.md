@@ -24,7 +24,7 @@ Ensor\* pRetEnsor : 엘리먼트의 갯수가 1인 Ensor\*를 반환합니다.
 
 데이터포인트에서 데이터포인트들의 평균을 뺀 값을 절대값을 취하여 더하고 데이터 포인트의 수로 나눈값을 반환합니다.
 
-![](/docs/StatisitcAPI/AveDevFunc.png)
+![](enuspace_doc/docss/StatisitcAPI/AveDevFunc.png)
 
 #### Examples
 
@@ -38,5 +38,5 @@ function MathEquation()
 
 #### Result
 
-![](/StatisticsAPI/AveDevResultTable.png)
+![](enuspace_doc/docs/StatisticsAPI/AveDevResultTable.png)
 
