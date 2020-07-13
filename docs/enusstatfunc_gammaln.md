@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gamma
+title: Gammaln
 parent: Statistics functions
 grand_parent: Math & Statistics
 ---
