@@ -41,7 +41,8 @@ Project Explorer-&gt;Library-&gt;Logic 아이템을 선택후 마우스 오른�
 
 추가된 ADD 라이브러리를 선택하고 디자인을 수행합니다. 간단하게 사각형 객체와 Path 객체를 추가후
 
-Ribbon Menu-&gt;Home-&gt;Connection Pin을 선택후 Graphic 윈도우에 마우스를 클릭하여 Connection Pin 객체를 생성합니다. 두개의 입력과 하나의 출력 핀을 생성하여 배치를 수행합니다.![](./assets/logic-library/6 newproject3.png)
+Ribbon Menu-&gt;Home-&gt;Connection Pin을 선택후 Graphic 윈도우에 마우스를 클릭하여 Connection Pin 객체를 생성합니다. 두개의 입력과 하나의 출력 핀을 생성하여 배치를 수행합니다.
+![](./assets/logic-library/6 newproject3.png)
 
 배치를 모두 마치고나면, 각 핀의 이름을 설정합니다. 설정된 입력핀은 스크립트에서 사용되는 변수명으로 사용됩니다.
 
