@@ -3,6 +3,7 @@ layout: default
 title: 기초객체(3D)
 parent: enuSpace Tutorial
 has_children: true
+nav_order: d
 ---
 
 # 3D Primitive Object - 기초 객체

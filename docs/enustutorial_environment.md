@@ -2,6 +2,7 @@
 layout: default
 title: 개발환경 및 구조
 parent: enuSpace Tutorial
+nav_order: a
 ---
 
 Revision 2019.02.22 - enuSpace for saturn\(ver4.0\)

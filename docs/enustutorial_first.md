@@ -2,6 +2,7 @@
 layout: default
 title: 프로젝트 처음으로 만들기
 parent: enuSpace Tutorial
+nav_order: b
 ---
 
 Revision 2019.02.21 - enuSpace for saturn \(v4.0\)
