@@ -35,5 +35,5 @@ function MathEquation()
 
 #### Result
 
-![](/MathAPI/AcoshResult.png)
+![](./MathAPI/AcoshResult.png)
 
