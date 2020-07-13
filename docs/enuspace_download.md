@@ -1,6 +1,7 @@
 ---
 layout: default
 title: enuSpace Download
+nav_order: b
 ---
 
 # Release Note

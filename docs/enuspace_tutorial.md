@@ -2,6 +2,7 @@
 layout: default
 title: enuSpace Tutorial
 has_children: true
+nav_order: d
 ---
 
 # **enuSpace for mars - Tutorial Guide**

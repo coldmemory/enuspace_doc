@@ -2,6 +2,7 @@
 layout: default
 title: Math & Statistics
 has_children: true
+nav_order: g
 ---
 
 ## enuSpace
