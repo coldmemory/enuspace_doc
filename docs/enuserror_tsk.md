@@ -1,8 +1,7 @@
 ---
 layout: default
 title: TSK
-parent: Error List
-grand_parent : enuSpace Error Code
+parent: enuSpace Error Code
 nav_order: f
 ---
 # TSK - ERROR CODE

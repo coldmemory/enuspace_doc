@@ -1,8 +1,7 @@
 ---
 layout: default
 title: DSO
-parent: Error List
-grand_parent : enuSpace Error Code
+parent: enuSpace Error Code
 nav_order: 5
 ---
 # DSO - ERROR CODE
