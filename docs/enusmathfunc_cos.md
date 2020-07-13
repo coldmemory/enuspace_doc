@@ -3,7 +3,6 @@ layout: default
 title: Cos
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 13
 ---
 
 # Cos

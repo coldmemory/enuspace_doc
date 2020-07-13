@@ -2,7 +2,6 @@
 layout: default
 title: enuSetCallBackSelectEvent
 parent: Application API
-nav_order: f6
 ---
 # void enuSetCallBackSelectEvent\(void fcbSelectObject\(CPtrList\*, void\*\)\)
 

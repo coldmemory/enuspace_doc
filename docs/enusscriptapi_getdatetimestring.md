@@ -2,7 +2,6 @@
 layout: default
 title: GetDateTimeString
 parent: Script API
-nav_order: 22
 ---
 # GetDateTimeString\(timetype\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: GetScriptOperationMode
 parent: Script API
-nav_order: 28
 ---
 # GetTaskOperationMode\(\)
 

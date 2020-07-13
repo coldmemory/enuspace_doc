@@ -2,7 +2,6 @@
 layout: default
 title: enuCreateUseAsync
 parent: Application API
-nav_order: 38
 ---
 # void enuCreateUseAsync\(HSVG pSvgHandler, wchar\_t\* strID, float x, float y, wchar\_t\* xlink\_href, wchar\_t\* strType, float transx, float transy\)
 

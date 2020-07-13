@@ -2,7 +2,6 @@
 layout: default
 title: enuGetSvgHandler
 parent: Application API
-nav_order: 96
 ---
 # HSVG enuGetSvgHandler\(HVIEW pENUView\)
 

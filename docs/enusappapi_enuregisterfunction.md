@@ -2,7 +2,6 @@
 layout: default
 title: enuRegisterFunction
 parent: Application API
-nav_order: d3
 ---
 # bool enuRegisterFunction\(wchar\_t\* strFunction, int \(\*pfunc\)\(lua\_State\* L\)\)
 

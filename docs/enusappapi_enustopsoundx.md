@@ -2,7 +2,6 @@
 layout: default
 title: enuStopSoundX
 parent: Application API
-nav_order: 16a
 ---
 # void enuStopSoundX\(wchar\_t\* wavfilename\)
 

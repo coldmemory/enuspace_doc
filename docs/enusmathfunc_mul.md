@@ -3,7 +3,6 @@ layout: default
 title: Mul
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 36
 ---
 
 # Mul

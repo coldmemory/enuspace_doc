@@ -3,7 +3,6 @@ layout: default
 title: PercenRank
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 61
 ---
 
 # PercenRank

@@ -3,7 +3,6 @@ layout: default
 title: getpicturevalue
 parent: RESTful API
 grand_parent: enuSpace Tutorial
-nav_order: 7
 ---
 
 # **RESTful API - getpicturevalue**

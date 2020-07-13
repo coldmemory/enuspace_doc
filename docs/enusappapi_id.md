@@ -2,7 +2,6 @@
 layout: default
 title: enuSetUseAttribute_interface_id
 parent: Application API
-nav_order: 156
 ---
 # void enuSetUseAttribute\_interface\_id\(HSVG pSvgHandler, HNODE pNode, wchar\_t\* strValue\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuCreateCircleAsync
 parent: Application API
-nav_order: 1f
 ---
 # void enuCreateCircleAsync\(HSVG pSvgHandler, wchar\_t\* strID, float r, float cx, float cy, float transx, float transy\)
 

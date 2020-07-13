@@ -2,7 +2,6 @@
 layout: default
 title: enuSetModifyProject
 parent: Application API
-nav_order: 118
 ---
 # void enuSetModifyProject\(bool bFlag\)
 

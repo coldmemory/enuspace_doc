@@ -3,7 +3,6 @@ layout: default
 title: GammaInv
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 32
 ---
 
 # GammaInv

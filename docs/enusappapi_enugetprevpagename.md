@@ -2,7 +2,6 @@
 layout: default
 title: enuGetPrevPageName
 parent: Application API
-nav_order: 8c
 ---
 # wchar\_t\* enuGetPrevPageName\(wchar\_t\* pStrFileName\)
 

@@ -3,7 +3,6 @@ layout: default
 title: MinIf
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 52
 ---
 
 # MinIf

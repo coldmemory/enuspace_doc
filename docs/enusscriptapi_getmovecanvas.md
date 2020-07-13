@@ -2,7 +2,6 @@
 layout: default
 title: GetMoveCanvas
 parent: Script API
-nav_order: 26
 ---
 # GetMoveCanvas\(\)
 

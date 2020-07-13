@@ -2,7 +2,6 @@
 layout: default
 title: enuSetWindowColor
 parent: Application API
-nav_order: 160
 ---
 # void enuSetWindowColor\(HVIEW pENUView, byte iR, byte iG, byte iB\)
 

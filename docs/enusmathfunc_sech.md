@@ -3,7 +3,6 @@ layout: default
 title: Sech
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 44
 ---
 
 # Sech

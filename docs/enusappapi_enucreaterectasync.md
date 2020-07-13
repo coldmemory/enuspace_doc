@@ -2,7 +2,6 @@
 layout: default
 title: enuCreateRectAsync
 parent: Application API
-nav_order: 31
 ---
 # void enuCreateRectAsync\(HSVG pSvgHandler, wchar\_t\* strID, float x, float y, float width, float height, float transx, float transy\)
 

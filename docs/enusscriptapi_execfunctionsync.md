@@ -2,7 +2,6 @@
 layout: default
 title: ExecFunctionSync
 parent: Script API
-nav_order: 1c
 ---
 # ExecFunctionSync\(\)
 

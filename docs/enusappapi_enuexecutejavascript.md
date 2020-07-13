@@ -2,7 +2,6 @@
 layout: default
 title: enuExecuteJavaScript
 parent: Application API
-nav_order: 5a
 ---
 # wchar\_t\* enuExecuteJavaScript\(wchar\_t\* pStrExecute\)
 

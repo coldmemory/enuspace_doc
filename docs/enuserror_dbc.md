@@ -2,7 +2,6 @@
 layout: default
 title: DBC
 parent: enuSpace Error Code
-nav_order: 1
 ---
 
 # DBC - ERROR CODE {#dsh---error-code}

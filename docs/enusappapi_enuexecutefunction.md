@@ -2,7 +2,6 @@
 layout: default
 title: enuExecuteFunction
 parent: Application API
-nav_order: 58
 ---
 # void enuExecuteFunction\(HSVG pSvgHandler, wchar\_t\* strFunction\)
 

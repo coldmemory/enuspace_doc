@@ -2,7 +2,6 @@
 layout: default
 title: enuSet3DLuaScriptByNode
 parent: Application API
-nav_order: ea
 ---
 # void enuSet3DLuaScriptByNode\(HX3D pX3D, HNODE pNode, wchar\_t\* strFunction, wchar\_t\* strScript\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuSetDefaultWheelControl
 parent: Application API
-nav_order: fe
 ---
 # void enuSetDefaultWheelControl\(HVIEW pENUView, bool bDefault\)
 

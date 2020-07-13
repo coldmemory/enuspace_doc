@@ -2,7 +2,6 @@
 layout: default
 title: enuSetCanvasSize
 parent: Application API
-nav_order: fa
 ---
 # void enuSetCanvasSize\(HVIEW pENUView, float cx, float cy\)
 

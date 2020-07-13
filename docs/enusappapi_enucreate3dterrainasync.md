@@ -2,7 +2,6 @@
 layout: default
 title: enuCreate3DTerrainAsync
 parent: Application API
-nav_order: 1a
 ---
 # void enuCreate3DTerrainAsync\(HX3D pX3DHandler, wchar\_t\* strID, float size, float subdivision, float transx, float transy, float transz\)
 

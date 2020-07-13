@@ -3,7 +3,6 @@ layout: default
 title: 차트 시리즈 설정
 parent: 저작기 사용방법
 grand_parent: enuSpace Tutorial
-nav_order: 2
 ---
 
 Revision 2019.02.21 - enuSpace for saturn \(v4.0\)

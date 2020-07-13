@@ -2,7 +2,6 @@
 layout: default
 title: IsExistGlobalVariable
 parent: Script API
-nav_order: 2f
 ---
 # IsExistGlobalVariable\(variable\)
 

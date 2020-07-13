@@ -2,7 +2,6 @@
 layout: default
 title: enuInvalidateView
 parent: Application API
-nav_order: a4
 ---
 # void enuInvalidateView\(HVIEW pENUView\)
 

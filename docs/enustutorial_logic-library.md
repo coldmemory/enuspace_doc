@@ -2,7 +2,6 @@
 layout: default
 title: LOGIC 라이브러리 만들기
 parent: enuSpace Tutorial
-nav_order: 6
 has_children: true
 ---
 

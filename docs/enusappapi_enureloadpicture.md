@@ -2,7 +2,6 @@
 layout: default
 title: enuReloadPicture
 parent: Application API
-nav_order: da
 ---
 # void enuReloadPicture\(HVIEW pENUView\)
 

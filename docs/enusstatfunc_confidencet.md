@@ -3,7 +3,6 @@ layout: default
 title: ConfidenceT
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 15
 ---
 
 # ConfidenceT

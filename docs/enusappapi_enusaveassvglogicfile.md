@@ -2,7 +2,6 @@
 layout: default
 title: enuSaveAsSvgLogicFile
 parent: Application API
-nav_order: df
 ---
 # bool enuSaveAsSvgLogicFile\(wchar\_t\* strTaget, wchar\_t\* strSource\)
 

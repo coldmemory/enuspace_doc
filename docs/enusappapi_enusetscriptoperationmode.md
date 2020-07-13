@@ -2,7 +2,6 @@
 layout: default
 title: enuSetScriptOperationMode
 parent: Application API
-nav_order: 12a
 ---
 # void enuSetScriptOperationMode\(bool bFlag\)
 

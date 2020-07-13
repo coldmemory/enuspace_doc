@@ -2,7 +2,6 @@
 layout: default
 title: enuSetLButtonDblClkCallBack
 parent: Application API
-nav_order: 110
 ---
 # void enuSetLButtonDblClkCallBack\(HVIEW pENUView, void functioncb\(float, float\) \)
 

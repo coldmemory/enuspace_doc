@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectLinecolor
 parent: Application API
-nav_order: 140
 ---
 # void enuSetSelectLinecolor\(HVIEW pENUView, wchar\_t\* strColor\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuGetAppearanceFromShape
 parent: Application API
-nav_order: 60
 ---
 # HNODE enuGetAppearanceFromShape\(HX3D pX3DHandler, HNODE node\)
 

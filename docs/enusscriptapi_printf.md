@@ -2,7 +2,6 @@
 layout: default
 title: printf
 parent: Script API
-nav_order: 36
 ---
 # printf\(message\)
 

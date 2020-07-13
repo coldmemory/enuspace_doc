@@ -2,7 +2,6 @@
 layout: default
 title: GetWindowSize
 parent: Script API
-nav_order: 2c
 ---
 # GetWindowSize\(\)
 

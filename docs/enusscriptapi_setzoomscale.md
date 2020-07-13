@@ -2,7 +2,6 @@
 layout: default
 title: SetZoomScale
 parent: Script API
-nav_order: 48
 ---
 # SetZoomScale\(scale\)
 

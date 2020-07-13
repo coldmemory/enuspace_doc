@@ -2,7 +2,6 @@
 layout: default
 title: Create3DFaceSet
 parent: Script API
-nav_order: 8
 ---
 # Create3DFaceSet\(id, points, coordIndex, transx, transy, transz\)
 

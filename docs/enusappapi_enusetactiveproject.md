@@ -2,7 +2,6 @@
 layout: default
 title: enuSetActiveProject
 parent: Application API
-nav_order: eb
 ---
 # bool enuSetActiveProject\(HPROJECT pHANDLE\)
 

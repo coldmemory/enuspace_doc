@@ -2,7 +2,6 @@
 layout: default
 title: enuSetJavaScriptByNode
 parent: Application API
-nav_order: 10f
 ---
 # void enuSetJavaScriptByNode\(HSVG pSvgHandler, HNODE pNode, wchar\_t\* strFunction, wchar\_t\* strScript\)
 

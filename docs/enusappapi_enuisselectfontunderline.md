@@ -2,7 +2,6 @@
 layout: default
 title: enuIsSelectFontUnderline
 parent: Application API
-nav_order: b1
 ---
 # bool enuIsSelectFontUnderline\(HVIEW pENUView\)
 

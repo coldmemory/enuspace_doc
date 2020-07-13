@@ -3,7 +3,6 @@ layout: default
 title: AverageIf
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 3
 ---
 
 # AverageIf

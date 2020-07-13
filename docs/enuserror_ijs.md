@@ -2,7 +2,6 @@
 layout: default
 title: IJS
 parent: enuSpace Error Code
-nav_order: a
 ---
 # IJS - ERROR CODE
 

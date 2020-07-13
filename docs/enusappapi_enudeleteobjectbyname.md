@@ -2,7 +2,6 @@
 layout: default
 title: enuDeleteObjectByName
 parent: Application API
-nav_order: 45
 ---
 # void enuDeleteObjectByName\(HSVG pSvgHandler, wchar\_t\* pStrVariable\)
 

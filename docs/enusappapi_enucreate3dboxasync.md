@@ -2,7 +2,6 @@
 layout: default
 title: enuCreate3DBoxAsync
 parent: Application API
-nav_order: c
 ---
 # void enuCreate3DBoxAsync\(HX3D pX3DHandler, wchar\_t\* strID, float size, float transx, float transy, float transz\)
 

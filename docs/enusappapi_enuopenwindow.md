@@ -2,7 +2,6 @@
 layout: default
 title: enuOpenWindow
 parent: Application API
-nav_order: d0
 ---
 # void enuOpenWindow\(wchar\_t\* strWindow, float posX, float posY, wchar\_t\* strHref\)
 

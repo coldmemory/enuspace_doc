@@ -2,7 +2,6 @@
 layout: default
 title: enuAddTask
 parent: Application API
-nav_order: 5
 ---
 # bool enuAddTask\(wchar\_t\* pStrTaskID, wchar\_t\* pStrTaskModule, wchar\_t\* pStrCycle\)
 

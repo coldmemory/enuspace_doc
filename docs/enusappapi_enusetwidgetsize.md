@@ -2,7 +2,6 @@
 layout: default
 title: enuSetWidgetSize
 parent: Application API
-nav_order: 15e
 ---
 # bool enuSetWidgetSize\(HVIEW pENUView, int x, int y, int width, int height\)
 

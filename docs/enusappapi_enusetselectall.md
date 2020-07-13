@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectAll
 parent: Application API
-nav_order: 12d
 ---
 # void enuSetSelectAll\(HVIEW pENUView\)
 

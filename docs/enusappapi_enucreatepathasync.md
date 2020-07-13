@@ -2,7 +2,6 @@
 layout: default
 title: enuCreatePathAsync
 parent: Application API
-nav_order: 29
 ---
 # void enuCreatePathAsync\(HSVG pSvgHandler, wchar\_t\* strID, wchar\_t\* pStrValue, float transx, float transy\)
 

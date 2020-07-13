@@ -3,7 +3,6 @@ layout: default
 title: Phi
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 62
 ---
 
 # Phi

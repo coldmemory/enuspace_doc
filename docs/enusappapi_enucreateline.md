@@ -2,7 +2,6 @@
 layout: default
 title: enuCreateLine
 parent: Application API
-nav_order: 26
 ---
 # HNODE enuCreateLine\(HSVG pSvgHandler, wchar\_t\* strID, float x1, float y1, float x2, float y2, float transx, float transy\)
 

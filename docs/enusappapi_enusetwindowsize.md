@@ -2,7 +2,6 @@
 layout: default
 title: enuSetWindowSize
 parent: Application API
-nav_order: 162
 ---
 # bool enuSetWindowSize\(wchar\_t\* window, int x, int y, int width, int height\);
 

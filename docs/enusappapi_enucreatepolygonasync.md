@@ -2,7 +2,6 @@
 layout: default
 title: enuCreatePolygonAsync
 parent: Application API
-nav_order: 2b
 ---
 # void enuCreatePolygonAsync\(HSVG pSvgHandler, wchar\_t\* strID, wchar\_t\* strPoints, float transx, float transy\)
 

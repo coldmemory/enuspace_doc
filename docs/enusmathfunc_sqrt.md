@@ -3,7 +3,6 @@ layout: default
 title: Sqrt
 parent: Math functions
 grand_parent: enuSpace Tutorial
-nav_order: 48
 ---
 
 # Sqrt

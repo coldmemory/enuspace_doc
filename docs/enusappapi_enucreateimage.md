@@ -2,7 +2,6 @@
 layout: default
 title: enuCreateImage
 parent: Application API
-nav_order: 22
 ---
 # HNODE enuCreateImage\(HSVG pSvgHandler, wchar\_t\* strID, float x, float y, float width, float height, wchar\_t\* xlink\_href, float transx, float transy\)
 

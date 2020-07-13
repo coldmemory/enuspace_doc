@@ -3,7 +3,6 @@ layout: default
 title: 팝업 윈도우
 parent: 저작기 사용방법
 grand_parent: enuSpace Tutorial
-nav_order: 1
 ---
 
 # Popup Window

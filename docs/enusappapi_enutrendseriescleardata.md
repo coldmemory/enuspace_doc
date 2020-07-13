@@ -2,7 +2,6 @@
 layout: default
 title: enutrendseriescleardata
 parent: Application API
-nav_order: 16d
 ---
 # void enuTrendSeriesClearData\(HNODE SeriesNode\)
 

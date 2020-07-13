@@ -3,7 +3,6 @@ layout: default
 title: Rand
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 41
 ---
 
 # Rand

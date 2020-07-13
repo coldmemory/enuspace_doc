@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectDiffuseColor
 parent: Application API
-nav_order: 12e
 ---
 # void enuSetSelectDiffuseColor\(HVIEW pENUView, wchar\_t\* strColor\)
 

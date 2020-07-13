@@ -3,7 +3,6 @@ layout: default
 title: Csch
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 18
 ---
 
 # Csch

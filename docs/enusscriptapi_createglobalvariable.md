@@ -2,7 +2,6 @@
 layout: default
 title: CreateGlobalVariable
 parent: Script API
-nav_order: 10
 ---
 # CreateGlobalVariable\(type, variable, value\)
 

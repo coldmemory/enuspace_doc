@@ -2,7 +2,6 @@
 layout: default
 title: enuRegisterLuaScriptByNode
 parent: Application API
-nav_order: d9
 ---
 # void enuRegisterLuaScriptByNode\(wchar\_t\* strPagename, HNODE pNode, wchar\_t\* strFunction, wchar\_t\* strScript\)
 

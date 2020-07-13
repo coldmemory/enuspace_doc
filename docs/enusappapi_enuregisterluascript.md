@@ -2,7 +2,6 @@
 layout: default
 title: enuRegisterLuaScript
 parent: Application API
-nav_order: d7
 ---
 # bool enuRegisterLuaScript\(wchar\_t\* pStrScript\)
 

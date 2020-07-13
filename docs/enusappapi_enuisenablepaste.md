@@ -2,7 +2,6 @@
 layout: default
 title: enuIsEnablePaste
 parent: Application API
-nav_order: a8
 ---
 # bool enuIsEnablePaste\(\)
 

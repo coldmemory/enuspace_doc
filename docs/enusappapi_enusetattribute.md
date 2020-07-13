@@ -2,7 +2,6 @@
 layout: default
 title: enuSetAttribute
 parent: Application API
-nav_order: ec
 ---
 # void enuSetAttribute\(HSVG pSvgHandler, wchar\_t\* pStrVariable, wchar\_t\* pStrValue\)
 

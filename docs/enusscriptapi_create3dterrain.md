@@ -2,7 +2,6 @@
 layout: default
 title: Create3DTerrain
 parent: Script API
-nav_order: c
 ---
 # Create3DTerrain\(id, size, subdivision, transx, transy, transz\)
 

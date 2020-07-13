@@ -2,7 +2,6 @@
 layout: default
 title: enuGetLogicList
 parent: Application API
-nav_order: 78
 ---
 # void\* enuGetLogicList\(\)
 

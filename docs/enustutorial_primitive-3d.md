@@ -2,7 +2,6 @@
 layout: default
 title: 기초객체(3D)
 parent: enuSpace Tutorial
-nav_order: 4
 has_children: true
 ---
 

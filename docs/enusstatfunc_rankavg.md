@@ -3,7 +3,6 @@ layout: default
 title: RankAvg
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 66
 ---
 
 # RankAvg

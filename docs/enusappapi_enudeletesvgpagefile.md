@@ -2,7 +2,6 @@
 layout: default
 title: enuDeleteSvgPageFile
 parent: Application API
-nav_order: 4b
 ---
 # bool enuDeleteSvgPageFile\(wchar\_t\* pStrFileName\)
 

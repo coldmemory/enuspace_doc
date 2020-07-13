@@ -2,7 +2,6 @@
 layout: default
 title: enuSetHmiComponent
 parent: Application API
-nav_order: 10c
 ---
 # bool enuSetHmiComponent\(HVIEW pENUView, wchar\_t\* pStrFileName, wchar\_t\* pStrSymbol\)
 

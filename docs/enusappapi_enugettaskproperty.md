@@ -2,7 +2,6 @@
 layout: default
 title: enuGetTaskProperty
 parent: Application API
-nav_order: 9b
 ---
 # TaskStruct\* enuGetTaskProperty\(wchar\_t\* pStrTaskID\)
 

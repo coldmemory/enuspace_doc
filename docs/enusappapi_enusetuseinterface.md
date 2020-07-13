@@ -2,7 +2,6 @@
 layout: default
 title: enuSetUseInterface
 parent: Application API
-nav_order: 157
 ---
 # void enuSetUseInterface\(HSVG pSvgHandler, wchar\_t\* strVariable, wchar\_t\* strValue\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectLineWidth
 parent: Application API
-nav_order: 143
 ---
 # void enuSetSelectLineWidth\(HVIEW pENUView, float fWidth\)
 

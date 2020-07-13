@@ -2,7 +2,6 @@
 layout: default
 title: enuGetCoordinateFromLineSet
 parent: Application API
-nav_order: 67
 ---
 # HNODE enuGetCoordinateFromLineSet\(HX3D pX3DHandler, HNODE node\)
 

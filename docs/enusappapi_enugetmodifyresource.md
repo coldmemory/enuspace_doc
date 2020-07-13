@@ -2,7 +2,6 @@
 layout: default
 title: enuGetModifyResource
 parent: Application API
-nav_order: 81
 ---
 # bool enuGetModifyResource\(wchar\_t\* pStrFilename\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuRemoveTask
 parent: Application API
-nav_order: db
 ---
 # extern "C" \_\_declspec\(dllexport\) bool enuRemoveTask\(wchar\_t\* pStrTaskID\)
 

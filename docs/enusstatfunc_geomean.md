@@ -3,7 +3,6 @@ layout: default
 title: GeoMean
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 35
 ---
 
 # GeoMean

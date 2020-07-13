@@ -2,7 +2,6 @@
 layout: default
 title: enuGetGlobalClass
 parent: Application API
-nav_order: 6d
 ---
 # HSVG enuGetGlobalClass\(wchar\_t\* pStrFileName\)
 

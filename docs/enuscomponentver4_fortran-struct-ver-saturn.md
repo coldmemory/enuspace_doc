@@ -3,7 +3,6 @@ layout: default
 title: C to Fortran Interface
 parent: Component Task(saturn ver.4)
 grand_parent: External Task
-nav_order: 1
 ---
 
 # External Task - Component Task \(C to Fortran Interface\)

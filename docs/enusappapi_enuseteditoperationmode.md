@@ -2,7 +2,6 @@
 layout: default
 title: enuSetEditOperationMode
 parent: Application API
-nav_order: 104
 ---
 # void enuSetEditOperationMode\(HVIEW pENUView, bool bFlag\)
 

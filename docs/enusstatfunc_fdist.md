@@ -3,7 +3,6 @@ layout: default
 title: FDist
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 22
 ---
 
 # FDist

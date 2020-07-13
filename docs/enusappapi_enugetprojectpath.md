@@ -2,7 +2,6 @@
 layout: default
 title: enuGetProjectPath
 parent: Application API
-nav_order: 8f
 ---
 # wchar\_t\* enuGetProjectPath\(\)
 

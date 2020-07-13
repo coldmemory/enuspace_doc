@@ -2,7 +2,6 @@
 layout: default
 title: enuGetMoveCanvas
 parent: Application API
-nav_order: 82
 ---
 # void enuGetMoveCanvas\(HVIEW pENUView, float\* transx, float\* transy\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuSetWidgetProject
 parent: Application API
-nav_order: 15d
 ---
 # void enuSetWidgetProject\(\)
 

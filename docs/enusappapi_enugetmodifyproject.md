@@ -2,7 +2,6 @@
 layout: default
 title: enuGetModifyProject
 parent: Application API
-nav_order: 80
 ---
 # bool enuGetModifyProject\(\)
 

@@ -3,7 +3,6 @@ layout: default
 title: 차트객체 Script 사용법
 parent: Script 사용방법
 grand_parent: enuSpace Tutorial
-nav_order: 4
 ---
 
 # 차트객체 Script 사용법

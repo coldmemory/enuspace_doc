@@ -3,7 +3,6 @@ layout: default
 title: Det
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 20
 ---
 
 # Det

@@ -3,7 +3,6 @@ layout: default
 title: ChisqDist
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 9
 ---
 
 # ChisqDist

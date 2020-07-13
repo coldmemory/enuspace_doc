@@ -2,7 +2,6 @@
 layout: default
 title: enuSetEditUndo
 parent: Application API
-nav_order: 107
 ---
 # void enuSetEditUndo\(HVIEW pENUView\)
 

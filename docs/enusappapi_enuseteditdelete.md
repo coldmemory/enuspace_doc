@@ -2,7 +2,6 @@
 layout: default
 title: enuSetEditDelete
 parent: Application API
-nav_order: 101
 ---
 # void enuSetEditDelete\(HVIEW pENUView\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuGetCurrentTime
 parent: Application API
-nav_order: 68
 ---
 # \_\_int64 enuGetCurrentTime\(\)
 

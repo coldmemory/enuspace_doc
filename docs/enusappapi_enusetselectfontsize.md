@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectFontsize
 parent: Application API
-nav_order: 13a
 ---
 # void enuSetSelectFontsize\(HVIEW pENUView, float fSize\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuSetLogicComponent
 parent: Application API
-nav_order: 113
 ---
 # bool enuSetLogicComponent\(HVIEW pENUView, wchar\_t\* pStrFileName, wchar\_t\* pStrSymbol\)
 

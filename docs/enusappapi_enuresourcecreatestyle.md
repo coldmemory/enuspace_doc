@@ -2,7 +2,6 @@
 layout: default
 title: enuResourceCreateStyle
 parent: Application API
-nav_order: dc
 ---
 # bool enuResourceCreateStyle\(wchar\_t\* pStrFilename, wchar\_t\* pStrStyle\)
 

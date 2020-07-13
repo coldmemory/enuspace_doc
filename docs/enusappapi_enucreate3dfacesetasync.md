@@ -2,7 +2,6 @@
 layout: default
 title: enuCreate3DFaceSetAsync
 parent: Application API
-nav_order: 12
 ---
 # void enuCreate3DFaceSetAsync\(HX3D pX3DHandler, wchar\_t\* strID, wchar\_t\* strPoints, wchar\_t\* strVectors, float transx, float transy, float transz\)
 

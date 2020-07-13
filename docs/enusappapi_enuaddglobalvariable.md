@@ -2,7 +2,6 @@
 layout: default
 title: enuAddGlobalVariable
 parent: Application API
-nav_order: 3
 ---
 # bool enuAddGlobalVariable\(wchar\_t\* pStrFileName, wchar\_t\* pStrType, wchar\_t\* strVariable, wchar\_t\* strInitValue=L"", wchar\_t\* strDescription=L""\)
 

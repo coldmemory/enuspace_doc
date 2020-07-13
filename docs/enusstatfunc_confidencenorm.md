@@ -3,7 +3,6 @@ layout: default
 title: ConfidenceNorm
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 14
 ---
 
 # ConfidenceNorm

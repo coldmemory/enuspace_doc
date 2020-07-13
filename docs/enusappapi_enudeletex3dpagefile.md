@@ -2,7 +2,6 @@
 layout: default
 title: enuDeleteX3dPageFile
 parent: Application API
-nav_order: 4e
 ---
 # bool enuDeleteX3dPageFile\(wchar\_t\* pStrFileName\)
 

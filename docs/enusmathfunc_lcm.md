@@ -3,7 +3,6 @@ layout: default
 title: LCM
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 30
 ---
 
 # LCM

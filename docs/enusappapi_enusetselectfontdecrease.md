@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectFontDecrease
 parent: Application API
-nav_order: 135
 ---
 # void enuSetSelectFontDecrease\(HVIEW pENUView\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuSetUseInterfaceByNode
 parent: Application API
-nav_order: 158
 ---
 # void enuSetUseInterfaceByNode\(HSVG pSvgHandler, HNODE pUse, wchar\_t\* strVariable, wchar\_t\* strValue\)
 

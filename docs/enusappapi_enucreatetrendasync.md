@@ -2,7 +2,6 @@
 layout: default
 title: enuCreateTrendAsync
 parent: Application API
-nav_order: 35
 ---
 # void enuCreateTrendAsync\(HSVG pSvgHandler, wchar\_t\* strID, float x, float y, float width, float height, float transx, float transy\)
 

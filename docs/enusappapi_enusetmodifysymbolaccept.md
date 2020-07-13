@@ -2,7 +2,6 @@
 layout: default
 title: enuSetModifySymbolAccept
 parent: Application API
-nav_order: 119
 ---
 # bool enuSetModifySymbolAccept\(wchar\_t\* strPicture, wchar\_t\* strSymbol, int iFileType\)
 

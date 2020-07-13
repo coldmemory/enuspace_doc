@@ -2,7 +2,6 @@
 layout: default
 title: enuGetCanvasWidth
 parent: Application API
-nav_order: 64
 ---
 # float enuGetCanvasWidth\(HVIEW pENUView\)
 

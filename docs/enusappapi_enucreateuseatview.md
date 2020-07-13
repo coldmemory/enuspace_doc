@@ -2,7 +2,6 @@
 layout: default
 title: enuCreateUseAtView
 parent: Application API
-nav_order: 39
 ---
 # HNODE enuCreateUseAtView\(HVIEW pENUView, float transx, float transy, wchar\_t\* xlink\_href, wchar\_t\* strType\)
 

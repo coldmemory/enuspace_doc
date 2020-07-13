@@ -2,7 +2,6 @@
 layout: default
 title: enuDeleteHmiSymbol
 parent: Application API
-nav_order: 43
 ---
 # bool enuDeleteHmiSymbol\(wchar\_t\* pStrFilename, wchar\_t\* pStrSymbol\)
 

@@ -3,7 +3,6 @@ layout: default
 title: AveDev
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 1
 ---
 
 # AveDev

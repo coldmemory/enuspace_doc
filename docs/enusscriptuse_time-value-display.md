@@ -3,7 +3,6 @@ layout: default
 title: 시간정보 출력방법
 parent: Script 사용방법
 grand_parent: enuSpace Tutorial
-nav_order: 2
 ---
 
 # 시간정보 출력방법

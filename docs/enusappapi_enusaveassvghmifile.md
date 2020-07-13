@@ -2,7 +2,6 @@
 layout: default
 title: enuSaveAsSvgHmiFile
 parent: Application API
-nav_order: de
 ---
 # bool enuSaveAsSvgHmiFile\(wchar\_t\* strTaget, wchar\_t\* strSource\)
 

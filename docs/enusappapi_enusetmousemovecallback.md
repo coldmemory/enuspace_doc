@@ -2,7 +2,6 @@
 layout: default
 title: enuSetMouseMoveCallBack
 parent: Application API
-nav_order: 11b
 ---
 # void enuSetMouseMoveCallBack\(HVIEW pENUView, void functioncb\(float, float\) \)
 

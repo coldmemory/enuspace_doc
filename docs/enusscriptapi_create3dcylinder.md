@@ -2,7 +2,6 @@
 layout: default
 title: Create3DCylinder
 parent: Script API
-nav_order: 7
 ---
 # Create3DCylinder\(id, height, radius, slices, transx, transy, transz\)
 

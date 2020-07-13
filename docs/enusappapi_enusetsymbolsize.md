@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSymbolSize
 parent: Application API
-nav_order: 150
 ---
 # void enuSetSymbolSize\(HVIEW pENUView, wchar\_t\* strSymbol, float fWidth, float fHeight\)
 

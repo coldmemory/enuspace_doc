@@ -2,7 +2,6 @@
 layout: default
 title: enuDestoryPopupTrend
 parent: Application API
-nav_order: 4f
 ---
 # void enuDestoryPopupTrend\(void\* pTrend\)
 

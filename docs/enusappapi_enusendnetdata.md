@@ -2,7 +2,6 @@
 layout: default
 title: enuSendNetData
 parent: Application API
-nav_order: e8
 ---
 # void enuSendNetData\(wchar\_t\* system, char\* data, int length\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuDeleteAllObject
 parent: Application API
-nav_order: 40
 ---
 # void enuDeleteAllObject\(HSVG pSvgHandler\)
 

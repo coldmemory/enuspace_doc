@@ -2,7 +2,6 @@
 layout: default
 title: enuCreatePopupTrend
 parent: Application API
-nav_order: 2e
 ---
 # void\* enuCreatePopupTrend\(int iType, wchar\_t\* strVariables, int x = 0, int y = 0, int width = 0, int height = 0\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuGetWindowView
 parent: Application API
-nav_order: 9f
 ---
 # HVIEW enuGetWindowView\(wchar\_t\* strWindowID\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuSetLButtonDownCallBack
 parent: Application API
-nav_order: 111
 ---
 # void enuSetLButtonDownCallBack\(HVIEW pENUView, void functioncb\(float, float\) \)
 

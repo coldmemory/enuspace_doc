@@ -2,7 +2,6 @@
 layout: default
 title: enuSetRenderObjectReset
 parent: Application API
-nav_order: 124
 ---
 # void enuSetRenderObjectReset\(HVIEW pENUView\)
 

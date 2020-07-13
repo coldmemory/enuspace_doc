@@ -2,7 +2,6 @@
 layout: default
 title: enuGetGlobalVariableList
 parent: Application API
-nav_order: 71
 ---
 # void\* enuGetGlobalVariableList\(wchar\_t\* pStrFileName\)
 

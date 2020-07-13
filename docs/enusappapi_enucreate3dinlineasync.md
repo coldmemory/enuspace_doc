@@ -2,7 +2,6 @@
 layout: default
 title: enuCreate3DInlineAsync
 parent: Application API
-nav_order: 14
 ---
 # void enuCreate3DInlineAsync\(HX3D pX3DHandler, wchar\_t\* strID, wchar\_t\* strUrl, float transx, float transy, float transz\)
 

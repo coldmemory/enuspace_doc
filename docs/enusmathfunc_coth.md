@@ -3,7 +3,6 @@ layout: default
 title: Coth
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 16
 ---
 
 # Coth

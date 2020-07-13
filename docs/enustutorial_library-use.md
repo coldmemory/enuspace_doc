@@ -2,7 +2,6 @@
 layout: default
 title: 라이브러리 적용하기
 parent: enuSpace Tutorial
-nav_order: 7
 ---
 
 # **LOGIC 프로그램밍, HMI라이브러리 인터페이스 방법**

@@ -2,7 +2,6 @@
 layout: default
 title: enuGetModifyHmi
 parent: Application API
-nav_order: 7d
 ---
 # bool enuGetModifyHmi\(wchar\_t\* pStrFilename\)
 

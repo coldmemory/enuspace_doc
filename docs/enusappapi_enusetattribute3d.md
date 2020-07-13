@@ -2,7 +2,6 @@
 layout: default
 title: enuSetAttribute3D
 parent: Application API
-nav_order: ed
 ---
 # void enuSetAttribute3D\(HX3D pX3DHandler, wchar\_t\* pStrVariable, wchar\_t\* pStrValue\)
 

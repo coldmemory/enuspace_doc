@@ -2,7 +2,6 @@
 layout: default
 title: enuGetSelectSingleObject
 parent: Application API
-nav_order: 94
 ---
 # HNODE enuGetSelectSingleObject\(HVIEW pENUView\)
 

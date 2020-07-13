@@ -2,7 +2,6 @@
 layout: default
 title: enuDeleteSvgHmiFile
 parent: Application API
-nav_order: 49
 ---
 # bool enuDeleteSvgHmiFile\(wchar\_t\* pStrFileName\)
 

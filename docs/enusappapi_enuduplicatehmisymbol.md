@@ -2,7 +2,6 @@
 layout: default
 title: enuDuplicateHmiSymbol
 parent: Application API
-nav_order: 54
 ---
 # HNODE enuDuplicateHmiSymbol\(wchar\_t\* strPicture, wchar\_t\* strSymbol\)
 

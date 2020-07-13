@@ -3,7 +3,6 @@ layout: default
 title: CovaranceS
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 19
 ---
 
 # CovaranceS

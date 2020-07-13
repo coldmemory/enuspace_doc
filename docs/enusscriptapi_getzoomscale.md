@@ -2,7 +2,6 @@
 layout: default
 title: GetZoomScale
 parent: Script API
-nav_order: 2e
 ---
 # GetZoomScale\(\)
 

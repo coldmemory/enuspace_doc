@@ -2,7 +2,6 @@
 layout: default
 title: enuGetPageList
 parent: Application API
-nav_order: 8b
 ---
 # void\* enuGetPageList\(\)
 

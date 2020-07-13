@@ -2,7 +2,6 @@
 layout: default
 title: enuGetGlobalVariableNode
 parent: Application API
-nav_order: 72
 ---
 # HNODE enuGetGlobalVariableNode\(wchar\_t\* pStrVariable\)
 

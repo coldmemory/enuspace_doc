@@ -2,7 +2,6 @@
 layout: default
 title: enuGetDefsSymbolById
 parent: Application API
-nav_order: 6a
 ---
 # HNODE enuGetDefsSymbolById\(HSVG pSvgHandler, wchar\_t\* objectid\)
 

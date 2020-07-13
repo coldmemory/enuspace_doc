@@ -3,7 +3,6 @@ layout: default
 title: MaxIf
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 49
 ---
 
 # MaxIf

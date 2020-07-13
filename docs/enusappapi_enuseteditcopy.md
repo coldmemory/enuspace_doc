@@ -2,7 +2,6 @@
 layout: default
 title: enuSetEditCopy
 parent: Application API
-nav_order: ff
 ---
 # void enuSetEditCopy\(HVIEW pENUView\)
 

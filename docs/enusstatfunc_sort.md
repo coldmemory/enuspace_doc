@@ -3,7 +3,6 @@ layout: default
 title: Sort
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 75
 ---
 
 # Sort

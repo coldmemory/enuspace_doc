@@ -2,7 +2,6 @@
 layout: default
 title: enuRegisterJavaScript
 parent: Application API
-nav_order: d4
 ---
 # bool enuRegisterJavaScript\(wchar\_t\* pStrScript\)
 

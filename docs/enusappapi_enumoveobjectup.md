@@ -2,7 +2,6 @@
 layout: default
 title: enuMoveObjectUp
 parent: Application API
-nav_order: c6
 ---
 # void enuMoveObjectUp\(HVIEW pENUView\)
 

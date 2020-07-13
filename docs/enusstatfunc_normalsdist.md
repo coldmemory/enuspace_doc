@@ -3,7 +3,6 @@ layout: default
 title: NormalSDist
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 57
 ---
 
 # NormalSDist

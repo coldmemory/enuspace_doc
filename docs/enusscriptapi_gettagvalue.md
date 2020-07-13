@@ -2,7 +2,6 @@
 layout: default
 title: GetTagValue
 parent: Script API
-nav_order: 27
 ---
 # GetTagValue\("tagid"\)
 

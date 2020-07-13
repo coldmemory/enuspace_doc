@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectUnGroup
 parent: Application API
-nav_order: 148
 ---
 # void enuSetSelectUnGroup\(HVIEW pENUView\)
 

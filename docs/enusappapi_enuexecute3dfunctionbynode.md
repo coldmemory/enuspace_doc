@@ -2,7 +2,6 @@
 layout: default
 title: enuExecute3DFunctionByNode
 parent: Application API
-nav_order: 57
 ---
 # void enuExecute3DFunctionByNode\(HX3D pX3D, HNODE pNode, wchar\_t\* strFunction\)
 

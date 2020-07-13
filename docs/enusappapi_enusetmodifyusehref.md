@@ -2,7 +2,6 @@
 layout: default
 title: enuSetModifyUseHref
 parent: Application API
-nav_order: 11a
 ---
 # void enuSetModifyUseHref\(wchar\_t\* strSrcId, wchar\_t\* strNewId\)
 

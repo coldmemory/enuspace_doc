@@ -3,7 +3,6 @@ layout: default
 title: Acosh
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 3
 ---
 
 # Acosh

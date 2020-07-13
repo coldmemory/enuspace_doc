@@ -2,7 +2,6 @@
 layout: default
 title: enuSetConfiguration
 parent: Application API
-nav_order: fc
 ---
 # bool enuSetConfiguration\(wchar\_t\* pAttribute, wchar\_t\* pValue\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuDestoryWidget
 parent: Application API
-nav_order: 53
 ---
 # void enuDestoryWidget\(HVIEW pView\)
 

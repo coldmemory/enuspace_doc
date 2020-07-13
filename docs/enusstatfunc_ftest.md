@@ -3,7 +3,6 @@ layout: default
 title: FTest
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 29
 ---
 
 # FTest

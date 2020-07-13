@@ -2,7 +2,6 @@
 layout: default
 title: enuDeactivateView
 parent: Application API
-nav_order: 3d
 ---
 # void enuDeactivateView\(HVIEW pENUView\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuSetHmiProperty
 parent: Application API
-nav_order: 10d
 ---
 # bool enuSetHmiProperty\(HSVG pSvg, wchar\_t\* pAttribute, wchar\_t\* pValue\)
 

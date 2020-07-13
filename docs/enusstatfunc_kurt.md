@@ -3,7 +3,6 @@ layout: default
 title: Kurt
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 40
 ---
 
 # Kurt

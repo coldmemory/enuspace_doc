@@ -2,7 +2,6 @@
 layout: default
 title: enuSetZoomScale
 parent: Application API
-nav_order: 164
 ---
 # void enuSetZoomScale\(HVIEW pENUView, float fPercent\)
 

@@ -3,7 +3,6 @@ layout: default
 title: Exp
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 23
 ---
 
 # Exp

@@ -2,7 +2,6 @@
 layout: default
 title: LoadPicture
 parent: Script API
-nav_order: 30
 ---
 # LoadPicture\(picture\)
 

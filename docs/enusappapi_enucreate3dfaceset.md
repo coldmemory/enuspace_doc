@@ -2,7 +2,6 @@
 layout: default
 title: enuCreate3DFaceSet
 parent: Application API
-nav_order: 11
 ---
 # HNODE enuCreate3DFaceSet\(HX3D pX3DHandler, wchar\_t\* strID, wchar\_t\* strPoints, wchar\_t\* strVectors, float transx, float transy, float transz\)
 

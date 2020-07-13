@@ -2,7 +2,6 @@
 layout: default
 title: DSH
 parent: enuSpace Error Code
-nav_order: 4
 ---
 # DSH - ERROR CODE
 

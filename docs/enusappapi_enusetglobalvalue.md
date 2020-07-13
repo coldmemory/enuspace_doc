@@ -2,7 +2,6 @@
 layout: default
 title: enuSetGlobalValue
 parent: Application API
-nav_order: 10b
 ---
 # void enuSetGlobalValue\(HSVG pSvgHandler, wchar\_t\* pStrVariable, wchar\_t\* pStrValue\)
 

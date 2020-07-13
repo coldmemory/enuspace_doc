@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSvgView
 parent: Application API
-nav_order: 14f
 ---
 # bool enuSetSvgView\(HVIEW pENUView, HSVG pSvg\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuSetAttributeByNode
 parent: Application API
-nav_order: f0
 ---
 # void enuSetAttributeByNode\(HSVG pSvgHandler, HNODE pObject, wchar\_t\* pStrVariable, wchar\_t\* pStrValue\)
 

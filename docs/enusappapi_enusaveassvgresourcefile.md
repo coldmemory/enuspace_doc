@@ -2,7 +2,6 @@
 layout: default
 title: enuSaveAsSvgResourceFile
 parent: Application API
-nav_order: e1
 ---
 # bool enuSaveAsSvgResourceFile\(wchar\_t\* strTaget, wchar\_t\* strSource\)
 

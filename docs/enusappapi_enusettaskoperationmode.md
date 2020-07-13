@@ -2,7 +2,6 @@
 layout: default
 title: enuSetTaskOperationMode
 parent: Application API
-nav_order: 153
 ---
 # void enuSetTaskOperationMode\(int iMode, int iStep\)
 

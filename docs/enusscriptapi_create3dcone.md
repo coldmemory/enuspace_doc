@@ -2,7 +2,6 @@
 layout: default
 title: Create3DCone
 parent: Script API
-nav_order: 6
 ---
 # Create3DCone\(id, bottomRadius, height, slices, transx, transy, transz\)
 

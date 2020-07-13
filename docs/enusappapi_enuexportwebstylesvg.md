@@ -2,7 +2,6 @@
 layout: default
 title: enuExportWebStyleSvg
 parent: Application API
-nav_order: 5d
 ---
 # bool enuExportWebStyleSvg\(wchar\_t\* strTaget, wchar\_t\* strSource\)
 

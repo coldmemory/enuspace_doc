@@ -2,7 +2,6 @@
 layout: default
 title: enuSaveImageToFile
 parent: Application API
-nav_order: e2
 ---
 # void enuSaveImageToFile\(HVIEW pENUView, wchar\_t\* strFileName, wchar\_t\* strFileType\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuDeleteSvgGlobalFile
 parent: Application API
-nav_order: 48
 ---
 # bool enuDeleteSvgGlobalFile\(wchar\_t\* pStrFileName\)
 

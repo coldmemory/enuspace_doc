@@ -2,7 +2,6 @@
 layout: default
 title: enuGetNextPageName
 parent: Application API
-nav_order: 83
 ---
 # wchar\_t\* enuGetNextPageName\(wchar\_t\* pStrFileName\)
 

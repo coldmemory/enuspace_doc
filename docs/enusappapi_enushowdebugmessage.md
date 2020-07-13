@@ -2,7 +2,6 @@
 layout: default
 title: enuShowDebugMessage
 parent: Application API
-nav_order: 165
 ---
 # void enuShowDebugMessage\(bool bShow\)
 

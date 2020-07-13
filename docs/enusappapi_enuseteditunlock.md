@@ -2,7 +2,6 @@
 layout: default
 title: enuSetEditUnLock
 parent: Application API
-nav_order: 108
 ---
 # void enuSetEditUnLock\(HVIEW pENUView\)
 

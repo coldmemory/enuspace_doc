@@ -2,7 +2,6 @@
 layout: default
 title: enuSetRuntimeMode
 parent: Application API
-nav_order: 128
 ---
 # void enuSetRuntimeMode\(bool bRunTime\)
 

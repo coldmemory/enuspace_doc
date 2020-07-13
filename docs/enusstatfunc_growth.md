@@ -3,7 +3,6 @@ layout: default
 title: Growth
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 36
 ---
 
 # Growth

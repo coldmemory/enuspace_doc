@@ -2,7 +2,6 @@
 layout: default
 title: enuIsSelectFontItalic
 parent: Application API
-nav_order: ad
 ---
 # bool enuIsSelectFontItalic\(HVIEW pENUView\)
 

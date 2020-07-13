@@ -2,7 +2,6 @@
 layout: default
 title: enuSetAttribute3DByNodeSync
 parent: Application API
-nav_order: ef
 ---
 # bool enuSetAttribute3DByNodeSync\(HX3D pX3DHandler, HNODE pObject, wchar\_t\* pStrVariable, wchar\_t\* pStrValue, bool bHistory, bool bScript\)
 

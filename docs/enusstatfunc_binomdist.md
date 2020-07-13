@@ -3,7 +3,6 @@ layout: default
 title: BinomDist
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 6
 ---
 
 # BinomDist

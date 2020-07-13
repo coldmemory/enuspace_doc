@@ -2,7 +2,6 @@
 layout: default
 title: enuGetX3DHandler
 parent: Application API
-nav_order: a0
 ---
 # HX3D enuGetX3DHandler\(HVIEW pENUView\)
 

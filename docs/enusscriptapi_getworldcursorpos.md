@@ -2,7 +2,6 @@
 layout: default
 title: GetWorldCursorPos
 parent: Script API
-nav_order: 2d
 ---
 # GetWorldCursorPos\(\)
 

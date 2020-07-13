@@ -2,7 +2,6 @@
 layout: default
 title: enuSetEditCut
 parent: Application API
-nav_order: 100
 ---
 # void enuSetEditCut\(HVIEW pENUView\)
 

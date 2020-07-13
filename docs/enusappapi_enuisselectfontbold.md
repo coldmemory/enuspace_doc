@@ -2,7 +2,6 @@
 layout: default
 title: enuIsSelectFontBold
 parent: Application API
-nav_order: ac
 ---
 # bool enuIsSelectFontBold\(HVIEW pENUView\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuGetLogicSymbolList
 parent: Application API
-nav_order: 79
 ---
 # void\* enuGetLogicSymbolList\(wchar\_t\* pStrFilename\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuAddTrendSeriesByNode
 parent: Application API
-nav_order: 6
 ---
 # HNODE enuAddTrendSeriesByNode\(HSVG pSvgHandler, HNODE TrendNode, wchar\_t\* strSeriesID\)
 

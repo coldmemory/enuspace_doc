@@ -2,7 +2,6 @@
 layout: default
 title: IoT Platform 사용방법
 parent: enuSpace Tutorial
-nav_order: 11
 ---
 
 # **IoT Platform 사용방법**

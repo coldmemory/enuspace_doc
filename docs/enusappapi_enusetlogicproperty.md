@@ -2,7 +2,6 @@
 layout: default
 title: enuSetLogicProperty
 parent: Application API
-nav_order: 114
 ---
 # bool enuSetLogicProperty\(HSVG pSvg, wchar\_t\* pAttribute, wchar\_t\* pValue\)
 

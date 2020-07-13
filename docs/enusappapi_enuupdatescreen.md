@@ -2,7 +2,6 @@
 layout: default
 title: enuUpdateScreen
 parent: Application API
-nav_order: 16e
 ---
 # void enuUpdateScreen\(HVIEW pENUView\)
 

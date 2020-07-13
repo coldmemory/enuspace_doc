@@ -2,7 +2,6 @@
 layout: default
 title: enuCreatePath
 parent: Application API
-nav_order: 28
 ---
 # HNODE enuCreatePath\(HSVG pSvgHandler, wchar\_t\* strID, wchar\_t\* pStrValue, float transx, float transy\)
 

@@ -3,7 +3,6 @@ layout: default
 title: Acos
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 2
 ---
 
 # Acos

@@ -2,7 +2,6 @@
 layout: default
 title: enuGetVariablePointer
 parent: Application API
-nav_order: 9d
 ---
 # void enuGetVariablePointer\(HSVG pSvgHandler, wchar\_t\* pStrVariable, VariableStruct\* pData\)
 

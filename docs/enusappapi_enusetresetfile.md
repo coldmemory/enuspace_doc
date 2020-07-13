@@ -2,7 +2,6 @@
 layout: default
 title: enuSetResetFile
 parent: Application API
-nav_order: 125
 ---
 # void enuSetResetFile\(wchar\_t\* strFilename\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: SetScriptOperationMode
 parent: Script API
-nav_order: 42
 ---
 # SetScriptOperationMode\(operation\)
 

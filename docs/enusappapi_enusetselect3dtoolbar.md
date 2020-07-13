@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelect3DToolBar
 parent: Application API
-nav_order: 12b
 ---
 # void enuSetSelect3DToolBar\(int iSel\)
 

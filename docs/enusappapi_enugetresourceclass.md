@@ -2,7 +2,6 @@
 layout: default
 title: enuGetResourceClass
 parent: Application API
-nav_order: 91
 ---
 # HSVG enuGetResourceClass\(wchar\_t\* pStrFileName\)
 

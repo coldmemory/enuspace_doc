@@ -2,7 +2,6 @@
 layout: default
 title: enuGetHmiList
 parent: Application API
-nav_order: 74
 ---
 # void\* enuGetHmiList\(\)
 

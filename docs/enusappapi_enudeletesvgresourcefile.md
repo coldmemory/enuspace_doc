@@ -2,7 +2,6 @@
 layout: default
 title: enuDeleteSvgResourceFile
 parent: Application API
-nav_order: 4c
 ---
 # bool enuDeleteSvgResourceFile\(wchar\_t\* pStrFileName\)
 

@@ -3,7 +3,6 @@ layout: default
 title: Rsq
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 70
 ---
 
 # Rsq

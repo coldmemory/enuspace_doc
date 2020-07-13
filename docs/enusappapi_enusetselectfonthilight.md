@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectFontHilight
 parent: Application API
-nav_order: 136
 ---
 # void enuSetSelectFontHilight\(HVIEW pENUView, bool bFlag\)
 

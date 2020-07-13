@@ -2,7 +2,6 @@
 layout: default
 title: enuCreateRect
 parent: Application API
-nav_order: 30
 ---
 # HNODE enuCreateRect\(HSVG pSvgHandler, wchar\_t\* strID, float x, float y, float width, float height, float transx, float transy\)
 

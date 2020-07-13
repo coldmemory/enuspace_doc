@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectFontSubscript
 parent: Application API
-nav_order: 13c
 ---
 # void enuSetSelectFontSubscript\(HVIEW pENUView, bool bFlag\)
 

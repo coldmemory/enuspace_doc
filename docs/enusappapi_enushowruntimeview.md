@@ -2,7 +2,6 @@
 layout: default
 title: enuShowRuntimeView
 parent: Application API
-nav_order: 167
 ---
 # bool enuShowRuntimeView\(HWND hWnd\)
 

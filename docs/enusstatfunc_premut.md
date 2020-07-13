@@ -3,7 +3,6 @@ layout: default
 title: Permut
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 64
 ---
 
 # Permut

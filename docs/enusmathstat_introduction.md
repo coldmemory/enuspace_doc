@@ -2,7 +2,6 @@
 layout: default
 title: Using method
 parent: Math & Statistics
-nav_order: 1
 ---
 
 ## enuSpace

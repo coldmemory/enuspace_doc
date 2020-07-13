@@ -2,7 +2,6 @@
 layout: default
 title: DXU
 parent: enuSpace Error Code
-nav_order: 9
 ---
 
 # DXU - ERROR CODE

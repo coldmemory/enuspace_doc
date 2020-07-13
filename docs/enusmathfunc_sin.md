@@ -3,7 +3,6 @@ layout: default
 title: Sin
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 46
 ---
 
 # Sin

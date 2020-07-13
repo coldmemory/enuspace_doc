@@ -2,7 +2,6 @@
 layout: default
 title: enuGetObjectPerv
 parent: Application API
-nav_order: 88
 ---
 enuSpace for saturn\(ver.4\)
 

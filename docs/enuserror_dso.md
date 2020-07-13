@@ -2,7 +2,6 @@
 layout: default
 title: DSO
 parent: enuSpace Error Code
-nav_order: 5
 ---
 # DSO - ERROR CODE
 

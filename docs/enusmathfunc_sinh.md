@@ -3,7 +3,6 @@ layout: default
 title: Sinh
 parent: Math functions
 grand_parent: enuSpace Tutorial
-nav_order: 47
 ---
 
 # Sinh

@@ -2,7 +2,6 @@
 layout: default
 title: enuSetGlobalProperty
 parent: Application API
-nav_order: 10a
 ---
 # bool enuSetGlobalProperty\(HSVG pSvg, wchar\_t\* pAttribute, wchar\_t\* pValue\)
 

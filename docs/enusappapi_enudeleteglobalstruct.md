@@ -2,7 +2,6 @@
 layout: default
 title: enuDeleteGlobalStruct
 parent: Application API
-nav_order: 41
 ---
 # bool enuDeleteGlobalStruct\(wchar\_t\* pStrFileName, wchar\_t\* strStruct\)
 

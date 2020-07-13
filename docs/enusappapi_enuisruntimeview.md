@@ -2,7 +2,6 @@
 layout: default
 title: enuIsRuntimeView
 parent: Application API
-nav_order: ab
 ---
 # bool enuIsRuntimeView\(\)
 

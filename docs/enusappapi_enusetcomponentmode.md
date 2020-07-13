@@ -2,7 +2,6 @@
 layout: default
 title: enuSetComponentMode
 parent: Application API
-nav_order: fb
 ---
 # void enuSetComponentMode\(HVIEW pView, bool bOper\)
 

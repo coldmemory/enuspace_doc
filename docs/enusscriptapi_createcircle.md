@@ -2,7 +2,6 @@
 layout: default
 title: CreateCircle
 parent: Script API
-nav_order: e
 ---
 # CreateCircle\(id, radius, cx, cy, transx, transy\)
 

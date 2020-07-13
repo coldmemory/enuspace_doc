@@ -2,7 +2,6 @@
 layout: default
 title: Component Task(jupiter ver.3)
 parent: External Task
-nav_order: 3
 ---
 
 

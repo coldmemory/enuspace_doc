@@ -3,7 +3,6 @@ layout: default
 title: Devsq
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 20
 ---
 
 # Devsq

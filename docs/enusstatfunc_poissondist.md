@@ -3,7 +3,6 @@ layout: default
 title: PoissonDist
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 63
 ---
 
 # PoissonDist

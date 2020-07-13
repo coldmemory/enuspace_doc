@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectSpecularColor
 parent: Application API
-nav_order: 146
 ---
 # void enuSetSelectSpecularColor\(HVIEW pENUView, wchar\_t\* strColor\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuGetCursorPos
 parent: Application API
-nav_order: 69
 ---
 # POINT enuGetCursorPos\(\)
 

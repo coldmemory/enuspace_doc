@@ -3,7 +3,6 @@ layout: default
 title: Product
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 39
 ---
 
 # Product

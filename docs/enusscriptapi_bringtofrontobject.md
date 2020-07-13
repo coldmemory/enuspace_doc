@@ -2,7 +2,6 @@
 layout: default
 title: BringToFrontObject
 parent: Script API
-nav_order: 2
 ---
 # BringToFrontObject\(objects\)
 

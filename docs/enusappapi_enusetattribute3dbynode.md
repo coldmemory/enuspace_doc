@@ -2,7 +2,6 @@
 layout: default
 title: enuSetAttribute3DByNode
 parent: Application API
-nav_order: ee
 ---
 # void enuSetAttribute3DByNode\(HX3D pX3DHandler, HNODE pObject, wchar\_t\* pStrVariable, wchar\_t\* pStrValue\)
 

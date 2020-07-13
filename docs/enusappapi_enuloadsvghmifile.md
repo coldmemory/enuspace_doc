@@ -2,7 +2,6 @@
 layout: default
 title: enuLoadSvgHmiFile
 parent: Application API
-nav_order: b9
 ---
 # HSVG enuLoadSvgHmiFile\(wchar\_t\* pStrFileName\)
 

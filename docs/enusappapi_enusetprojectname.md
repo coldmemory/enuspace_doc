@@ -2,7 +2,6 @@
 layout: default
 title: enuSetProjectName
 parent: Application API
-nav_order: 120
 ---
 # void enuSetProjectName\(wchar\_t\* projectname\)
 

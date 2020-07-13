@@ -2,7 +2,6 @@
 layout: default
 title: enuCreateTrendWidget
 parent: Application API
-nav_order: 36
 ---
 # HNODE enuCreateTrendWidget\(HVIEW pENUView, float x, float y, float width, float height, float transx, float transy, float angle\)
 

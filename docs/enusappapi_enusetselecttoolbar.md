@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectToolBar
 parent: Application API
-nav_order: 147
 ---
 # void enuSetSelectToolBar\(int iSel\)
 

@@ -3,7 +3,6 @@ layout: default
 title: Max
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 48
 ---
 
 # Max

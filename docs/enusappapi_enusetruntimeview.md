@@ -2,7 +2,6 @@
 layout: default
 title: enuSetRuntimeView
 parent: Application API
-nav_order: 129
 ---
 # void enuSetRuntimeView\(HVIEW pENUView, bool bRuntime\)
 

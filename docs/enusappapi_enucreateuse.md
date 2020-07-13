@@ -2,7 +2,6 @@
 layout: default
 title: enuCreateUse
 parent: Application API
-nav_order: 37
 ---
 # HNODE enuCreateUse\(HSVG pSvgHandler, wchar\_t\* strID, float x, float y, wchar\_t\* xlink\_href, wchar\_t\* strType, float transx = 0, float transy = 0\)
 

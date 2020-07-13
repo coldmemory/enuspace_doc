@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectEmissiveColor
 parent: Application API
-nav_order: 12f
 ---
 # void enuSetSelectEmissiveColor\(HVIEW pENUView, wchar\_t\* strColor\)
 

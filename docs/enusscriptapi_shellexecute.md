@@ -2,7 +2,6 @@
 layout: default
 title: ShellExecute
 parent: Script API
-nav_order: 49
 ---
 # ShellExecute\(operation, file, param, directory\)
 

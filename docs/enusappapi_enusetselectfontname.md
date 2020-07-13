@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectFontname
 parent: Application API
-nav_order: 139
 ---
 # oid enuSetSelectFontname\(HVIEW pENUView, wchar\_t\* strFontName\)oid enuSetSelectFontname\(HVIEW pENUView, wchar\_t\* strFontName\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuMoveObjectDown
 parent: Application API
-nav_order: c3
 ---
 # void enuMoveObjectDown\(HVIEW pENUView\)
 

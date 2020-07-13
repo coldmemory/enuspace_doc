@@ -2,7 +2,6 @@
 layout: default
 title: enuLogicGetSymbolType
 parent: Application API
-nav_order: c0
 ---
 # wchar\_t\* enuLogicGetSymbolType\(wchar\_t\* pStrFilename, wchar\_t\* pStrSymbol\)
 

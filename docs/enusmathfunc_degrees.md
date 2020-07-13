@@ -3,7 +3,6 @@ layout: default
 title: Degree
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 19
 ---
 
 # Degree

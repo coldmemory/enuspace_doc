@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectFontStrikethough
 parent: Application API
-nav_order: 13b
 ---
 # void enuSetSelectFontStrikethough\(HVIEW pENUView, bool bFlag\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuDeleteGlobalVariable
 parent: Application API
-nav_order: 42
 ---
 # bool enuDeleteGlobalVariable\(wchar\_t\* pStrFileName, wchar\_t\* strVariable\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuAddSelectObjectByNode
 parent: Application API
-nav_order: 4
 ---
 # void enuAddSelectObjectByNode\(HVIEW pENUView, HNODE hNode\)
 

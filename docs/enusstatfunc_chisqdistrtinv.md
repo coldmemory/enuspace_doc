@@ -3,7 +3,6 @@ layout: default
 title: ChisqRtInv
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 12
 ---
 
 # ChisqRtInv

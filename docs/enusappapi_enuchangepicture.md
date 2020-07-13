@@ -2,7 +2,6 @@
 layout: default
 title: enuChangePicture
 parent: Application API
-nav_order: 7
 ---
 # void enuChangePicture\(wchar\_t\* strWindow, wchar\_t\* strPicName\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuCreate3DSphereAsync
 parent: Application API
-nav_order: 18
 ---
 # void enuCreate3DSphereAsync\(HX3D pX3DHandler, wchar\_t\* strID, float radius, float slices, float transx, float transy, float transz\)
 

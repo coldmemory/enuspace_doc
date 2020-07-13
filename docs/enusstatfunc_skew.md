@@ -3,7 +3,6 @@ layout: default
 title: Skew
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 71
 ---
 
 # Skew

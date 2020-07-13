@@ -3,7 +3,6 @@ layout: default
 title: Fisher
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 26
 ---
 
 # Fisher

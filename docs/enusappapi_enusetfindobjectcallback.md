@@ -2,7 +2,6 @@
 layout: default
 title: enuSetFindObjectCallBack
 parent: Application API
-nav_order: 109
 ---
 # void enuSetFindObjectCallBack\(void fcbFindMessage\(HNODE, int, wchar\_t\*, wchar\_t\*\), wchar\_t\* pStrSearch, bool bMatchCase, bool bWholeWord\)
 

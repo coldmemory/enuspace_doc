@@ -2,7 +2,6 @@
 layout: default
 title: enuSetMouseWheelCallBack
 parent: Application API
-nav_order: 11c
 ---
 # void enuSetMouseWheelCallBack\(HVIEW pENUView, void functioncb\(float, float, float\) \)
 

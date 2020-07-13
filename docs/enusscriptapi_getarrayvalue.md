@@ -2,7 +2,6 @@
 layout: default
 title: GetArrayValue
 parent: Script API
-nav_order: 21
 ---
 # GetArrayValue\(variable\)
 

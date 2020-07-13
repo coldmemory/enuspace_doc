@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectFontItalic
 parent: Application API
-nav_order: 138
 ---
 # void enuSetSelectFontItalic\(HVIEW pENUView, bool bFlag\)
 

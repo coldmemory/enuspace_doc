@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectFontUnderline
 parent: Application API
-nav_order: 13e
 ---
 # void enuSetSelectFontUnderline\(HVIEW pENUView, bool bFlag\)
 

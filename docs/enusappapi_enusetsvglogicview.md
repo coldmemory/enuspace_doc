@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSvgLogicView
 parent: Application API
-nav_order: 14d
 ---
 # bool enuSetSvgLogicView\(HVIEW pENUView, wchar\_t\* pStrFileName\)
 

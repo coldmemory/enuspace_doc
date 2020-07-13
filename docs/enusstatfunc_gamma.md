@@ -3,7 +3,6 @@ layout: default
 title: Gamma
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 30
 ---
 
 # Gamma

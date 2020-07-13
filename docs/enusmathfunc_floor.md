@@ -3,7 +3,6 @@ layout: default
 title: Floor
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 26
 ---
 
 # Floor

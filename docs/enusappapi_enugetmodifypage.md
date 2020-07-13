@@ -2,7 +2,6 @@
 layout: default
 title: enuGetModifyPage
 parent: Application API
-nav_order: 7f
 ---
 # bool enuGetModifyPage\(wchar\_t\* pStrFilename\)
 

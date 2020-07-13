@@ -3,7 +3,6 @@ layout: default
 title: Asinh
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 8
 ---
 
 # Asinh

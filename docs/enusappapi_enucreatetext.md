@@ -2,7 +2,6 @@
 layout: default
 title: enuCreateText
 parent: Application API
-nav_order: 32
 ---
 # HNODE enuCreateText\(HSVG pSvgHandler, wchar\_t\* strID, float x, float y, float dx, float dy, wchar\_t\* text, float transx, float transy\)
 

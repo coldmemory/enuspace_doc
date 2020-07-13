@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSvgHmiView
 parent: Application API
-nav_order: 14c
 ---
 # bool enuSetSvgHmiView\(HVIEW pENUView, wchar\_t\* pStrFileName\)
 

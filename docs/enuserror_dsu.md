@@ -2,7 +2,6 @@
 layout: default
 title: DSU
 parent: enuSpace Error Code
-nav_order: 6
 ---
 # DSU - ERROR CODE
 

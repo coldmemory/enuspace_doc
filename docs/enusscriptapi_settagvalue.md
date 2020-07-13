@@ -2,7 +2,6 @@
 layout: default
 title: SetTagValue
 parent: Script API
-nav_order: 44
 ---
 # SetTagValue\("tagid", value\)
 

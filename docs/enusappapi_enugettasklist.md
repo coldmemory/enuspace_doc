@@ -2,7 +2,6 @@
 layout: default
 title: enuGetTaskList
 parent: Application API
-nav_order: 9a
 ---
 # wchar\_t\* enuGetTaskList\(\)
 

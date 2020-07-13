@@ -2,7 +2,6 @@
 layout: default
 title: CreateEllipse
 parent: Script API
-nav_order: f
 ---
 # CreateEllipse\(id, rx, ry, cx, cy, transx, transy\)
 

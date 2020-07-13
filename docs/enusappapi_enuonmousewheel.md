@@ -2,7 +2,6 @@
 layout: default
 title: enuOnMouseWheel
 parent: Application API
-nav_order: cf
 ---
 # void enuOnMouseWheel\(HVIEW pENUView, UINT nFlags, short zDelta, CPoint pt\)
 

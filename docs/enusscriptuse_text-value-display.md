@@ -3,7 +3,6 @@ layout: default
 title: 텍스트 객체 값 출력방법
 parent: Script 사용방법
 grand_parent: enuSpace Tutorial
-nav_order: 1
 ---
 
 # 텍스트 객체 값 출력방법

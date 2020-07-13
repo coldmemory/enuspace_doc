@@ -2,7 +2,6 @@
 layout: default
 title: enuIsSelectObject
 parent: Application API
-nav_order: b2
 ---
 # bool enuIsSelectObject\(HVIEW pENUView\)
 

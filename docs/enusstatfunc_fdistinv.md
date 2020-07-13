@@ -3,7 +3,6 @@ layout: default
 title: FInv
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 23
 ---
 
 # FInv

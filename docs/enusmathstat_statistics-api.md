@@ -2,7 +2,6 @@
 layout: default
 title: Statistics functions
 parent: Math & Statistics
-nav_order: 6
 has_children: true
 ---
 

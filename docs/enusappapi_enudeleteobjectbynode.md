@@ -2,7 +2,6 @@
 layout: default
 title: enuDeleteObjectByNode
 parent: Application API
-nav_order: 46
 ---
 # void enuDeleteObjectByNode\(HSVG pSvgHandler, HNODE pTarget\)
 

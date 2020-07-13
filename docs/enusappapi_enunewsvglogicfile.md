@@ -2,7 +2,6 @@
 layout: default
 title: enuNewSvgLogicFile
 parent: Application API
-nav_order: cb
 ---
 # HSVG enuNewSvgLogicFile\(wchar\_t\* pStrFileName\)
 

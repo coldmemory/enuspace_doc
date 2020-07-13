@@ -2,7 +2,6 @@
 layout: default
 title: enuRegisterLuaScriptById
 parent: Application API
-nav_order: d8
 ---
 # void enuRegisterLuaScriptById\(wchar\_t\* strPagename, wchar\_t\* strID, wchar\_t\* strFunction, wchar\_t\* strScript\)
 

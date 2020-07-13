@@ -2,7 +2,6 @@
 layout: default
 title: enuGetResourceList
 parent: Application API
-nav_order: 92
 ---
 # void\* enuGetResourceList\(\)
 

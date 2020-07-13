@@ -3,7 +3,6 @@ layout: default
 title: Atan
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 9
 ---
 
 # Atan

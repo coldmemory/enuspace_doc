@@ -2,7 +2,6 @@
 layout: default
 title: enuIsModifyPage
 parent: Application API
-nav_order: aa
 ---
 # bool enuIsModifyPage\(HVIEW pENUView\)
 

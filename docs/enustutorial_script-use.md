@@ -2,5 +2,5 @@
 layout: default
 title: Script 사용방법
 parent: enuSpace Tutorial
-nav_order: 10
+has_cildren: true
 ---

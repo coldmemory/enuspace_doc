@@ -2,7 +2,6 @@
 layout: default
 title: enuSetViewID
 parent: Application API
-nav_order: 15b
 ---
 # void enuSetViewID\(HVIEW pENUView, wchar\_t\* strID\)
 

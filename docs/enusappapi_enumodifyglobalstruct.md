@@ -2,7 +2,6 @@
 layout: default
 title: enuModifyGlobalStruct
 parent: Application API
-nav_order: c1
 ---
 # bool enuModifyGlobalStruct\(wchar\_t\* pStrFileName, wchar\_t\* strStruct, wchar\_t\* strNewStruct, CPtrList\* pItem\)
 

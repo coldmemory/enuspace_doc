@@ -2,7 +2,6 @@
 layout: default
 title: enuSetLuaScriptByNode
 parent: Application API
-nav_order: 115
 ---
 # void enuSetLuaScriptByNode\(HSVG pSvgHandler, HNODE pNode, wchar\_t\* strFunction, wchar\_t\* strScript\)
 

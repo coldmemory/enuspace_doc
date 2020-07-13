@@ -3,7 +3,6 @@ layout: default
 title: Correl
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 16
 ---
 
 # Correl

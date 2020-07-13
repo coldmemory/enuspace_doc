@@ -3,7 +3,6 @@ layout: default
 title: Csc
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 17
 ---
 
 # Csc

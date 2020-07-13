@@ -2,7 +2,6 @@
 layout: default
 title: enuGetPageClass
 parent: Application API
-nav_order: 8a
 ---
 # void\* enuGetPageClass\(wchar\_t\* pStrFileName\)
 

@@ -3,7 +3,6 @@ layout: default
 title: Inverse
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 29
 ---
 
 # Inverse

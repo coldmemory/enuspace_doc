@@ -2,7 +2,6 @@
 layout: default
 title: enuDeleteSvgExternalPageFile
 parent: Application API
-nav_order: 47
 ---
 # bool enuDeleteSvgExternalPageFile\(wchar\_t\* pFileName\)
 

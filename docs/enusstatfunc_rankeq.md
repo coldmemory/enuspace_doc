@@ -3,7 +3,6 @@ layout: default
 title: RankEq
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 67
 ---
 
 # RankEq

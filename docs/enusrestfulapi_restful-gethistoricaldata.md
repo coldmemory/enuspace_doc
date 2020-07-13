@@ -3,7 +3,6 @@ layout: default
 title: gethistoricaldata
 parent: RESTful API
 grand_parent: enuSpace Tutorial
-nav_order: 6
 ---
 
 # **RESTful API - gethistoricaldata**

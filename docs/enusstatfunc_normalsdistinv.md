@@ -3,7 +3,6 @@ layout: default
 title: NormalSInv
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 58
 ---
 
 # NormalSInv

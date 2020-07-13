@@ -2,7 +2,6 @@
 layout: default
 title: enuGetGlobalList
 parent: Application API
-nav_order: 6e
 ---
 # void\* enuGetGlobalList\(\)
 

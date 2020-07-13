@@ -2,7 +2,6 @@
 layout: default
 title: enuGetProjectName
 parent: Application API
-nav_order: 8e
 ---
 # wchar\_t\* enuGetProjectName\(\)
 

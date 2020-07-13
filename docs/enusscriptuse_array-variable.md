@@ -3,7 +3,6 @@ layout: default
 title: 배열변수의 활용방법
 parent: Script 사용방법
 grand_parent: enuSpace Tutorial
-nav_order: 3
 ---
 
 # 배열변수의 활용방법

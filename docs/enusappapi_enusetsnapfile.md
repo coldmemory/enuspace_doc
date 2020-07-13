@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSnapFile
 parent: Application API
-nav_order: 14a
 ---
 # void enuSetSnapFile\(wchar\_t\* strFilename\)
 

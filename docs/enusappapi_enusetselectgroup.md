@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectGroup
 parent: Application API
-nav_order: 13f
 ---
 # void enuSetSelectGroup\(HVIEW pENUView\)
 

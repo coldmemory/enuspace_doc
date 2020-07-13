@@ -1,7 +1,6 @@
 ---
 layout: default
 title:  External Task
-nav_order: 6
 has_children: true
 ---
 

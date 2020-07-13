@@ -3,7 +3,6 @@ layout: default
 title: setvalue
 parent: RESTful API
 grand_parent: enuSpace Tutorial
-nav_order: 3
 ---
 
 # **RESTful API - setvalue**

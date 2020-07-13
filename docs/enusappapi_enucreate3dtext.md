@@ -2,7 +2,6 @@
 layout: default
 title: enuCreate3DText
 parent: Application API
-nav_order: 1b
 ---
 # HNODE enuCreate3DText\(HX3D pX3DHandler, wchar\_t\* strID, wchar\_t\* strString, wchar\_t\* strValue, float fontSize, float transx, float transy, float transz\)
 

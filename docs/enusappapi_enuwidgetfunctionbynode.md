@@ -2,7 +2,6 @@
 layout: default
 title: enuWidgetFunctionByNode
 parent: Application API
-nav_order: 171
 ---
 # void enuWidgetFunctionByNode\(HVIEW pENUView, HNODE pNode, wchar\_t\* strFunction\)
 

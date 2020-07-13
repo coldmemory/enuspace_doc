@@ -3,7 +3,6 @@ layout: default
 title: requestpage
 parent: RESTful API
 grand_parent: enuSpace Tutorial
-nav_order: 1
 ---
 
 # **RESTful API - requestpage**

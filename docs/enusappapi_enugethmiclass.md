@@ -2,7 +2,6 @@
 layout: default
 title: enuGetHmiClass
 parent: Application API
-nav_order: 73
 ---
 # HSVG enuGetHmiClass\(wchar\_t\* pStrFileName\)
 

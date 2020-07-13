@@ -2,7 +2,6 @@
 layout: default
 title: Component Task(saturn ver.4)
 parent: External Task
-nav_order: 2
 has_children: true
 ---
 

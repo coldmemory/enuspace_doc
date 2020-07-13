@@ -3,7 +3,6 @@ layout: default
 title: Cosh
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 14
 ---
 
 # Cosh

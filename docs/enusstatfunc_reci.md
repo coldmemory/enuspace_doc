@@ -3,7 +3,6 @@ layout: default
 title: reci
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 68
 ---
 
 # Reci

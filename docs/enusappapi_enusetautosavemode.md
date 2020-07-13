@@ -2,7 +2,6 @@
 layout: default
 title: enuSetAutoSaveMode
 parent: Application API
-nav_order: f2
 ---
 # void enuSetAutoSaveMode\(bool bAuto\)
 

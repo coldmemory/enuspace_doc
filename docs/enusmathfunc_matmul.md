@@ -3,7 +3,6 @@ layout: default
 title: MatMul
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 33
 ---
 
 # MatMul

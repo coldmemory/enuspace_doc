@@ -2,7 +2,6 @@
 layout: default
 title: enuSet3DJavaScriptByNode
 parent: Application API
-nav_order: e9
 ---
 # void enuSet3DJavaScriptByNode\(HX3D pX3D, HNODE pNode, wchar\_t\* strFunction, wchar\_t\* strScript\)
 

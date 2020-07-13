@@ -3,7 +3,6 @@ layout: default
 title: C to Fortarn Interface(String)
 parent: Component Task(saturn ver.4)
 grand_parent : External Task
-nav_order: 2
 ---
 
 # C++ 에서 Fortran으로 Project Path 보내기

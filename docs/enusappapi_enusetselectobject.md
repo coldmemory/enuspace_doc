@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectObject
 parent: Application API
-nav_order: 144
 ---
 # bool enuSetSelectObject\(HVIEW pENUView, wchar\_t\* strSelectID\)
 

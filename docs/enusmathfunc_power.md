@@ -3,7 +3,6 @@ layout: default
 title: Pow
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 38
 ---
 
 # Pow

@@ -2,7 +2,6 @@
 layout: default
 title: enuSetTaskProperty
 parent: Application API
-nav_order: 154
 ---
 # bool enuSetTaskProperty\(wchar\_t\* pStrTaskID, wchar\_t\* pStrProp, wchar\_t\* pStrValue\)
 

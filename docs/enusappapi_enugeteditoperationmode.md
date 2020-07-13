@@ -2,7 +2,6 @@
 layout: default
 title: enuGetEditOperationMode
 parent: Application API
-nav_order: 6b
 ---
 # bool enuGetEditOperationMode\(HVIEW pENUVie\)
 

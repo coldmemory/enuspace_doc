@@ -2,7 +2,6 @@
 layout: default
 title: enuCloseWindow
 parent: Application API
-nav_order: a
 ---
 # void enuCloseWindow\(wchar\_t\* strWindow\)
 

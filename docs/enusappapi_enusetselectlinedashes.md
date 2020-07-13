@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectLineDashes
 parent: Application API
-nav_order: 141
 ---
 # void enuSetSelectLineDashes\(HVIEW pENUView, wchar\_t\* strDashes\)
 

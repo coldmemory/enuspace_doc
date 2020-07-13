@@ -2,7 +2,6 @@
 layout: default
 title: enuSetCanvasColor
 parent: Application API
-nav_order: f9
 ---
 # void enuSetCanvasColor\(HVIEW pENUView, byte iR, byte iG, byte iB\)
 

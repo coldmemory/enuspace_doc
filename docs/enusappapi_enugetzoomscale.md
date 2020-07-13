@@ -2,7 +2,6 @@
 layout: default
 title: enuGetZoomScale
 parent: Application API
-nav_order: a2
 ---
 # float enuGetZoomScale\(HVIEW pENUView\)
 

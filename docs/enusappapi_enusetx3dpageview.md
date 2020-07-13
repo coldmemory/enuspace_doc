@@ -2,7 +2,6 @@
 layout: default
 title: enuSetX3dPageView
 parent: Application API
-nav_order: 163
 ---
 # bool enuSetX3dPageView\(HVIEW pENUView, wchar\_t\* pStrFileName\)
 

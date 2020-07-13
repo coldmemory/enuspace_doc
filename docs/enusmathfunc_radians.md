@@ -3,7 +3,6 @@ layout: default
 title: Radian
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 40
 ---
 
 # Radian

@@ -2,7 +2,6 @@
 layout: default
 title: enuCreateProject
 parent: Application API
-nav_order: 2f
 ---
 # HPROJECT enuCreateProject\(\)
 

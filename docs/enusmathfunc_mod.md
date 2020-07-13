@@ -3,7 +3,6 @@ layout: default
 title: Mod
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 35
 ---
 
 # Mod

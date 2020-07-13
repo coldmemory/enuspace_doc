@@ -2,7 +2,6 @@
 layout: default
 title: enuSetVolumeX
 parent: Application API
-nav_order: 15c
 ---
 # void enuSetVolumeX\(int iVolume\)
 

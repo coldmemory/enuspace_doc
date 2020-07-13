@@ -2,7 +2,6 @@
 layout: default
 title: CreateRect
 parent: Script API
-nav_order: 16
 ---
 # CreateRect\(id, x, y, width, height, transx, transy\)
 

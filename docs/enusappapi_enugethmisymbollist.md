@@ -2,7 +2,6 @@
 layout: default
 title: enuGetHmiSymbolList
 parent: Application API
-nav_order: 75
 ---
 # void\* enuGetHmiSymbolList\(wchar\_t\* pStrFilename\)
 

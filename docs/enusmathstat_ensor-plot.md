@@ -2,7 +2,6 @@
 layout: default
 title: Ensor Plot
 parent: Math & Statistics
-nav_order: 2
 ---
 
 # Ensor Plot

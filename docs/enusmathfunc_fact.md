@@ -3,7 +3,6 @@ layout: default
 title: Fact
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 24
 ---
 
 # Fact

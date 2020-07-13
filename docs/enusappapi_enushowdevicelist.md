@@ -2,7 +2,6 @@
 layout: default
 title: enuShowDeviceList
 parent: Application API
-nav_order: 166
 ---
 # void enuShowDeviceList\(\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuGetSvgPageClass
 parent: Application API
-nav_order: 97
 ---
 # HSVG enuGetSvgPageClass\(wchar\_t\* pStrFileName\)
 

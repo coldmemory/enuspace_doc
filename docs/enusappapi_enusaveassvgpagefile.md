@@ -2,7 +2,6 @@
 layout: default
 title: enuSaveAsSvgPageFile
 parent: Application API
-nav_order: e0
 ---
 # bool enuSaveAsSvgPageFile\(wchar\_t\* strTaget, wchar\_t\* strSource\)
 

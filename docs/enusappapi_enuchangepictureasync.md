@@ -2,7 +2,6 @@
 layout: default
 title: enuChangePictureAsync
 parent: Application API
-nav_order: 8
 ---
 # void enuChangePictureAsync\(wchar\_t\* strWindow, wchar\_t\* strPicName\)
 

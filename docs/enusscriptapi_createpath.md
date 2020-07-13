@@ -2,7 +2,6 @@
 layout: default
 title: CreatePath
 parent: Script API
-nav_order: 13
 ---
 # CreatePath\(id, points, transx, transy\)
 

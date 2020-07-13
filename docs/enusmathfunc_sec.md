@@ -3,7 +3,6 @@ layout: default
 title: Sec
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 43
 ---
 
 # Sec

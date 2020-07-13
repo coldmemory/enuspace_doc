@@ -3,7 +3,6 @@ layout: default
 title: HarMean
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 37
 ---
 
 # HarMean

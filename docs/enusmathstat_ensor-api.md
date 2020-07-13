@@ -2,7 +2,6 @@
 layout: default
 title: Ensor API
 parent: Math & Statistics
-nav_order: 3
 ---
 
 # Ensor object

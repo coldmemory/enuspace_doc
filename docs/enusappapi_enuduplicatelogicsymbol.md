@@ -2,7 +2,6 @@
 layout: default
 title: enuDuplicateLogicSymbol
 parent: Application API
-nav_order: 55
 ---
 # HNODE enuDuplicateLogicSymbol\(wchar\_t\* strPicture, wchar\_t\* strSymbol\)
 

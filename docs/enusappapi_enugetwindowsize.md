@@ -2,7 +2,6 @@
 layout: default
 title: enuGetWindowSize
 parent: Application API
-nav_order: 9e
 ---
 # bool enuGetWindowSize\(wchar\_t\* strWindowID, RECT\* rect\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectFillOpacity
 parent: Application API
-nav_order: 131
 ---
 # void enuSetSelectFillOpacity\(HVIEW pENUView, wchar\_t\* strOpacity\)
 

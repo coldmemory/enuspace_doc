@@ -2,7 +2,6 @@
 layout: default
 title: enuCreateWidget
 parent: Application API
-nav_order: 3c
 ---
 # HVIEW enuCreateWidget\(HWND hWnd\)
 

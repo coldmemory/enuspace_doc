@@ -3,7 +3,6 @@ layout: default
 title: Mode
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 53
 ---
 
 # Mode

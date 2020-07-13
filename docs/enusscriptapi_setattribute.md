@@ -2,7 +2,6 @@
 layout: default
 title: SetAttribute
 parent: Script API
-nav_order: 3e
 ---
 # SetAttribute\(variable, value\)
 

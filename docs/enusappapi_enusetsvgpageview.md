@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSvgPageView
 parent: Application API
-nav_order: 14e
 ---
 # bool enuSetSvgPageView\(HVIEW pENUView, wchar\_t\* pStrFileName\)
 

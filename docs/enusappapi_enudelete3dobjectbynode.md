@@ -2,7 +2,6 @@
 layout: default
 title: enuDelete3DObjectByNode
 parent: Application API
-nav_order: 3f
 ---
 # void enuDelete3DObjectByNode\(HX3D pX3DHandler, HNODE pTarget\)
 

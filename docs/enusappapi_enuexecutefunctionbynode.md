@@ -2,7 +2,6 @@
 layout: default
 title: enuExecuteFunctionByNode
 parent: Application API
-nav_order: 59
 ---
 # void enuExecuteFunctionByNode\(HSVG pSvgHandler, HNODE pNode, wchar\_t\* strFunction\);
 

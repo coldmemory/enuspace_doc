@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectFlip
 parent: Application API
-nav_order: 132
 ---
 # void enuSetSelectFlip\(HVIEW pENUView, int iType\)
 

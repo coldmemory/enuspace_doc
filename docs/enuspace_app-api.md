@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Application API
-nav_order: 9
 has_children: true
 ---
 

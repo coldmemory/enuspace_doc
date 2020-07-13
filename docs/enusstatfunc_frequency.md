@@ -3,7 +3,6 @@ layout: default
 title: Frequency
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 28
 ---
 
 # Frequency

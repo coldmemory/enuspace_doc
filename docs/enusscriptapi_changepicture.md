@@ -2,7 +2,6 @@
 layout: default
 title: ChangePicture
 parent: Script API
-nav_order: 3
 ---
 # ChangePicture\(window, picture\)
 

@@ -3,7 +3,6 @@ layout: default
 title: Median
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 50
 ---
 
 # Max

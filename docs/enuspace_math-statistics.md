@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Math & Statistics
-nav_order: 5
 has_children: true
 ---
 

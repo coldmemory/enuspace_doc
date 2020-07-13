@@ -2,7 +2,6 @@
 layout: default
 title: enuGetSymbolHeight
 parent: Application API
-nav_order: 98
 ---
 # float enuGetSymbolHeight\(HVIEW pENUView, wchar\_t\* strSymbol\)
 

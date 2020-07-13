@@ -3,7 +3,6 @@ layout: default
 title: Log10
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 32
 ---
 
 # Log10

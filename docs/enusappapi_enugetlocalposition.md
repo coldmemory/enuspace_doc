@@ -2,7 +2,6 @@
 layout: default
 title: enuGetLocalPosition
 parent: Application API
-nav_order: 76
 ---
 # POINTF enuGetLocalPosition\(HVIEW pENUView, POINT point\)
 

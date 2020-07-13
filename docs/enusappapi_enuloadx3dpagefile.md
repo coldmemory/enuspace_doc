@@ -2,7 +2,6 @@
 layout: default
 title: enuLoadX3DPageFile
 parent: Application API
-nav_order: bd
 ---
 # HSVG enuLoadX3DPageFile\(wchar\_t\* pStrFileName\)
 

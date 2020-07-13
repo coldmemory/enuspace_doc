@@ -2,7 +2,6 @@
 layout: default
 title: enuCreate3DConeAsync
 parent: Application API
-nav_order: e
 ---
 # void enuCreate3DConeAsync\(HX3D pX3DHandler, wchar\_t\* strID, float bottomRadius, float height, float slices, float transx, float transy, float transz\)
 

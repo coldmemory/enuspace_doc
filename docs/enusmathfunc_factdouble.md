@@ -3,7 +3,6 @@ layout: default
 title: FactDouble
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 25
 ---
 
 # FactDouble

@@ -2,7 +2,6 @@
 layout: default
 title: enuSetReShapeArrayValue
 parent: Application API
-nav_order: 126
 ---
 # void enuSetReShapeArrayValue\(wchar\_t\* pVariable, void\* fValue, int iType, int iSize\)
 

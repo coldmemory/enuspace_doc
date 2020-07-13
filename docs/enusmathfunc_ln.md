@@ -3,7 +3,6 @@ layout: default
 title: Ln
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 31
 ---
 
 # Ln

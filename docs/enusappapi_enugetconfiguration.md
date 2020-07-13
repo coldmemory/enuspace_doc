@@ -2,7 +2,6 @@
 layout: default
 title: enuGetConfiguration
 parent: Application API
-nav_order: 65
 ---
 # wchar\_t\* enuGetConfiguration\(wchar\_t\* pAttribute\)
 

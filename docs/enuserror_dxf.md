@@ -2,7 +2,6 @@
 layout: default
 title: DXF
 parent: enuSpace Error Code
-nav_order: 7
 ---
 # DXH - ERROR CODE
 

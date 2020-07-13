@@ -3,7 +3,6 @@ layout: default
 title: getvalue_package
 parent: RESTful API
 grand_parent: enuSpace Tutorial
-nav_order: 5
 ---
 
 # **RESTful API - getvalue\_package**

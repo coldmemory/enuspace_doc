@@ -2,7 +2,6 @@
 layout: default
 title: enuGetGlobalPgAttributeList
 parent: Application API
-nav_order: 6f
 ---
 # void\* enuGetGlobalPgAttributeList\(wchar\_t\* pStrFileName, wchar\_t\* pStrStructName\)
 

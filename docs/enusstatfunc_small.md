@@ -3,7 +3,6 @@ layout: default
 title: Small
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 74
 ---
 
 # Small

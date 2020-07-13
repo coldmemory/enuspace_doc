@@ -2,7 +2,6 @@
 layout: default
 title: enuSelConnectionPin
 parent: Application API
-nav_order: e6
 ---
 # bool enuSelConnectionPin\(HVIEW pENUView, wchar\_t\* strPicture, wchar\_t\* strSymbol\)
 

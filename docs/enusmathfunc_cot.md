@@ -3,7 +3,6 @@ layout: default
 title: Cot
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 15
 ---
 
 # Cot

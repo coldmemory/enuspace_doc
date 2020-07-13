@@ -2,7 +2,6 @@
 layout: default
 title: enuSaveAsSvgGlobalFile
 parent: Application API
-nav_order: dd
 ---
 # bool enuSaveAsSvgGlobalFile\(wchar\_t\* strTaget, wchar\_t\* strSource\)
 

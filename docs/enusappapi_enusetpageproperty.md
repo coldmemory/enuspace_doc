@@ -2,7 +2,6 @@
 layout: default
 title: enuSetPageProperty
 parent: Application API
-nav_order: 11f
 ---
 # bool enuSetPageProperty\(void\* pPage, wchar\_t\* pAttribute, wchar\_t\* pValue\)
 

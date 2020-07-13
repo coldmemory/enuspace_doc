@@ -2,7 +2,6 @@
 layout: default
 title: enuCreate3DView
 parent: Application API
-nav_order: 1d
 ---
 # HVIEW enuCreate3DView\(HWND hWnd\)
 

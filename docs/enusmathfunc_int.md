@@ -3,7 +3,6 @@ layout: default
 title: Int
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 28
 ---
 
 # Int

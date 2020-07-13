@@ -3,7 +3,6 @@ layout: default
 title: Even
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 22
 ---
 
 # Even

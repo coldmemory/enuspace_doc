@@ -2,7 +2,6 @@
 layout: default
 title: enuRegisterJavaScriptByNode
 parent: Application API
-nav_order: d6
 ---
 # void enuRegisterJavaScriptByNode\(wchar\_t\* strPagename, HNODE pNode, wchar\_t\* strFunction, wchar\_t\* strScript\)
 

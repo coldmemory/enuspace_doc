@@ -2,7 +2,6 @@
 layout: default
 title: enuDeleteLogicSymbol
 parent: Application API
-nav_order: 44
 ---
 # bool enuDeleteLogicSymbol\(wchar\_t\* pStrFilename, wchar\_t\* pStrSymbol\)
 

@@ -3,7 +3,6 @@ layout: default
 title: BetaDist
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 4
 ---
 
 # BetaDist

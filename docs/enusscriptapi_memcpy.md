@@ -2,7 +2,6 @@
 layout: default
 title: memcpy
 parent: Script API
-nav_order: 31
 ---
 # memcpy\(target, source, size\)
 

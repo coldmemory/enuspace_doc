@@ -2,7 +2,6 @@
 layout: default
 title: enuSelectObjectListClear
 parent: Application API
-nav_order: e7
 ---
 # void enuSelectObjectListClear\(HVIEW pENUView\)
 

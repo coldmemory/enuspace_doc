@@ -2,7 +2,6 @@
 layout: default
 title: enuPlaySoundX
 parent: Application API
-nav_order: d1
 ---
 # void enuPlaySoundX\(wchar\_t\* wavfilename\)
 

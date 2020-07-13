@@ -2,7 +2,6 @@
 layout: default
 title: enuExecute3DFunction
 parent: Application API
-nav_order: 56
 ---
 # void enuExecute3DFunction\(HX3D pX3D, wchar\_t\* strFunction\)
 

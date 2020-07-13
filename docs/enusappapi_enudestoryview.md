@@ -2,7 +2,6 @@
 layout: default
 title: enuDestoryView
 parent: Application API
-nav_order: 52
 ---
 # void enuDestoryView\(HVIEW pENUView\)
 

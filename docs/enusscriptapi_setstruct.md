@@ -2,7 +2,6 @@
 layout: default
 title: SetStruct
 parent: Script API
-nav_order: 43
 ---
 # SetStruct\(\)
 

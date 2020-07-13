@@ -2,7 +2,6 @@
 layout: default
 title: enuCloseProjectFile
 parent: Application API
-nav_order: 9
 ---
 # bool enuCloseProjectFile\(\)
 

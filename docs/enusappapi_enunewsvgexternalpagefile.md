@@ -2,7 +2,6 @@
 layout: default
 title: enuNewSvgExternalPageFile
 parent: Application API
-nav_order: c8
 ---
 # HSVG enuNewSvgExternalPageFile\(wchar\_t\* pFileName\)
 

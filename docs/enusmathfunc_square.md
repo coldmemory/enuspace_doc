@@ -3,7 +3,6 @@ layout: default
 title: Square
 parent: Math functions
 grand_parent: enuSpace Tutorial
-nav_order: 49
 ---
 
 # Square

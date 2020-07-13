@@ -2,7 +2,6 @@
 layout: default
 title: enuGetAttributeByNode
 parent: Application API
-nav_order: 62
 ---
 # void enuGetAttributeByNode\(HSVG pSvgHandler, HNODE pObject, wchar\_t\* pStrVariable, VariableStruct\* pData\)
 

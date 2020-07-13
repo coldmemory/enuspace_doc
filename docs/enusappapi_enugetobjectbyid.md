@@ -2,7 +2,6 @@
 layout: default
 title: enuGetObjectById
 parent: Application API
-nav_order: 84
 ---
 # HNODE enuGetObjectById\(HSVG pSvgHandler, wchar\_t\* objectid\)
 

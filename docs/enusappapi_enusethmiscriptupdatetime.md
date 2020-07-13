@@ -2,7 +2,6 @@
 layout: default
 title: enuSetHMIScriptUpdateTime
 parent: Application API
-nav_order: 10e
 ---
 # void enuSetHMIScriptUpdateTime\(int iMiliSecond\)
 

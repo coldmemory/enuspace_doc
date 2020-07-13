@@ -2,7 +2,6 @@
 layout: default
 title: enuCreateEllipse
 parent: Application API
-nav_order: 20
 ---
 # HNODE enuCreateEllipse\(HSVG pSvgHandler, wchar\_t\* strID, float rx, float ry, float cx, float cy, float transx, float transy\)
 

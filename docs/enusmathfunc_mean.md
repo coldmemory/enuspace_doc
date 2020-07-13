@@ -3,7 +3,6 @@ layout: default
 title: Mean
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 34
 ---
 
 # Mean

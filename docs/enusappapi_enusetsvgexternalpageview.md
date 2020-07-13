@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSvgExternalPageView
 parent: Application API
-nav_order: 14b
 ---
 # bool enuSetSvgExternalPageView\(HVIEW pENUView, HSVG pSvg\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuSetMove3DCanvas
 parent: Application API
-nav_order: 11d
 ---
 # void enuSetMove3DCanvas\(HVIEW pENUView, float transx, float transy, float transz\)
 

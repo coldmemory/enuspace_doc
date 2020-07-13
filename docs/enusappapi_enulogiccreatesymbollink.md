@@ -2,7 +2,6 @@
 layout: default
 title: enuLogicCreateSymbolLink
 parent: Application API
-nav_order: be
 ---
 # bool enuLogicCreateSymbolLink\(wchar\_t\* pStrFilename, wchar\_t\* pStrSymbol\)
 

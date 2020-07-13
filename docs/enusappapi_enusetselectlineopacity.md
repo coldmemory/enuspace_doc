@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectLineOpacity
 parent: Application API
-nav_order: 142
 ---
 # void enuSetSelectLineOpacity\(HVIEW pENUView, wchar\_t\* strOpacity\)
 

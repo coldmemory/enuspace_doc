@@ -2,7 +2,6 @@
 layout: default
 title: enuCreateImageWidget
 parent: Application API
-nav_order: 25
 ---
 # HNODE enuCreateImageWidget\(HVIEW pENUView, wchar\_t\* xlink\_href\)
 

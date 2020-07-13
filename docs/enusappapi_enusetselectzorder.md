@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectZOrder
 parent: Application API
-nav_order: 149
 ---
 # void enuSetSelectZOrder\(HVIEW pENUView, int iType\)
 

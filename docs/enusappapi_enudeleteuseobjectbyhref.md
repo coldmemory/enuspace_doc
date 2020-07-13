@@ -2,7 +2,6 @@
 layout: default
 title: enuDeleteUseObjectByHref
 parent: Application API
-nav_order: 4d
 ---
 # void enuDeleteUseObjectByHref\(HSVG pSvgHandler, wchar\_t\* pStrHref\)
 

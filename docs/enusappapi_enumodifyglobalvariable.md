@@ -2,7 +2,6 @@
 layout: default
 title: enuModifyGlobalVariable
 parent: Application API
-nav_order: c2
 ---
 # bool enuModifyGlobalVariable\(wchar\_t\* pStrFileName, wchar\_t\* strVariable, wchar\_t\* strNewType, wchar\_t\* strNewVariable, wchar\_t\* strNewDescription\)
 

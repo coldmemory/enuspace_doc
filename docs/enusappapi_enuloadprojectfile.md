@@ -2,7 +2,6 @@
 layout: default
 title: enuLoadProjectFile
 parent: Application API
-nav_order: b6
 ---
 # bool enuLoadProjectFile\(wchar\_t\* pStrFileName\)
 

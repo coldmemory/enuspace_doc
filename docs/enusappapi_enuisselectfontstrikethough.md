@@ -2,7 +2,6 @@
 layout: default
 title: enuIsSelectFontStrikethough
 parent: Application API
-nav_order: ae
 ---
 # bool enuIsSelectFontStrikethough\(HVIEW pENUView\)
 

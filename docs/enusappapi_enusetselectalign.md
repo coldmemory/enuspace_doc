@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSelectAlign
 parent: Application API
-nav_order: 12c
 ---
 # void enuSetSelectAlign\(HVIEW pENUView, int iType\)
 

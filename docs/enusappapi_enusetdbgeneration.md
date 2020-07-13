@@ -2,7 +2,6 @@
 layout: default
 title: enuSetDBGeneration
 parent: Application API
-nav_order: fd
 ---
 # void enuSetDBGeneration\(\)
 

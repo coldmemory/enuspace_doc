@@ -3,7 +3,6 @@ layout: default
 title: Intercept
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 39
 ---
 
 # Intercept

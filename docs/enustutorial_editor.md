@@ -2,7 +2,6 @@
 layout: default
 title: 저작기 사용방법
 parent: enuSpace Tutorial
-nav_order: 8
 has_children: true
 ---
 

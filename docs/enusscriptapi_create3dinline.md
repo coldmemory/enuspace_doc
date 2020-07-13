@@ -2,7 +2,6 @@
 layout: default
 title: Create3DInline
 parent: Script API
-nav_order: 9
 ---
 # Create3DInline\(id, strUrl, transx, transy, transz\)
 

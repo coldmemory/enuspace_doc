@@ -2,7 +2,6 @@
 layout: default
 title: enuGetScriptOperationMode
 parent: Application API
-nav_order: 93
 ---
 # bool enuGetScriptOperationMode\(\)
 

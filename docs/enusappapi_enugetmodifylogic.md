@@ -2,7 +2,6 @@
 layout: default
 title: enuGetModifyLogic
 parent: Application API
-nav_order: 7e
 ---
 # bool enuGetModifyLogic\(wchar\_t\* pStrFilename\)
 

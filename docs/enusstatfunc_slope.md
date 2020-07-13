@@ -3,7 +3,6 @@ layout: default
 title: Slope
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 73
 ---
 
 # Slope

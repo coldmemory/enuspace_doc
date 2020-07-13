@@ -2,7 +2,6 @@
 layout: default
 title: enuCreateEllipseAsync
 parent: Application API
-nav_order: 21
 ---
 # void enuCreateEllipseAsync\(HSVG pSvgHandler, wchar\_t\* strID, float rx, float ry, float cx, float cy, float transx, float transy\)
 

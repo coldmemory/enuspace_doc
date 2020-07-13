@@ -2,7 +2,6 @@
 layout: default
 title: enuSetMButtonUpCallBack
 parent: Application API
-nav_order: 117
 ---
 # void enuSetMButtonUpCallBack\(HVIEW pENUView, void functioncb\(float, float\) \)
 

@@ -2,7 +2,6 @@
 layout: default
 title: Create3DText
 parent: Script API
-nav_order: d
 ---
 # Create3DText\(id, text, style, fontsize, transx, transy, transz\)
 

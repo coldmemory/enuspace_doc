@@ -2,7 +2,6 @@
 layout: default
 title: enuSaveSvgFile
 parent: Application API
-nav_order: e4
 ---
 # bool enuSaveSvgFile\(HSVG pSvgHandler, wchar\_t\* strFileName= L""\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuRegisterJavaScriptById
 parent: Application API
-nav_order: d5
 ---
 # void enuRegisterJavaScriptById\(wchar\_t\* strPagename, wchar\_t\* strID, wchar\_t\* strFunction, wchar\_t\* strScript\)
 

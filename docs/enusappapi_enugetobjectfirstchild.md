@@ -2,7 +2,6 @@
 layout: default
 title: enuGetObjectFirstChild
 parent: Application API
-nav_order: 85
 ---
 enuSpace for saturn\(ver.4\)
 

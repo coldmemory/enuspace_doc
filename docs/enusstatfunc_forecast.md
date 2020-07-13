@@ -3,7 +3,6 @@ layout: default
 title: Forecast
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 27
 ---
 
 # Forecast

@@ -2,7 +2,6 @@
 layout: default
 title: enuGet3DObjectById
 parent: Application API
-nav_order: 5e
 ---
 # HNODE enuGet3DObjectById\(HX3D pX3DHandler, wchar\_t\* objectid\)
 

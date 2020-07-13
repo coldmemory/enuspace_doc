@@ -2,7 +2,6 @@
 layout: default
 title: enuSetEditRedo
 parent: Application API
-nav_order: 106
 ---
 # void enuSetEditRedo\(HVIEW pENUView\)
 

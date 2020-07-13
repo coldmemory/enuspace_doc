@@ -3,7 +3,6 @@ layout: default
 title: BinomDistRange
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 8
 ---
 
 # BinomDistRange

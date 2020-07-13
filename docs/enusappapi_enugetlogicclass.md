@@ -2,7 +2,6 @@
 layout: default
 title: enuGetLogicClass
 parent: Application API
-nav_order: 77
 ---
 # HSVG enuGetLogicClass\(wchar\_t\* pStrFileName\)
 

@@ -3,7 +3,6 @@ layout: default
 title: Atanh
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 11
 ---
 
 # Atanh

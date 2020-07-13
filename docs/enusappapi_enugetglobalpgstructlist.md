@@ -2,7 +2,6 @@
 layout: default
 title: enuGetGlobalPgStructList
 parent: Application API
-nav_order: 70
 ---
 # void\* enuGetGlobalPgStructList\(wchar\_t\* pStrFileName\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuSetCallBackDebugMessage
 parent: Application API
-nav_order: f4
 ---
 # void enuSetCallBackDebugMessage\(void fcbDebugMessage\(wchar\_t\*\)\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuMoveWindow
 parent: Application API
-nav_order: c7
 ---
 # void enuMoveWindow\(wchar\_t\* strWindow, float posX, float posY\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: CreateUse
 parent: Script API
-nav_order: 19
 ---
 # CreateUse\(id, x, y, href, type, transx, transy\)
 

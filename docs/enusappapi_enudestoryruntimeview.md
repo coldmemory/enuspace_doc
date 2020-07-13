@@ -2,7 +2,6 @@
 layout: default
 title: enuDestoryRuntimeView
 parent: Application API
-nav_order: 51
 ---
 # void enuDestoryRuntimeView\(\)
 

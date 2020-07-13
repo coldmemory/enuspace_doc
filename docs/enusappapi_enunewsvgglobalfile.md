@@ -2,7 +2,6 @@
 layout: default
 title: enuNewSvgGlobalFile
 parent: Application API
-nav_order: c9
 ---
 # HSVG enuNewSvgGlobalFile\(wchar\_t\* pStrFileName\)
 

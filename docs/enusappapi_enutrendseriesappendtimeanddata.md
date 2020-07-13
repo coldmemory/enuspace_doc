@@ -2,7 +2,6 @@
 layout: default
 title: enutrendseriesappendtimeanddata
 parent: Application API
-nav_order: 16c
 ---
 # void enuTrendSeriesAppendTimeAndData\(HNODE SeriesNode, double fTime, double fValue\)
 

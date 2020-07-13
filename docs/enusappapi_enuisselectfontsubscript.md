@@ -2,7 +2,6 @@
 layout: default
 title: enuIsSelectFontSubscript
 parent: Application API
-nav_order: af
 ---
 # bool enuIsSelectFontSubscript\(HVIEW pENUView\)
 

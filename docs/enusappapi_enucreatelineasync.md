@@ -2,7 +2,6 @@
 layout: default
 title: enuCreateLineAsync
 parent: Application API
-nav_order: 27
 ---
 # void enuCreateLineAsync\(HSVG pSvgHandler, wchar\_t\* strID, float x1, float y1, float x2, float y2, float transx, float transy\)
 

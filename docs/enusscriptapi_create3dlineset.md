@@ -2,7 +2,6 @@
 layout: default
 title: Create3DLineSet
 parent: Script API
-nav_order: a
 ---
 # Create3DLineSet\(id, points, transx, transy, transz\)
 

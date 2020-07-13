@@ -3,7 +3,6 @@ layout: default
 title: Acoth
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 5
 ---
 
 # Acoth

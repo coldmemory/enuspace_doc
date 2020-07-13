@@ -2,7 +2,6 @@
 layout: default
 title: enuGetTransformFromGeometry
 parent: Application API
-nav_order: 9c
 ---
 # HNODE enuGetTransformFromGeometry\(HX3D pX3DHandler, HNODE node\)
 

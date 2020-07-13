@@ -2,7 +2,6 @@
 layout: default
 title: SJS
 parent: enuSpace Error Code
-nav_order: d
 ---
 # SJS - ERROR CODE
 

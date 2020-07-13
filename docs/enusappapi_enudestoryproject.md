@@ -2,7 +2,6 @@
 layout: default
 title: enuDestoryProject
 parent: Application API
-nav_order: 50
 ---
 # void enuDestoryProject\(HPROJECT pProject\)
 

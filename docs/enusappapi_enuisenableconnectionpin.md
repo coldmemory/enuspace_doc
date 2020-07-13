@@ -2,7 +2,6 @@
 layout: default
 title: enuIsEnableConnectionPin
 parent: Application API
-nav_order: a7
 ---
 # bool enuIsEnableConnectionPin\(HVIEW pENUView\)
 

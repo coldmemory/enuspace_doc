@@ -2,7 +2,6 @@
 layout: default
 title: enuGetModifyGlobal
 parent: Application API
-nav_order: 7c
 ---
 # bool enuGetModifyGlobal\(wchar\_t\* pStrFilename\)
 

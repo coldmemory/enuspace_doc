@@ -2,7 +2,6 @@
 layout: default
 title: enuSetWindowPos
 parent: Application API
-nav_order: 161
 ---
 # void enuSetWindowPos\(HVIEW pENUView, int x, int y, int cx, int cy\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuAddGlobalStruct
 parent: Application API
-nav_order: 2
 ---
 # bool enuAddGlobalStruct\(wchar\_t\* pStrFileName, wchar\_t\* pStrStructName, CPtrList\* pItem\)
 

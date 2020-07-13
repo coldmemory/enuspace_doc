@@ -3,7 +3,6 @@ layout: default
 title: Round
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 42
 ---
 
 # Round

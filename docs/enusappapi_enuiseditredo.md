@@ -2,7 +2,6 @@
 layout: default
 title: enuIsEditRedo
 parent: Application API
-nav_order: a5
 ---
 # bool enuIsEditRedo\(HVIEW pENUView\)
 

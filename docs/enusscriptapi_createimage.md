@@ -2,7 +2,6 @@
 layout: default
 title: CreateImage
 parent: Script API
-nav_order: 11
 ---
 # CreateImage\(id, x, y, width, height, href, transx, transy\)
 

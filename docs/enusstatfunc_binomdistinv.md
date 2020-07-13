@@ -3,7 +3,6 @@ layout: default
 title: BinomInv
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 7
 ---
 
 # BinomInv

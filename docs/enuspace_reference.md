@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Reference (Applied Project)
-nav_order: 3
 ---
 
 # Reference \(Applied Project\)

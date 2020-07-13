@@ -3,7 +3,6 @@ layout: default
 title: CovaranceP
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 18
 ---
 
 # CovaranceP

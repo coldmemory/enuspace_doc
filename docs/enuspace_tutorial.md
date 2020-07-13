@@ -1,7 +1,6 @@
 ---
 layout: default
 title: enuSpace Tutorial
-nav_order: 4
 has_children: true
 ---
 

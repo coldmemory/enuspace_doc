@@ -3,7 +3,6 @@ layout: default
 title: GCD
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 27
 ---
 
 # GCD

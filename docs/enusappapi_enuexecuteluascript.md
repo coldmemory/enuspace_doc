@@ -2,7 +2,6 @@
 layout: default
 title: enuExecuteLuaScript
 parent: Application API
-nav_order: 5b
 ---
 # wchar\_t\* enuExecuteLuaScript\(wchar\_t\* pStrExecute\)
 

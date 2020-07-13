@@ -2,7 +2,6 @@
 layout: default
 title: enuRecvNetData
 parent: Application API
-nav_order: d2
 ---
 # void enuRecvNetData\(void functioncb\(wchar\_t\* system, char\* buffer, int length\)\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: GetLocalCursorPos
 parent: Script API
-nav_order: 24
 ---
 # GetLocalCursorPos\(\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuNewSvgResourceFile
 parent: Application API
-nav_order: cd
 ---
 # HSVG enuNewSvgResourceFile\(wchar\_t\* pStrFileName\)
 

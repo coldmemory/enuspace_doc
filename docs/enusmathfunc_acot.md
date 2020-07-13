@@ -3,7 +3,6 @@ layout: default
 title: Acot
 parent: Math functions
 grand_parent: Math & Statistics
-nav_order: 4
 ---
 
 # Acot

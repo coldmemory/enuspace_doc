@@ -2,7 +2,6 @@
 layout: default
 title: enuExecuteString
 parent: Application API
-nav_order: 5c
 ---
 # void enuExecuteString\(wchar\_t\* picture, wchar\_t\* event\)
 

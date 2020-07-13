@@ -2,7 +2,6 @@
 layout: default
 title: enuGetActiveProject
 parent: Application API
-nav_order: 5f
 ---
 # HPROJECT enuGetActiveProject\(\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: GetValue
 parent: Script API
-nav_order: 2a
 ---
 # GetValue\(variable\)
 

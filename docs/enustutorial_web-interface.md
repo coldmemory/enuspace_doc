@@ -2,7 +2,6 @@
 layout: default
 title: Web 연동 및 사용방법
 parent: enuSpace Tutorial
-nav_order: 12
 ---
 
 # **Web 연동 및 사용방법**

@@ -2,7 +2,6 @@
 layout: default
 title: enuCreate3DCylinderAsync
 parent: Application API
-nav_order: 10
 ---
 # void enuCreate3DCylinderAsync\(HX3D pX3DHandler, wchar\_t\* strID, float height, float radius, float slices, float transx, float transy, float transz\)
 

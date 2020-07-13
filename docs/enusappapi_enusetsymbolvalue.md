@@ -2,7 +2,6 @@
 layout: default
 title: enuSetSymbolValue
 parent: Application API
-nav_order: 151
 ---
 # void enuSetSymbolValue\(HSVG pSvgHandler, wchar\_t\* pStrVariable, wchar\_t\* pStrValue\)
 

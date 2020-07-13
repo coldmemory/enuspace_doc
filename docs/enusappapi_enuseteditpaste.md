@@ -2,7 +2,6 @@
 layout: default
 title: enuSetEditPaste
 parent: Application API
-nav_order: 105
 ---
 # void enuSetEditPaste\(HVIEW pENUView\)
 

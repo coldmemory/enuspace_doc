@@ -3,7 +3,6 @@ layout: default
 title: FRtInv
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 25
 ---
 
 # FRtInv

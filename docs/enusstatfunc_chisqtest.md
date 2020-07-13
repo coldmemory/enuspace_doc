@@ -3,7 +3,6 @@ layout: default
 title: ChisqTest
 parent: Statistics functions
 grand_parent: Math & Statistics
-nav_order: 13
 ---
 
 # ChisqTest

@@ -2,7 +2,6 @@
 layout: default
 title: enuSetWindowCenter
 parent: Application API
-nav_order: 15f
 ---
 # void enuSetWindowCenter\(HVIEW pENUView\)
 

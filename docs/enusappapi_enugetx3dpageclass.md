@@ -2,7 +2,6 @@
 layout: default
 title: enuGetX3dPageClass
 parent: Application API
-nav_order: a1
 ---
 # HX3D enuGetX3dPageClass\(wchar\_t\* pStrFileName\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuActivateView
 parent: Application API
-nav_order: 1
 ---
 # void enuActivateView\(HVIEW pENUView\)
 

@@ -2,7 +2,6 @@
 layout: default
 title: enuHmiCreateSymbol
 parent: Application API
-nav_order: a3
 ---
 # bool enuHmiCreateSymbol\(wchar\_t\* pStrFilename, wchar\_t\* pStrSymbol\)
 
