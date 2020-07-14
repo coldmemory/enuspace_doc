@@ -23,15 +23,15 @@ enuSpace는 소프트웨어 개발자 도구\(Software Development Kit :SDK\)를
 
 ---
 
-* ###### Task model scheduling and control the task model.
-* ###### Design symbol and drawing pictures for simulation and monitoring.
-* ###### Advanced GUI Programming. \(Flowbased Programming\)
-* ###### Extended file format. \(Scalable Vector Graphics + Lua Script Language\)
-* ###### Versatile software tool to develop and display dynamic graphical user interfaces.
-* ###### Graphic Component . \(Easy to development User Application Program\)
-* ###### Making Dynamic Symbols & Logic Symbols.
-* ###### Web server and extension module support.
-* ###### IoT\(Internet of Things\) devices management and control.
+* ##### Task model scheduling and control the task model.
+* ##### Design symbol and drawing pictures for simulation and monitoring.
+* ##### Advanced GUI Programming. \(Flowbased Programming\)
+* ##### Extended file format. \(Scalable Vector Graphics + Lua Script Language\)
+* ##### Versatile software tool to develop and display dynamic graphical user interfaces.
+* ##### Graphic Component . \(Easy to development User Application Program\)
+* ##### Making Dynamic Symbols & Logic Symbols.
+* ##### Web server and extension module support.
+* ##### IoT\(Internet of Things\) devices management and control.
 
 ##### ![](/assets/enuspace_run.png)
 
