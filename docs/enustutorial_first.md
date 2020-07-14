@@ -25,7 +25,7 @@ New Project \(Popup Window\) 윈도우가 나타납니다. 솔루션 이름과 �
 
 ![](./assets/first/2 newproject.png)
 
-Project Explorer창에 Task 하위 logic\_svg와 Global 하위 global.svg가 기본으로 생성되어 나타납니다.![](./assets/first/2 newproject2.png)
+Project Explorer창에 Task 하위 logic\_svg와 Global 하위 global.svg가 기본으로 생성되어 나타납니다.![](/assets/first/2 newproject2.png)
 
 Project Explorer창에서 Task 하위 logic\_svg선택하면 Script Operation-&gt;RUN 수행시 1초에 수행되는 타이머 횟수 입니다. 기본 24 Cycle로 설정됩니다. Task에 외부 모듈을 추가할 수 있는 습니다. 각 Task의 In, Out에 대한 설정을 수행하여 TASK를 제어할 수 있습니다.
 
@@ -95,7 +95,7 @@ function GetValueColor(fValue)
 
 ---
 
-global.svg에 전역변수 하나를 추가합니다. type은 double형으로 변수명은 g\_double로 설정합니다.![](./assets/first/2 newproject7.png)
+global.svg에 전역변수 하나를 추가합니다. type은 double형으로 변수명은 g\_double로 설정합니다.![](/assets/first/2 newproject7.png)
 
 ## **New Picture**
 

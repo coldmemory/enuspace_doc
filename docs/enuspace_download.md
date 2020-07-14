@@ -8,7 +8,7 @@ nav_order: b
 
 ---
 
-### ![](./assets/uranus_icon.png)enuSpace for uranus \(2021\)
+### ![](/assets/uranus_icon.png)enuSpace for uranus \(2021\)
 
 ---
 
@@ -35,7 +35,7 @@ New feature
 
 ---
 
-### ![](./assets/enuspace_saturn.png)enuSpace for saturn \(2020\)
+### ![](/assets/enuspace_saturn.png)enuSpace for saturn \(2020\)
 
 ---
 
@@ -139,7 +139,7 @@ New feature
 * New : Node and Link interfaces.
 * New : Change the memory structure for a task
 
-### ![](./assets/enuspace_jupiter.png)**enuSpace for jupiter\(2019\)**
+### ![](/assets/enuspace_jupiter.png)**enuSpace for jupiter\(2019\)**
 
 ---
 
@@ -236,7 +236,7 @@ Add features
 * New : Plugin enuSpace-Tensorflow
 * New : Plugin enuSpace-SQLite
 
-### ![](./assets/mars_logo.png)**enuSpace for mars \(2017\)**
+### ![](/assets/mars_logo.png)**enuSpace for mars \(2017\)**
 
 ---
 
@@ -332,7 +332,7 @@ IoT\(Internet of Things\) devices management and control.
 
 ^^
 
-### ![](./assets/enuspace_moon.png)**enuSpace for Moon\(2016\) **
+### ![](/assets/enuspace_moon.png)**enuSpace for Moon\(2016\) **
 
 ---
 

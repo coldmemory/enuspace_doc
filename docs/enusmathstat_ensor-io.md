@@ -52,5 +52,5 @@ function MathEquation()
  end
 ```
 
-![](./assets/statistics/readcsv2.png)![](/assets/statistics/readcsv3.png)
+![](./assets/statistics/readcsv2.png)![](./assets/statistics/readcsv3.png)
 

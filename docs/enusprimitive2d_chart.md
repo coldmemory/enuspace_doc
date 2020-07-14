@@ -33,15 +33,15 @@ Trend\(이하 차트\)객체의 속성 및 사용방법에 대하여 설명합�
 
 프로젝트 생성은[프로젝트 만들기 튜토리얼](http://enuspace.tistory.com/entry/enuSpace-for-mars-tutorial2)을 참조하시길 바랍니다.
 
-![](/assets/trend/1.PNG)
+![](./assets/trend/1.PNG)
 
 프로젝트 생성이 완료 되었다면 Project Explorer에서 Picture폴더에 trend라는 svg파일을 하나 생성합니다.
 
-![](/assets/trend/2.jpg)
+![](./assets/trend/2.jpg)
 
 그리고 리본메뉴에서 차트\(Home-&gt;Chart\)를 선택하고 에디트화면에 생성합니다.
 
-![](/assets/trend/3.jpg)
+![](./assets/trend/3.jpg)
 
 위 화면이 차트를 처음 생성했을 때 나타나는 화면입니다.
 
@@ -208,7 +208,7 @@ Trend\(이하 차트\)객체의 속성 및 사용방법에 대하여 설명합�
 
 정적 차트\(라인 차트\)로 사용하기 위해서 몇가지 속성을 변경해야 합니다. 우선 위에서 생성한 차트를 선택하고 오른쪽에 속성창을 살펴봅니다.
 
-![](/assets/trend/4.PNG)
+![](./assets/trend/4.PNG)
 
 클릭하시면 원본크기로 볼 수 있습니다.
 
@@ -222,11 +222,11 @@ Trend\(이하 차트\)객체의 속성 및 사용방법에 대하여 설명합�
 
 속성을 변경 했다면 아래와 같은 그림이 나옵니다.
 
-![](/assets/trend/5.jpg)
+![](./assets/trend/5.jpg)
 
 이제 마우스로 차트를 선택 합니다. 선택하면 상단에 리본메뉴가 아래와 같이 바뀌어 있는것을 볼 수 있습니다.
 
-![](/assets/trend/6.jpg)
+![](./assets/trend/6.jpg)
 
 리본메뉴에 대해 잠깐 설명 하자면 Add Chart Element는 차트안에 있는 컴포넌트들\(범례, 제목, 그래프, x축, y축\)의 visible 속성을 뜻합니다.  
 Drawing 카테고리에 있는 메뉴들은 모두 차트 배경에 관한 속성입니다.  
@@ -234,13 +234,13 @@ Add Data항목은 차트의 series를 설정 하는 곳으로 series를 추가, 
 
 우리는 series를 추가해야 하니  Add Data를 선택 합니다.
 
-![](/assets/trend/7.PNG)
+![](./assets/trend/7.PNG)
 
 Add Data항목을 선택 했을 때 나오는 창입니다.
 
 위 창에서 Add 버튼을 클릭하여 series를 하나 추가합니다. 그리고 추가된 series를 선택하여 오른쪽에 series에 대한 속성을 띄웁니다.
 
-![](/assets/trend/8.jpg)
+![](./assets/trend/8.jpg)
 
 series에 관한 속성은 다음과 같습니다.
 
@@ -272,7 +272,7 @@ series에 관한 속성은 다음과 같습니다.
 
 위의 예를 series2의 data속성에 넣으면 다음과 같은 화면이 나옵니다.
 
-![](/assets/trend/9.PNG)
+![](./assets/trend/9.PNG)
 
 현재 정적 차트에서 사용할 수 있는 타입은 line\(선\)과 scatter\(점\) 차트입니다. 그리고 두가지 타입은 하나의 차트에 나타낼 수 있습니다.
 
@@ -284,42 +284,42 @@ series에 관한 속성은 다음과 같습니다.
 
 동적 차트를 사용하기 위해서 우선 값이 변하는 지역변수를 만들어 보겠습니다.
 
-Project Explorer에서 picture폴더에 파일을 하나 더 생성합니다.![](/assets/trend/13.PNG)
+Project Explorer에서 picture폴더에 파일을 하나 더 생성합니다.![](./assets/trend/13.PNG)
 
 생성된 picture파일 화면에서 배경을 클릭하시고 오른쪽 속성창을 확인합니다. 속성창의 윗 부분에 4개의 아이콘이 있는 것을 확인할 수 있습니다. 이 중에서 V모양의 아이콘을 클릭합니다.
 
-![](/assets/trend/14.jpg)
+![](./assets/trend/14.jpg)
 
 그러면 아래와 같은 창이 나옵니다.
 
-![](/assets/trend/15.jpg)
+![](./assets/trend/15.jpg)
 
 여기서 picture파일의 지역변수를 생성할 수 있습니다. 생성 방법은 다음과 같습니다.
 
 1\) New라고 표시된 속성에서 드롭다운 메뉴의 &lt;Add Variable&gt;항목을 선택한다.
 
-![](/assets/trend/16.PNG)
+![](./assets/trend/16.PNG)
 
 2\) 변수 생성창에서 변수의 타입\(필수\), 이름\(필수\), 시작 값\(필수\), 설명\(선택\)을 입력하고 Accept버튼을 클릭합니다.
 
-![](/assets/trend/17.jpg)
+![](./assets/trend/17.jpg)
 
-![](/assets/trend/18.PNG)  
+![](./assets/trend/18.PNG)  
 생성 완료된 화면
 
 변수가 생성 되었다면 변수 값을 속성창의 4개 아이콘중 번개 모양의 아이콘을 선택하여 아래와 같은 창을 띄웁니다.
 
-![](/assets/trend/19.PNG)
+![](./assets/trend/19.PNG)
 
 위의 창에서 Script Type의 type속성을 text/javascript로 변경하고, ontaskview항목을 추가해줍니다.
 
-![](/assets/trend/21.PNG)![](/assets/trend/20.PNG)
+![](./assets/trend/21.PNG)![](./assets/trend/20.PNG)
 
 스크립트 편집 창이 뜨면 다음과 같이 입력합니다.
 
 \(생성했던 변수이름\) = Math.floor\(Math.random\(\) \* 500\);
 
-![](/assets/trend/22.PNG)
+![](./assets/trend/22.PNG)
 
 입력을 완료하고 Compile 버튼이나 Accept버튼을 클릭하여 스크립트를 등록 하여 줍니다.
 
@@ -331,7 +331,7 @@ Project Explorer에서 picture폴더에 파일을 하나 더 생성합니다.![]
 
 series1의 속성에서 variable 속성에 위에서 생성한 변수의 이름을 넣어 줍니다. \(※주의 : 변수의 이름이 틀리면 값이 들어오지 않거나 원하는 변수의 값이 들어오지 않을 수 있습니다.\)
 
-![](/assets/trend/24.jpg)
+![](./assets/trend/24.jpg)
 
 여기까지 완료하면 상단 리본메뉴에서 Home-&gt;Run을 클릭하여 스크립트를 실행하여 줍니다. 차트의 그래프가 그려지는지 확인합니다.
 
@@ -345,7 +345,7 @@ Logic 파일 생성과 Logic객체 이용방법은[LOGIC 프로그래밍, HMI라
 
 우선 Project Explorer에서 Logic라이브러리 파일을 생성하고, Logic Node를 생성합니다.
 
-![](/assets/trend/25.PNG)
+![](./assets/trend/25.PNG)
 
 시작과정을 모두 완료한 상태
 
@@ -366,29 +366,29 @@ auto-scale = off`
 
 위와 같이 모두 변경 하였다면 차트의 크기를 줄여 줍니다\(줄이지 않으셔도 무방합니다.\). 대략 밑의 그림 정도로 줄여 주시면 됩니다.
 
-![](/assets/trend/27.PNG)
+![](./assets/trend/27.PNG)
 
 이제 차트를 선택클릭하고 리본메뉴의 Add Data항목을 클릭하여 series속성변경 창을 열고 속성을 다음과같이 변경합니다.
 
 variable = pin의 이름\(name속성\)
 
-![](/assets/trend/28.jpg)
+![](./assets/trend/28.jpg)
 
 위 과정을 모두 완료 한뒤 라이브러리를 저장해 줍니다.
 
-![](/assets/trend/29.PNG)
+![](./assets/trend/29.PNG)
 
 2번에서 만들었던 picture를 열어줍니다.
 
 여기에 방금 만든 Logic차트를 생성하여 줍니다.
 
-![](/assets/trend/30.jpg)![](/assets/trend/31.jpg)
+![](./assets/trend/30.jpg)![](./assets/trend/31.jpg)
 
 생성이 완료되면 Logic차트에 ID값을 입력하여 줍니다. 입력이 완료 되면 배경을 클릭하고 스크립트를 편집합니다.
 
-![](/assets/trend/32.PNG)
+![](./assets/trend/32.PNG)
 
-![](/assets/trend/33_1.jpg)
+![](./assets/trend/33_1.jpg)
 
 위 과정이 모두 완료 되면 리본 메뉴의 Run을 눌러 동작하는지 확인합니다.
 
@@ -412,7 +412,7 @@ variable = pin의 이름\(name속성\)
 
 우선 DB에 변수를 등록 해야합니다. 위에서 우리가 만들어놓은 지역변수를 등록하여 팝업차트를 만들어 봅시다.
 
-![](/assets/trend/34_1.jpg)
+![](./assets/trend/34_1.jpg)
 
 먼저 리본메뉴의 Data/Communcation탭으로 이동합니다. 그리고 DB Show라는 버튼을 클릭합니다.
 
@@ -425,7 +425,7 @@ DB TABLE 다이얼로그가 나타나면 상단의 DB그림에 G가 써져있는
 
 지금까지 제대로 따라오셨다면 아래와 같은 화면이 나타납니다. DB TABLE창을 닫지 않고, 리본메뉴에서 Run버튼을 눌러 변수의 값을 변화 시켜 줍니다.
 
-![](/assets/trend/36.jpg)
+![](./assets/trend/36.jpg)
 
 DB TABLE창에서 팝업차트에서 보고 싶은 변수를 오른쪽 클릭하거나 'Ctrl+클릭' 또는 'Shift+클릭' 또는 '드래그'로 다중선택 하여 오른쪽위의 버튼을 클릭합니다.
 
@@ -447,7 +447,7 @@ DB TABLE창에서 팝업차트에서 보고 싶은 변수를 오른쪽 클릭하
 
 팝업 차트로 보고싶은 변수를 마우스 오른클릭하여 팝업 차트를 실행합니다.
 
-![](./assets/trend/41.png)![](/assets/trend/42.png)
+![](./assets/trend/41.png)![](./assets/trend/42.png)
 
 **3. Logic객체의 데이터를 모아서 팝업차트 만들기**
 

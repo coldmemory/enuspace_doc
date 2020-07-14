@@ -233,7 +233,7 @@ end]]>
 
 ## Draw\_type 별 데이터 좌표계
 
-![](/assets/contour_direction.jpg)
+![](./assets/contour_direction.jpg)
 
 # enuSpace for saturn \(ver 4.0\) 추가 기능
 

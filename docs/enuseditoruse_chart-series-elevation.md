@@ -73,7 +73,7 @@ Display Result\) elevation 타입을 volume으로 지정. elevation-data의 데�
 
 Display Result\) 볼륨 타입 설정에 따른 디스플레이 결과 \(left -&gt; right\)
 
-![](./assets/tutorial/chart_series_ele4.png)\_
+![](/assets/tutorial/chart_series_ele4.png)\_
 
 #### Series의 Scatter 차트 \(color+volume\)
 

@@ -60,7 +60,7 @@ end
 
 #### Result
 
-![](./StatisticsAPI/PoissonDistResult1.png)![](/StatisticsAPI/PoissonDistResult2.png)
+![](./StatisticsAPI/PoissonDistResult1.png)![](./StatisticsAPI/PoissonDistResult2.png)
 
 
 

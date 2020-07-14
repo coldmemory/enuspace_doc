@@ -56,7 +56,7 @@ void CSampleView::OnInitialUpdate()
     HNODE hnode = enuCreateLine(SvgHandle, L"MyObject", 50, 50, 100, 100, 0, 0);
 }
 
-enuSaveImageToFile(ViewHandle, L"C:\\sample.png", L"png");.
+enuSaveImageToFile(ViewHandle, L"C:\\sample.png", L"png");
 ```
 
 

@@ -190,7 +190,7 @@ function _ontaskview()
 
 enuSpace 스튜디오를 통하여 객체의 편집 및 속성정보를 확인할 수 있습니다.
 
-![](./assets/tutorial/2d_contour_property_window.png)       ![](/assets/tutorial/2d_contour.png)
+![](./assets/tutorial/2d_contour_property_window.png)       ![](./assets/tutorial/2d_contour.png)
 
 ### contour data 편집 대화창
 

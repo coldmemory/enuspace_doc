@@ -77,7 +77,7 @@ void CSampleView::OnInitialUpdate()
     enuSetSvgPageView(ViewHandle , strPicture.GetBuffer(0)); 
 
     // object create
-    enuCreateImageAsync(SvgHandle, L"MyObject", 0, 0, 300, 500, L"resource\\image.png", 0, 0);.
+    enuCreateImageAsync(SvgHandle, L"MyObject", 0, 0, 300, 500, L"resource\\image.png", 0, 0);
 }
 ```
 
