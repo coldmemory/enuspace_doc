@@ -23,7 +23,7 @@ Ensor\* pRetEnsor : skewness 를 가진 Ensor\*를 반환합니다.
 
 * The equation for the SkewP is:
 
-  ![](/StatisticsAPI/SkewPFunc.png)
+  ![](./StatisticsAPI/SkewPFunc.png)
 
 * Returns the skewness of a distribution based on a population: a characterization of the degree of asymmetry of a distribution around its mean.
 
@@ -40,5 +40,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/SkewPResultTable.png)
+![](./StatisticsAPI/SkewPResultTable.png)
 

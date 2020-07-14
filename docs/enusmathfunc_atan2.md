@@ -39,5 +39,5 @@ function MathEquation()
 
 #### Result
 
-![](/MathAPI/Atan2Result.png)
+![](./MathAPI/Atan2Result.png)
 

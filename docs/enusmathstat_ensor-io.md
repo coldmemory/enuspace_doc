@@ -25,7 +25,7 @@ function MathEquation()
 
 output -&gt; d:\data.csv
 
-![](/assets/statistics/savecsv.png)
+![](./assets/statistics/savecsv.png)
 
 ## ensor.ReadCSV\(\)
 
@@ -40,7 +40,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/readcsv.png)
+![](./assets/statistics/readcsv.png)
 
 ```lua
 function MathEquation()
@@ -52,5 +52,5 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/readcsv2.png)![](/assets/statistics/readcsv3.png)
+![](./assets/statistics/readcsv2.png)![](/assets/statistics/readcsv3.png)
 

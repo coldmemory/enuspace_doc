@@ -41,13 +41,13 @@ Ensor\* pRetEnsor : pEnsor의 엘리먼트에 맞는 갯수만큼 계산된 Enso
 
 * **CDF**
 
-![](/StatisticsAPI/BetaDistFunc4.png)
+![](./StatisticsAPI/BetaDistFunc4.png)
 
-![](/StatisticsAPI/BetaDistFunc6.png)
+![](./StatisticsAPI/BetaDistFunc6.png)
 
-![](/StatisticsAPI/BetaDistFunc7.png)
+![](./StatisticsAPI/BetaDistFunc7.png)
 
-![](/StatisticsAPI/BetaDistFunc2.png)
+![](./StatisticsAPI/BetaDistFunc2.png)
 
 #### Examples1
 
@@ -66,5 +66,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/BetaInvResultSample.png)
+![](./StatisticsAPI/BetaInvResultSample.png)
 

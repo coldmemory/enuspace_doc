@@ -27,7 +27,7 @@ Ensor\* pRetEnsor : Right tailed probability 와  계산된 F, df를 가진 Enso
 
 * The χ2 test first calculates a χ2 statistic using the formula:
 
-  ![](/StatisticsAPI/ChisqTestFunc.png)
+  ![](./StatisticsAPI/ChisqTestFunc.png)
 
   where:
 
@@ -53,7 +53,7 @@ Ensor\* pRetEnsor : Right tailed probability 와  계산된 F, df를 가진 Enso
 
 * **PDF**
 
-![](/StatisticsAPI/ChisqTestFuncPdfGraph.png)
+![](./StatisticsAPI/ChisqTestFuncPdfGraph.png)
 
 #### Examples1
 
@@ -69,5 +69,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/ChisqTestResultTable.png)
+![](./StatisticsAPI/ChisqTestResultTable.png)
 

@@ -35,5 +35,5 @@ end
 
 #### Result
 
-![](/MathAPI/LnResult.png)
+![](./MathAPI/LnResult.png)
 

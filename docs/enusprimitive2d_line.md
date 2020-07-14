@@ -7,7 +7,7 @@ grand_parent: enuSpace Tutorial
 
 # line
 
-![](/assets/tutorial/line_image.png)
+![](./assets/tutorial/line_image.png)
 
 ---
 
@@ -111,7 +111,7 @@ function _onmousedown()
 
 enuSpace 스튜디오를 통하여 객체의 편집 및 속성정보를 확인할 수 있습니다.
 
-![](/assets/tutorial/line.png)
+![](./assets/tutorial/line.png)
 
 ## SVG Tag 예시
 

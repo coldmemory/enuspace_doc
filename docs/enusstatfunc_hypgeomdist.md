@@ -43,7 +43,7 @@ Ensor\* pRetEnsor : pEnsor의 엘리먼트에 맞는 갯수만큼 계산된 Enso
 
 * The equation for the hypergeometric distribution is:
 
-![](/StatisticsAPI/HypGeomDistPdfFunc.png)
+![](./StatisticsAPI/HypGeomDistPdfFunc.png)
 
 where:
 
@@ -55,17 +55,17 @@ K = population\_s
 
 N = number\_pop
 
-![](/StatisticsAPI/HypGeomPdfGraph.png)
+![](./StatisticsAPI/HypGeomPdfGraph.png)
 
 * CDF
 
-![](/StatisticsAPI/HypGeomDistCdfFunc.png)
+![](./StatisticsAPI/HypGeomDistCdfFunc.png)
 
 where
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/3c5609cf9098e640e342465c1d255923c0f8b6c5 "{\displaystyle \,\_{p}F\_{q}}")is the generalized hypergeometric function
 
-![](/StatisticsAPI/HypGeomDistFuncCdfGraph.png)
+![](./StatisticsAPI/HypGeomDistFuncCdfGraph.png)
 
 #### Examples1
 
@@ -84,5 +84,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/HypGeomDistResult.png)
+![](./StatisticsAPI/HypGeomDistResult.png)
 

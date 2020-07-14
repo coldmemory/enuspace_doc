@@ -11,7 +11,7 @@ grand_parent: enuSpace Tutorial
 
 IoT library : [https://github.com/EXPNUNI/enuSpace-Article/tree/master/library%20package](https://github.com/EXPNUNI/enuSpace-Article/tree/master/library package)
 
-![](/assets/tutorial/hmi_symbol.png)
+![](./assets/tutorial/hmi_symbol.png)
 
 ## 라이브러리 생성
 
@@ -19,7 +19,7 @@ enuSpace를 실행하고 Project Explorer에서 Library하위에서 Hmi 선택�
 
 생성된 파일을 선택후 팝업메뉴를 이용하여 Add Symbol를 통하여 새로운 심볼을 생성합니다. 생성된 심볼을 디자인합니다. 디자인 객체를 이용하여 아래 그림과 같이 디자인을 수행합니다.
 
-![](/assets/hmi-library1/hmi_symbol_edit.png)
+![](./assets/hmi-library1/hmi_symbol_edit.png)
 
 각각의 객체의 속성에 id를 설정합니다. 
 
@@ -87,7 +87,7 @@ ID\_LABEL의 값 현시를 위한 코드를 추가합니다. 이와같은 방법
 
 생성된 객체를 선택후, m\_value변수에 상수값을 입력하거나 외부의 변수를 입력합니다. 외부의 변수 입력은 \#ID.variable 형태로 변수의 첫문자는 \#문자로 지정합니다.
 
- ![](/assets/hmi-library1/hmi_gauge_accept.png)
+ ![](./assets/hmi-library1/hmi_gauge_accept.png)
 
 
 

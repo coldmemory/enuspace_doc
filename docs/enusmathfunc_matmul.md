@@ -47,5 +47,5 @@ end
 
 #### Result
 
-![](/MathAPI/MatMulResult.png)
+![](./MathAPI/MatMulResult.png)
 

@@ -27,7 +27,7 @@ Ensor\* pRetEnsor : correlation coefficient를 가진 Ensor\*를 반환합니다
 
 * The equation for the correlation coefficient is:
 
-  ![](/StatisticsAPI/CorrelFunc.png)
+  ![](./StatisticsAPI/CorrelFunc.png)
 
   where
 
@@ -49,5 +49,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/CorrelReslultTable.png)
+![](./StatisticsAPI/CorrelReslultTable.png)
 

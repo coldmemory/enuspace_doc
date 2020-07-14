@@ -39,7 +39,7 @@ function MathEquation()
 
 #### Result
 
-![](/StatisticsAPI/AverageIfResultTable.png)
+![](./StatisticsAPI/AverageIfResultTable.png)
 
 조건에 만족하는 10,7,9에 대한 평균값을 반환합니다.
 

@@ -39,17 +39,17 @@ Ensor\* pRetEnsor : pEnsor의 엘리먼트에 맞는 갯수만큼 계산된 Enso
 
 * **PDF**
 
-![](/StatisticsAPI/BinomFunc1.png)
+![](./StatisticsAPI/BinomFunc1.png)
 
-![](/StatisticsAPI/BinomFunc2.png)
+![](./StatisticsAPI/BinomFunc2.png)
 
-![](/StatisticsAPI/BinomPdfGraph.png)
+![](./StatisticsAPI/BinomPdfGraph.png)
 
 * **CDF**
 
-![](/StatisticsAPI/BinomFunc3.png)
+![](./StatisticsAPI/BinomFunc3.png)
 
-![](/StatisticsAPI/BinomCdfGraph.png)
+![](./StatisticsAPI/BinomCdfGraph.png)
 
 #### Examples1
 
@@ -68,5 +68,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/BinomResult1.png)
+![](./StatisticsAPI/BinomResult1.png)
 

@@ -16,11 +16,11 @@ parent: enuSpace Tutorial
 
 새로운 프로젝트를 생성하기 위해서 Home-&gt;New-&gt;New Project 메뉴를 선택합니다.
 
-![](/assets/library-use/2 newproject0.png)
+![](./assets/library-use/2 newproject0.png)
 
 New Project \(popup window\)윈도우가 나타나면, 솔루션 이름과 솔루션을 저장할 디렉토리를 설정후 OK버튼을 클릭합니다.
 
-![](/assets/library-use/7 newproject0.png)
+![](./assets/library-use/7 newproject0.png)
 
 ## **Import Library**
 
@@ -30,7 +30,7 @@ New Project \(popup window\)윈도우가 나타나면, 솔루션 이름과 솔�
 
 예시로 enuSpace for mars 설치시 포함된 presentation 디렉토리의 logic 라이브러리 파일을 선택하여 가져오기를 수행합니다. 기존 라이브러리는 유지하고, 본 프로젝트의 Library 디렉토리에 파일을 복사수행 후 로드를 수행합니다.
 
-![](/assets/library-use/7 newproject1.png)![](/assets/library-use/7 newproject2.png)
+![](./assets/library-use/7 newproject1.png)![](/assets/library-use/7 newproject2.png)
 
 Properties 윈도우에서 상단의 콤보박스를 이용하여 해당사하는 라이브러리의 썸네일 이미지를 확인할 수 있습니다.
 
@@ -48,17 +48,17 @@ Create New Picture file
 
 * logic\_picture.svg 파일에서 구성한 로직을 제어하기 위한 hmi\_picture.svg 파일을 추가합니다.
 
-![](/assets/library-use/7 newproject3.png)
+![](./assets/library-use/7 newproject3.png)
 
 본 강좌에서는 로직변수를 HMI변수에 적용하는 방법에 대하여 설명합니다.
 
 우선 간단하게 로직 페이지에 임의의 로직 객체를 추가합니다. 아래그림과 같이 로직을 추가하고 각각의 로직 객체의 id값을 고융한 id로 설정합니다.
 
-![](/assets/library-use/7 newproject4.png)
+![](./assets/library-use/7 newproject4.png)
 
 로직 페이지 구성을 완료하였다면, hmi\_picture.svg 파일에 로직의 값을 표현할 HMI 객체를 추가합니다.
 
-![](/assets/library-use/7 newproject5.png)
+![](./assets/library-use/7 newproject5.png)
 
 ## **Set Attribute**
 
@@ -68,7 +68,7 @@ HMI 객체의 Properties 윈도우의 Variable Window를 확인하여 보면, �
 
 본 예에서서는 추가된 HMI 객체에 logic\_picture.svg파일에서 추가한 객체의 입력값을 인터페이스 합니다. 로직객체 ID\_SINE\_DOUBLE객체의 output값을 HMI객체에 연결하기 위해서 Set Attribute의 속성에**\#+로직변수명**을 입력합니다.
 
-![](/assets/library-use/7 newproject6.png)
+![](./assets/library-use/7 newproject6.png)
 
 추가한 HMI 라이브러리 gauge\_pie의 라이브러리 제작은 아래와 같이 구성되어 있습니다. 인터페이스를 위한 멤버변수 m\_value값에 따라서 게이지값을 표현되도록 구현된 라이브러리 입니다. gauge\_pie의 라이브러리는 내부 구성을 보면 svg의 path객체가 포함되어 있습니다. path객체의 속성 d값을 변경하여 값에 따라 회전위치 정보를 계산하는 로직입니다. svg의 path정보는 사이트에서 좀더 자세히 확인해 보실수 있습니다.
 
@@ -97,7 +97,7 @@ function _ontaskview()
 }
 ```
 
-![](/assets/library-use/7 newproject7.png)
+![](./assets/library-use/7 newproject7.png)
 
 내부 페이지 또는 별도의 페이지에 존재하는 로직 객체의 변수를 HMI 객체에 연동하는 방법에 대하여 알아보았습니다.
 

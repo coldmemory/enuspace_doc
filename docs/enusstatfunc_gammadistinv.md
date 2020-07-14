@@ -31,9 +31,9 @@ Ensor\* pRetEnsor : pEnsor의 엘리먼트에 맞는 갯수만큼 계산된 Enso
 
 * **CDF**
 
-![](/StatisticsAPI/GammaDistFuncCdf.png)
+![](./StatisticsAPI/GammaDistFuncCdf.png)
 
-![](/StatisticsAPI/GammaInvFuncGraph.png)
+![](./StatisticsAPI/GammaInvFuncGraph.png)
 
 #### Examples1
 
@@ -52,5 +52,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/GammaDistInvResult.png)
+![](./StatisticsAPI/GammaDistInvResult.png)
 

@@ -7,7 +7,7 @@ grand_parent: enuSpace Tutorial
 
 # image
 
-![](/assets/tutorial/image_image.png)
+![](./assets/tutorial/image_image.png)
 
 ---
 
@@ -51,8 +51,8 @@ lua Script \(객체내부의 onmousedown 함수에서의 구현한 예시\)
 function _onmousedown()
 
     --TODO Add your lua script code here
-    href = "\\resource\\jupiter_logo.png"
-    -- or SetAttribute("ID_IMAGE.href", "\\resource\\jupiter_logo.png")        
+    href = "\\resource\\jupiter_logo.png".
+    -- or SetAttribute("ID_IMAGE.href", "\\resource\\jupiter_logo.png")        .
 
 end
 ```
@@ -63,8 +63,8 @@ lua Script \(SVG의 onmousedown 함수에서의 구현한 예시\)
 function _onmousedown()
 
     --TODO Add your lua script code here
-    ID_IMAGE.href = "\\resource\\jupiter_logo.png"
-    -- or SetAttribute("ID_IMAGE.href", "\\resource\\jupiter_logo.png")    
+    ID_IMAGE.href = "\\resource\\jupiter_logo.png".
+    -- or SetAttribute("ID_IMAGE.href", "\\resource\\jupiter_logo.png")    .
 end
 ```
 
@@ -78,7 +78,7 @@ javascript \(객체내부의 onmousedown 함수에서의 구현한 예시\)
 function _onmousedown()
 {    
     //TODO Add your javascript code here
-    href = "\\resource\\jupiter_logo.png";
+    href = "\\resource\\jupiter_logo.png";.
 
 }
 ```
@@ -87,7 +87,7 @@ function _onmousedown()
 
 enuSpace 스튜디오를 통하여 객체의 편집 및 속성정보를 확인할 수 있습니다.
 
-![](/assets/tutorial/image_property.png)
+![](./assets/tutorial/image_property.png)
 
 ## SVG Tag 예시
 
@@ -126,7 +126,7 @@ enuSpace 스튜디오를 통하여 객체의 편집 및 속성정보를 확인�
 		y="124.45"
 		width="149.35"
 		height="137.55"
-		xlink:href="\resource\jupiter_logo.png"
+		xlink:href="\resource\jupiter_logo.png".
 	>
 		<script
 			id="ID_1evebm"
@@ -136,7 +136,7 @@ enuSpace 스튜디오를 통하여 객체의 편집 및 속성정보를 확인�
 function _onmousedown()
 {	
 	//TODO Add your javascript code here
-	href = "\\resource\\jupiter_logo.png";
+	href = "\\resource\\jupiter_logo.png";.
 }]]>
 		</script>
 	</image>

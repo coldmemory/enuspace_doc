@@ -40,5 +40,5 @@ function MathEquation()
 
 #### Result
 
-![](/StatisticsAPI/MinIfResultTable.png)
+![](./StatisticsAPI/MinIfResultTable.png)
 

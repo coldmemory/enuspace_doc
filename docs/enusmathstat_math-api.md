@@ -11,7 +11,7 @@ has_children: true
 
 ---
 
-| 함수원형 | 설명 | 스크립트\(![](/assets/lua.png)\) |
+| 함수원형 | 설명 | 스크립트\(![](./assets/lua.png)\) |
 | :--- | :--- | :---: |
 | [ ensor.Abs\(\)](//statistics/abs.html) | Returns the absolute value of a number | lua |
 | [ ensor.Acos\(\)](//statistics/acos.html) | Returns the arccosine of a number | lua |

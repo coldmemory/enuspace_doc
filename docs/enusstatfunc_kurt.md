@@ -23,7 +23,7 @@ Ensor\* pRetEnsor : pEnsor data set의 kurtosis 값을 가진 Ensor\*를 반환�
 
 * Kurtosis is defined as:
 
-![](/StatisticsAPI/KurtFunc.png)
+![](./StatisticsAPI/KurtFunc.png)
 
 where s is the sample standard deviation.
 
@@ -40,5 +40,5 @@ end
 
 #### Result
 
-![](/Kurt/KurtResultTable.png)
+![](./Kurt/KurtResultTable.png)
 

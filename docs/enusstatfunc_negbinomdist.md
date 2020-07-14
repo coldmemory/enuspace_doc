@@ -39,7 +39,7 @@ Ensor\* pRetEnsor : pEnsor의 엘리먼트에 맞는 갯수만큼 계산된 Enso
 
 * **PDF**
 
-![](/StatisticsAPI/NegBinomDistFuncPdf.png)
+![](./StatisticsAPI/NegBinomDistFuncPdf.png)
 
 where:
 
@@ -64,7 +64,7 @@ x is pEnsor\(failure number\), r is nSucces , and p is succesP.
 
 #### Result1
 
-![](/StatisticsAPI/NegBinomDistResultSample1.png)
+![](./StatisticsAPI/NegBinomDistResultSample1.png)
 
 **Examples2**
 
@@ -83,5 +83,5 @@ function MathEquation()
 
 #### Result2
 
-![](/StatisticsAPI/NegBinomDistResult2.png)
+![](./StatisticsAPI/NegBinomDistResult2.png)
 

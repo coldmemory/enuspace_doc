@@ -30,11 +30,11 @@ Ensor\* pRetEnsor : pEnsor의 엘리먼트에 맞는 갯수만큼 계산된 Enso
 * NormalDist 분포의 mean = 0, sigma = 1 인 분포이다.
 * **PDF**
 
-![](/StatisticsAPI/NormalSDistFunc.png)
+![](./StatisticsAPI/NormalSDistFunc.png)
 
 * **CDF**
 
-![](/StatisticsAPI/NormalSDistFuncCdf.png)
+![](./StatisticsAPI/NormalSDistFuncCdf.png)
 
 #### Examples1
 
@@ -53,5 +53,5 @@ end
 
 #### Result1
 
-![](/StatisticsAPI/NormalSDistResult.png)
+![](./StatisticsAPI/NormalSDistResult.png)
 

@@ -49,5 +49,5 @@ end
 
 #### Result
 
-![](/MathAPI/PowResult.png)
+![](./MathAPI/PowResult.png)
 

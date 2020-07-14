@@ -13,7 +13,7 @@ Revision 2019.12.09 - enuSpace for saturn \(v4.0\)
 
 contour객체에 대하여 설명합니다.
 
-![](/assets/tutorial/2d_contour_new.png)
+![](./assets/tutorial/2d_contour_new.png)
 
 ---
 
@@ -97,7 +97,7 @@ rgb\_elevation\(0:255, 0:255, 0:255\) : rgb 색상표를 이용한 색상 테이
 
 rgb\_elevationa\(0:255, 0:255, 0:255, 0:1\) : rgba 색상표를 이용한 색상 테이블 설정 방법
 
-![](/assets/tutorial/hue_color_palate.png)
+![](./assets/tutorial/hue_color_palate.png)
 
 ## Script Example
 
@@ -190,11 +190,11 @@ function _ontaskview()
 
 enuSpace 스튜디오를 통하여 객체의 편집 및 속성정보를 확인할 수 있습니다.
 
-![](/assets/tutorial/2d_contour_property_window.png)       ![](/assets/tutorial/2d_contour.png)
+![](./assets/tutorial/2d_contour_property_window.png)       ![](/assets/tutorial/2d_contour.png)
 
 ### contour data 편집 대화창
 
-![](/assets/tutorial/2d_contour_data.png)
+![](./assets/tutorial/2d_contour_data.png)
 
 ## SVG Tag 예시 {#svg-tag-예시}
 
@@ -217,7 +217,7 @@ enuSpace 스튜디오를 통하여 객체의 편집 및 속성정보를 확인�
 
 color-position 속성 정보는 draw-shape 속성값이 circle인 경우에만 제공되는 정보입니다. circle-position 속성은 원형 컬럼의 위치 정보를 설정하는 기능입니다.
 
-![](/assets/tutorial/circlePosition.png)
+![](./assets/tutorial/circlePosition.png)
 
 원형 컬럼의 위치 정보를 0~100사이의 가중치값을 이용하여 컬럼을 정의합니다.
 
@@ -225,5 +225,5 @@ color-position 속성 정보는 draw-shape 속성값이 circle인 경우에만 �
 
 min-transparent 속성 정보가 true 설정시 표현하고자 하는 데이터의 값이 minElevation값과 같은 경우에 투명 처리를 수행하는 옵션이다.
 
-![](/assets/tutorial/minTransparent.png)
+![](./assets/tutorial/minTransparent.png)
 

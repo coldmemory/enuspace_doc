@@ -34,5 +34,5 @@ function MathEquation()
 
 #### Result
 
-![](/MathAPI/LCMResult.png)
+![](./MathAPI/LCMResult.png)
 

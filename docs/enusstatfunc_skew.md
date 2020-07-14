@@ -23,7 +23,7 @@ Ensor\* pRetEnsor : skewness 를 가진 Ensor\*를 반환합니다.
 
 * The equation for the Skew  is:
 
-  ![](/StatisticsAPI/SkewFunc.png)
+  ![](./StatisticsAPI/SkewFunc.png)
 
 * Returns the skewness of a distribution. Skewness characterizes the degree of asymmetry of a distribution around its mean. Positive skewness indicates a distribution with an asymmetric tail extending toward more positive values. Negative skewness indicates a distribution with an asymmetric tail extending toward more negative values.
 
@@ -40,5 +40,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/SkewResultTable.png)
+![](./StatisticsAPI/SkewResultTable.png)
 

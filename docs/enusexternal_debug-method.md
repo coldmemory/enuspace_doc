@@ -40,7 +40,7 @@ Command 속성에 enuSpace 프로그램의 패스정보를 포함한 응용프�
 
 예시\) C:\Program Files\enuSpace for Jupiter\enuSpace.exe
 
-![](/assets/externaltask/externaltask_debug.png)
+![](./assets/externaltask/externaltask_debug.png)
 
 
 

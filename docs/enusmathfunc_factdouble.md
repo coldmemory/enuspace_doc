@@ -36,5 +36,5 @@ end
 
 #### Result
 
-![](/MathAPI/FactDoubleResultTable.png)
+![](./MathAPI/FactDoubleResultTable.png)
 

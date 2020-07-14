@@ -15,7 +15,7 @@ C++에서 Fortran으로 Project Path보내는 방법에 대하여 설명합니�
 
 **reference sample : **[**https://github.com/EXPNUNI/enuSpace-Article/tree/maste**](https://github.com/EXPNUNI/enuSpace-Article/tree/master)**r**
 
-위 링크로 접속하면 아래와 같은 화면이 나옵니다.![](/assets/tempsnip.png)위 화면에서 1번 2번 순서대로 마우스클릭하면 샐픔 프로젝트를 다운 받을 수 있습니다.
+위 링크로 접속하면 아래와 같은 화면이 나옵니다.![](./assets/tempsnip.png)위 화면에서 1번 2번 순서대로 마우스클릭하면 샐픔 프로젝트를 다운 받을 수 있습니다.
 
 다운받은 압축 파일을 임의의 폴더에 풀어 주시고 sample\_task폴더에 들어갑니다.
 
@@ -35,7 +35,7 @@ C++에서 Fortran으로 Project Path보내는 방법에 대하여 설명합니�
 
 CoreTask 프로젝트를 실행하고 'CoreTask.cpp'파일을 열어줍니다.
 
-![](/assets/extern function.png)
+![](./assets/extern function.png)
 
 'CoreTask.cpp'에서 extern "C" 부분을 찾아서 위 그림의 빨간 네모부분을 추가해 줍니다. \( void GetDllpath\(char\*pPath, int\* strLength\)
 

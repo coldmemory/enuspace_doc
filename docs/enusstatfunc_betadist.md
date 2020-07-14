@@ -47,21 +47,21 @@ Ensor\* pRetEnsor : pEnsor의 엘리먼트에 맞는 갯수만큼 계산된 Enso
 
 * **PDF**
 
-![](/StatisticsAPI/BetaDistFunc3.png)
+![](./StatisticsAPI/BetaDistFunc3.png)
 
-![](/StatisticsAPI/BetaDistFunc5.png)
+![](./StatisticsAPI/BetaDistFunc5.png)
 
-![](/StatisticsAPI/BetaDistFunc.png)
+![](./StatisticsAPI/BetaDistFunc.png)
 
 * **CDF**
 
-![](/StatisticsAPI/BetaDistFunc4.png)
+![](./StatisticsAPI/BetaDistFunc4.png)
 
-![](/StatisticsAPI/BetaDistFunc6.png)
+![](./StatisticsAPI/BetaDistFunc6.png)
 
-![](/StatisticsAPI/BetaDistFunc7.png)
+![](./StatisticsAPI/BetaDistFunc7.png)
 
-![](/StatisticsAPI/BetaDistFunc2.png)
+![](./StatisticsAPI/BetaDistFunc2.png)
 
 #### Examples1
 
@@ -80,13 +80,13 @@ end
 
 #### Result
 
-![](/StatisticsAPI/BetaDistPdfTable.png)
+![](./StatisticsAPI/BetaDistPdfTable.png)
 
-![](/StatisticsAPI/BetaDistPdfGraph.png)
+![](./StatisticsAPI/BetaDistPdfGraph.png)
 
-![](/StatisticsAPI/BetaDistCdfTable.png)
+![](./StatisticsAPI/BetaDistCdfTable.png)
 
-![](/StatisticsAPI/BetaDistCdfGraph.png)
+![](./StatisticsAPI/BetaDistCdfGraph.png)
 
 #### Examples2
 
@@ -105,5 +105,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/BetaDistResultSample2.png)
+![](./StatisticsAPI/BetaDistResultSample2.png)
 

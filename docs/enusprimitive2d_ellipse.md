@@ -7,7 +7,7 @@ grand_parent: enuSpace Tutorial
 
 # ellipse
 
-![](/assets/tutorial/ellipse_image.png)
+![](./assets/tutorial/ellipse_image.png)
 
 ---
 
@@ -118,7 +118,7 @@ function _onmousedown()
 
 enuSpace 스튜디오를 통하여 객체의 편집 및 속성정보를 확인할 수 있습니다.
 
-![](/assets/tutorial/ellipse_property.png)
+![](./assets/tutorial/ellipse_property.png)
 
 ## SVG Tag 예시
 

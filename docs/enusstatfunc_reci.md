@@ -35,4 +35,4 @@ end
 
 #### Result
 
-![](/MathAPI/ReciResult.png)
+![](./MathAPI/ReciResult.png)

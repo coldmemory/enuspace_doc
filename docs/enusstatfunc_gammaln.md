@@ -23,7 +23,7 @@ Ensor\* pRetEnsor : pEnsor의 Gamma Logathm값을 가진  Ensor\*를 반환합�
 
 * equation:
 
-![](/StatisticsAPI/GammaLnFunc.png)
+![](./StatisticsAPI/GammaLnFunc.png)
 
 #### Examples
 
@@ -39,5 +39,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/GammaLnResult.png)
+![](./StatisticsAPI/GammaLnResult.png)
 

@@ -35,5 +35,5 @@ function MathEquation()
 
 #### Result
 
-![](/MathAPI/AcotResult.png)
+![](./MathAPI/AcotResult.png)
 

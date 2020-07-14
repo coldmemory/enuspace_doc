@@ -20,9 +20,9 @@ enuSpace 환경\(데이터 조작, 계산 및 그래픽 표시를 위한 소프�
 
 enuSpace를 실행합니다. 상단의 리본메뉴의 Equation Editor 버튼을 클릭하여 Equation Editor창을 실행하거나, 로직 객체의 심볼 테이블의 팝업 메뉴를 이용하여 Equation Editor창을 실행합니다.
 
-![](/assets/statistics/equationeditor.png)
+![](./assets/statistics/equationeditor.png)
 
-![](/assets/statistics/equationeditor1.png)
+![](./assets/statistics/equationeditor1.png)
 
 ```lua
 function MathEquation()
@@ -62,7 +62,7 @@ ensor.Contour(ensor_x)     -- contour 색상을 이용한 데이터 가시화.
 ensor.Table(ensor_x)       -- Table을 이용한 데이터 디스플레이.
 ```
 
-### ![](/assets/statistics/ensor_data_visualization.png)
+### ![](./assets/statistics/ensor_data_visualization.png)
 
 ```lua
 function MathEquation()
@@ -74,7 +74,7 @@ function MathEquation()
  end
 ```
 
-### ![](/assets/statistics/contour_data_visualization.png)
+### ![](./assets/statistics/contour_data_visualization.png)
 
 ### Math & Statistics API Category
 

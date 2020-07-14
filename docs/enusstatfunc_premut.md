@@ -37,7 +37,7 @@ Ensor\* pRetEnsor : pEnsor의 엘리먼트에 맞는 갯수만큼 계산된 Enso
 
 * The equation for the number of permutations is:
 
-![](/StatisticsAPI/PermutFunc.png)
+![](./StatisticsAPI/PermutFunc.png)
 
 #### Examples1
 
@@ -55,5 +55,5 @@ function MathEquation()
 
 #### Result1
 
-![](/StatisticsAPI/PermutResultTable.png)
+![](./StatisticsAPI/PermutResultTable.png)
 

@@ -7,7 +7,7 @@ grand_parent: enuSpace Tutorial
 
 # 3d scatter chart
 
-![](/assets/3d/3d_scatter_chart.png)
+![](./assets/3d/3d_scatter_chart.png)
 
 ---
 
@@ -80,13 +80,13 @@ stem : 데이터의 정보를 z축방향의 라인을 이용하여 표현
 
 bar : 데이터의 정보를 사각형 바를 이용하여 표현
 
-![](/assets/3d/3d_scatter_chart_type.png)
+![](./assets/3d/3d_scatter_chart_type.png)
 
 symbol의 속성은 none, point, rect, triangle에 대하여 설정할 수 있다.
 
 심볼의 색상, 사이즈, 투명도를 설정할 수 있다.
 
-![](/assets/3d/3d_scatter_chart_symbol.png)
+![](./assets/3d/3d_scatter_chart_symbol.png)
 
 labelvisible의 속성은 데이터를 심볼상단에 표시한다. label\_visible 속성은 data\_format의 정보와 상관관계를 갖는다.
 
@@ -100,7 +100,7 @@ data\_format의 속성값 xyzl로 지정하였을 경우 \(fx, fy, fz, label\)�
 
 label\_visible의 true로 설정하였을 경우, data\_format이 xyzw로 설정시 fw의 값을 디스플레이한다. 만약 xyzl의 데이터 포맷인 경우에는 입력데이터의 라벨정보를 디스플레이한다.
 
-![](/assets/3d/3d_scatter_chart_label.png)
+![](./assets/3d/3d_scatter_chart_label.png)
 
 elevationType의 속성값에 따라 색상표현 및 심볼의 볼륨 사이즈를 지정한다. 총 4가지의 타입을 지정할 수 있다.
 

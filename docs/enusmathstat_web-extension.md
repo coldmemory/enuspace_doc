@@ -13,7 +13,7 @@ grand_parent: enuSpace Tutorial
 
 enuSpace for mars\(2017\)버젼부터 확장용 web 모듈을 추가하여 개발할 수 있는 기능을 제공합니다. 본 내용은 개발자에게 web 모듈 확장 프로젝트 사용 방법에 대하여 설명합니다.
 
-![](/assets/web-interface/webextarc.png)
+![](./assets/web-interface/webextarc.png)
 
 ##### **확장 웹모듈 인터페이스 구조도** 
 
@@ -82,7 +82,7 @@ extern "C" __declspec(dllexport) void Request(WebSocketObject* pSocketObject, wc
 
 아래 그림과 같은 결과를 획득할 수 있다. 
 
-![](/assets/web-interface/webext.png)
+![](./assets/web-interface/webext.png)
 
 주\) 반환값을 전달할 때 char\*의 메모리 값을 동적으로 생성하였으며, 별도의 메모리 해제를 수행하지 말아야 한다. enuSpace 웹 서버모듈에서 처리가 완료되면, 메모리를 자동으로 해제를 수행하기 때문이다. 
 

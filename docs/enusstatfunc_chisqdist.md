@@ -33,15 +33,15 @@ Ensor\* pRetEnsor : pEnsor의 엘리먼트에 맞는 갯수만큼 계산된 Enso
 
 * **PDF**
 
-![](/StatisticsAPI/ChisqDistFunc1.png)
+![](./StatisticsAPI/ChisqDistFunc1.png)
 
-![](/StatisticsAPI/ChisqDistPdfGraph.png)
+![](./StatisticsAPI/ChisqDistPdfGraph.png)
 
 * **CDF**
 
-![](/StatisticsAPI/ChisqDistFunc2.png)
+![](./StatisticsAPI/ChisqDistFunc2.png)
 
-![](/StatisticsAPI/ChisqDistCdfGraph.png)
+![](./StatisticsAPI/ChisqDistCdfGraph.png)
 
 #### Examples1
 
@@ -58,5 +58,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/ChisqDistResultTable.png)
+![](./StatisticsAPI/ChisqDistResultTable.png)
 

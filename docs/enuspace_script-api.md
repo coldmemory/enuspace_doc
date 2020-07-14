@@ -8,7 +8,7 @@ nav_order: h
 
 ## Script Interface
 
-| 함수원형 | 설명 | 스크립트\(![](/assets/javascript.png), ![](/assets/lua.png)\) |
+| 함수원형 | 설명 | 스크립트\(![](./assets/javascript.png), ![](/assets/lua.png)\) |
 | :--- | :--- | :---: |
 | [ GetValue\(\)](//ScriptAPI/GetValue.html) | 객체의 속성값, 변수값을 리턴합니다. | javascript\(web\), lua |
 | [ SetValue\(\)](//ScriptAPI/SetValue.html) | 객체의 속성값, 변수값을 설정합니다. | javascript\(web\), lua |

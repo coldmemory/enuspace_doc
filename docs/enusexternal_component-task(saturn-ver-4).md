@@ -16,7 +16,7 @@ External Task-Component기반의 Task를 구성하는 방법에 대하여 설명
 
 Component Task는 그래픽 객체와 모델의 구조체 정보와 연동하는 방법입니다.
 
-![](/assets/externaltask/task_directory.png)
+![](./assets/externaltask/task_directory.png)
 
 enuSpace for saturn 버젼에서는 C++ 해더 구조체 정보를 이용하여 Task의 메모리를 동적 생성합니다.
 
@@ -181,7 +181,7 @@ void TaskModel()
 
 Task 모델이 위치한 동일한 위치에 svg 파일에 심볼을 정의합니다. enuSpace for Saturn 스튜디오를 이용하여 Svg 심볼을 제작합니다.
 
-![](/assets/saturn/component_task1.png)
+![](./assets/saturn/component_task1.png)
 
 Component 심볼을 그래픽 객체를 통하여 디자인을 수행합니다. Component의 구조체 정보를 설정합니다. 모델에서 추가된 구조체 정보가 DropDown 박스를 통하여 나타납니다.
 
@@ -189,11 +189,11 @@ Component 심볼을 그래픽 객체를 통하여 디자인을 수행합니다. 
 
 추가한 pin 객체의 속성은 별도의 변수로 적용할 수 있으며, 구조체의 변수를 참조변수로 선언할 수 있습니다.  참조변수로 설정하려면 \# 문자를 변수 이름앞에 추가합니다. \#문자는 외부 변수의 참조를 뜻합니다.
 
-![](/assets/saturn/component_task2.png)
+![](./assets/saturn/component_task2.png)
 
 Task 모델과 그래픽 심볼설정이 완료후, 픽쳐 페이지를 통하여 해당 컴포넌트를 추가하여 시뮬레이션을 수행합니다.
 
-![](/assets/saturn/component_task3.png)
+![](./assets/saturn/component_task3.png)
 
 ### enuSpace와 Task간의 인터페이스 함수.
 

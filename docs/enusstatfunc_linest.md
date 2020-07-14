@@ -73,7 +73,7 @@ end
 
 Ensor.Linest\(Ensor\* pEnsor1, Ensor\* pEnsor2,double value\)에 대한 결과입니다.
 
-![](/StatisticsAPI/LinestResult1Table.png)
+![](./StatisticsAPI/LinestResult1Table.png)
 
 #### Examples2
 
@@ -91,7 +91,7 @@ end
 
 Ensor.Linest\(Ensor\* pEnsor1, Ensor\* pEnsor2, "Simple"\)에 대한 결과입니다.
 
-![](/StatisticsAPI/LinestResult2Table.png)
+![](./StatisticsAPI/LinestResult2Table.png)
 
 #### Examples3
 
@@ -109,7 +109,7 @@ end
 
 Ensor.Linest\(Ensor\* pEnsor1, Ensor\* pEnsor2, "Multiple"\)에 대한 결과입니다.
 
-![](/StatisticsAPI/LinestResult3Table.png)
+![](./StatisticsAPI/LinestResult3Table.png)
 
 #### Examples4
 
@@ -127,7 +127,7 @@ end
 
 Ensor.Linest\(Ensor\* pEnsor1, Ensor\* pEnsor2, "Polynomial"\)에 대한 결과입니다.
 
-![](/StatisticsAPI/LinestResult4Table.png)
+![](./StatisticsAPI/LinestResult4Table.png)
 
 #### Examples5
 
@@ -145,5 +145,5 @@ end
 
 Ensor.Linest\(Ensor\* pEnsor1, Ensor\* pEnsor2,Ensor\* pEnsor3\)에 대한 결과입니다.
 
-![](/StatisticsAPI/LinestResult5Table.png)
+![](./StatisticsAPI/LinestResult5Table.png)
 

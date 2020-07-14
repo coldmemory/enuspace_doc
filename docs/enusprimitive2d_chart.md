@@ -7,7 +7,7 @@ grand_parent: enuSpace Tutorial
 
 # Trend
 
-![](/assets/tutorial/trend_image.png)
+![](./assets/tutorial/trend_image.png)
 
 ---
 
@@ -419,7 +419,7 @@ variable = pin의 이름\(name속성\)
 DB TABLE 다이얼로그가 나타나면 상단의 DB그림에 G가 써져있는 버튼을 클릭합니다. 그 뒤 나타나는 창의 내용은  
 **"해당 버튼을 누르고 계속 진행하면 기존에 생성되어 있던 데이터들이 모두 지워집니다. 그리고 글로벌 변수와 로직 객체의 변수들을 데이터 베이스에 재생성합니다. 계속하시겠습니까?"**라는 내용입니다.
 
-![](/assets/trend/35.png)
+![](./assets/trend/35.png)
 
 여러분은 처음 생성하는 것일테니 아마도 전부 비어있을 겁니다. 그러므로 걱정하지 마시고 예를 눌러주시면 됩니다.
 
@@ -429,53 +429,53 @@ DB TABLE 다이얼로그가 나타나면 상단의 DB그림에 G가 써져있는
 
 DB TABLE창에서 팝업차트에서 보고 싶은 변수를 오른쪽 클릭하거나 'Ctrl+클릭' 또는 'Shift+클릭' 또는 '드래그'로 다중선택 하여 오른쪽위의 버튼을 클릭합니다.
 
-![](/assets/trend/37_1.png)
+![](./assets/trend/37_1.png)
 
 생성된 팝업 차트를 확인합니다.
 
-![](/assets/trend/38.png)
+![](./assets/trend/38.png)
 
 ## **2. 현재 생성되어 있는 Logic객체의 데이터를 이용하여 팝업차트 이용하기**
 
 다시 picture 화면으로 돌아가서 Logic차트를 더블 클릭합니다.
 
-![](/assets/trend/39_1.png)
+![](./assets/trend/39_1.png)
 
 아래와 같은 창이 나타나면
 
-![](/assets/trend/40.png)
+![](./assets/trend/40.png)
 
 팝업 차트로 보고싶은 변수를 마우스 오른클릭하여 팝업 차트를 실행합니다.
 
-![](/assets/trend/41.png)![](/assets/trend/42.png)
+![](./assets/trend/41.png)![](/assets/trend/42.png)
 
 **3. Logic객체의 데이터를 모아서 팝업차트 만들기**
 
 데이터를 한데 모아 사용하기 위해서 테이블 기능을 이용합니다. 리본메뉴의 Presentation-&gt;New Table버튼을 클릭합니다.
 
-![](/assets/trend/43.png)
+![](./assets/trend/43.png)
 
 위와 같은 창이 나오면 Logic차트를 더블 클릭하여 아래와 같은 창을 다시 엽니다.
 
-![](/assets/trend/40.png)
+![](./assets/trend/40.png)
 
 Table 창과 Logic변수 창이 모두 띄워져 있으면 Logic변수 창의 변수를 마우스 오른쪽 클릭하여 Add Monitor Paramiter를 선택합니다.
 
-![](/assets/trend/44.png)
+![](./assets/trend/44.png)
 
 그리고 Table 창에 해당 변수가 추가되었는지 확인합니다.  
 ※변수는 하나의 객체에서 여러 개를 추가할 수 있고, 다른 Logic객체에서도 추가할 수 있습니다.
 
-![](/assets/trend/45.png)
+![](./assets/trend/45.png)
 
 여기서 팝업 차트를 띄우기 위해서 변수의 왼쪽에 체크박스를 체크 해줍니다.  
 ※선택해야할 변수가 여러개라면 모두 체크해줍니다.
 
-![](/assets/trend/46.png)
+![](./assets/trend/46.png)
 
 이후 Show Trend 버튼을 클릭합니다. \(그리고 Run상태가 아닐경우 Run버튼을 클릭해줍니다.\)
 
-![](/assets/trend/47.png)
+![](./assets/trend/47.png)
 
 팝업 차트가 정상적으로 돌아가는지 확인합니다.
 

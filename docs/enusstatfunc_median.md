@@ -39,5 +39,5 @@ Ensor\* pRetEnsor : 중앙값을 가진 Ensor\*를 반환합니다.
 
 #### Result
 
-![](/StatisticsAPI/MedianResultTable.png)
+![](./StatisticsAPI/MedianResultTable.png)
 

@@ -43,7 +43,7 @@ end
 
 #### Result1
 
-![](/StatisticsAPI/PercentileResultTable.png)
+![](./StatisticsAPI/PercentileResultTable.png)
 
 #### Examples2
 
@@ -58,5 +58,5 @@ end
 
 #### Result2
 
-![](/StatisticsAPI/PercentileResultTable2.png)
+![](./StatisticsAPI/PercentileResultTable2.png)
 

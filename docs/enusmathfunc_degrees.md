@@ -35,5 +35,5 @@ end
 
 #### Result
 
-![](/MathAPI/DegreeResult.png)
+![](./MathAPI/DegreeResult.png)
 

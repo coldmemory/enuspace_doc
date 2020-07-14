@@ -25,7 +25,7 @@ function MathEquation()
  end
 ```
 
-다양한 데이터 가시화 기능을 이용하여 데이터 분석을 수행할수 있습니다.![](/assets/statistics/plot_table.png)
+다양한 데이터 가시화 기능을 이용하여 데이터 분석을 수행할수 있습니다.![](./assets/statistics/plot_table.png)
 
 ### Math & Statistics API Category
 

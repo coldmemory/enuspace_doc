@@ -39,7 +39,7 @@ function MathEquation()
 
 #### Result1
 
-![](/StatisticsAPI/QuartileResultTable.png)
+![](./StatisticsAPI/QuartileResultTable.png)
 
 
 

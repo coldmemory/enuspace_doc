@@ -37,5 +37,5 @@ Ensor\* pRetEnsor : 각 Column에 대한 가장 많은 빈도수와 두번째 �
 
 #### Result
 
-![](/StatisticsAPI/ModeResultTable.png)
+![](./StatisticsAPI/ModeResultTable.png)
 

@@ -27,15 +27,15 @@ Ensor\* pRetEnsor : x,y data에 의한 선형 함수의 기울기 가진 Ensor\*
 
 * The equation for the intercept of the regression line, a, is:
 
-![](/StatisticsAPI/InterceptFunc1.png)
+![](./StatisticsAPI/InterceptFunc1.png)
 
 where the slope, b, is calculated as:
 
-![](/StatisticsAPI/InterceptFunc2.png)
+![](./StatisticsAPI/InterceptFunc2.png)
 
 and where x and y are the sample means Average\(known\_x's\) and Average\(known\_y's\).
 
-![](/StatisticsAPI/InterceptFuncGraph.png)
+![](./StatisticsAPI/InterceptFuncGraph.png)
 
 #### Examples1
 
@@ -51,5 +51,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/SlopeResultTable.png)
+![](./StatisticsAPI/SlopeResultTable.png)
 

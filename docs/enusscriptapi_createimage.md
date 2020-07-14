@@ -35,12 +35,12 @@ none
 
 ```lua
 -- lua
-CreateImage("ID_IMAGE", 0, 0, 100, 60, "resource\\image.png", 0, 0)
+CreateImage("ID_IMAGE", 0, 0, 100, 60, "resource\\image.png", 0, 0).
 ```
 
 ```js
 // javascript
-CreateImage("ID_IMAGE", 0, 0, 100, 60, "resource\\image.png", 0, 0);
+CreateImage("ID_IMAGE", 0, 0, 100, 60, "resource\\image.png", 0, 0);.
 ```
 
 #### 
@@ -50,7 +50,7 @@ CreateImage("ID_IMAGE", 0, 0, 100, 60, "resource\\image.png", 0, 0);
 ```lua
 -- lua
 function _onmousedown()
-    CreateImage("ID_IMAGE", 0, 0, 100, 60, "resource\\image.png", 0, 0)
+    CreateImage("ID_IMAGE", 0, 0, 100, 60, "resource\\image.png", 0, 0).
 end
 ```
 
@@ -58,7 +58,7 @@ end
 // JavaScript
 function _onmousedown()
 {    
-    CreateImage("ID_IMAGE", 0, 0, 100, 60, "resource\\image.png", 0, 0);
+    CreateImage("ID_IMAGE", 0, 0, 100, 60, "resource\\image.png", 0, 0);.
 }
 ```
 

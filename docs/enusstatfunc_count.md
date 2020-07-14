@@ -40,5 +40,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/CountResultTable.png)
+![](./StatisticsAPI/CountResultTable.png)
 

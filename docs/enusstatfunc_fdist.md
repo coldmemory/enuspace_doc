@@ -37,15 +37,15 @@ Ensor\* pRetEnsor : pEnsor의 엘리먼트에 맞는 갯수만큼 계산된 Enso
 
 * **PDF**
 
-![](/StatisticsAPI/FDistPdfFunc.png)
+![](./StatisticsAPI/FDistPdfFunc.png)
 
-![](/StatisticsAPI/FDistPdfGraph.png)
+![](./StatisticsAPI/FDistPdfGraph.png)
 
 * **CDF**
 
-![](/StatisticsAPI/FDistCdfFunc.png)
+![](./StatisticsAPI/FDistCdfFunc.png)
 
-![](/StatisticsAPI/FDistCdfGraph.png)
+![](./StatisticsAPI/FDistCdfGraph.png)
 
 #### Examples1
 
@@ -64,5 +64,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/FDistResult.png)
+![](./StatisticsAPI/FDistResult.png)
 

@@ -22,7 +22,7 @@ External Task의 디렉토리 및 파일 구조는 아래 그림과 같이 프�
 
 TaskName은 해당 Task의 이름과 dll파일 이름이 동일하여야 한다.
 
-##### ![](/assets/externaltask/task_directory.png)
+##### ![](./assets/externaltask/task_directory.png)
 
 ---
 
@@ -47,7 +47,7 @@ External Task는 4가지의 종류로 구성된다.
 
 * 연산 처리용으로 외부의 알고리즘 모델을 enuSpace의 메모리 연동하여 제어를 수행한다.  enuSpace에서 설정된 Cycle 주기에 맞추어 해당 모듈의 OnTask\(\)함수를 주기적으로 호출한다. 
 
-![](/assets/externaltask/process_type.png)
+![](./assets/externaltask/process_type.png)
 
 ##### **단일 픽처 페이지 연결용 그래프 연산용 타입 **\[TASK\_TYPE\_FLOW\_COMPONENT\_PAGE\]
 
@@ -56,7 +56,7 @@ External Task는 4가지의 종류로 구성된다.
 
 예\) enuSpace Tensorflow plugin project : [https://github.com/EXPNUNI/enuSpace-Tensorflow](https://github.com/EXPNUNI/enuSpace-Tensorflow)
 
-![](/assets/externaltask/process_single.png)
+![](./assets/externaltask/process_single.png)
 
 ##### **전체 픽쳐 페이지 연결용 그래프 연산용 타입 **\[TASK\_TYPE\_FLOW\_COMPONENT\_TOTAL\]
 
@@ -64,7 +64,7 @@ External Task는 4가지의 종류로 구성된다.
 
 * 본 타입은 enuSpace에서 설정된 Cycle 주기에 맞추어 해당 모듈의 OnTask\(\)함수를 호출한다.
 
-![](/assets/externaltask/process_multi.png)
+![](./assets/externaltask/process_multi.png)
 
 ##### **컴포넌트 로직 객체의 함수 호출용 타입 **\[TASK\_TYPE\_FUNCTION\_COMPONENT\]
 
@@ -73,7 +73,7 @@ External Task는 4가지의 종류로 구성된다.
 
 예\) enuSpace Eigen plugin project : [https://github.com/EXPNUNI/enuSpace-Eigen](https://github.com/EXPNUNI/enuSpace-Eigen)
 
-![](/assets/externaltask/process_function.png)
+![](./assets/externaltask/process_function.png)
 
 ### External Task 설정
 

@@ -29,7 +29,7 @@ Ensor\* pRetEnsor : CovarianceP값을 가진 Ensor\*를 반환합니다.
 
 * The covariance is:
 
-  ![](/StatisticsAPI/CovarancePFunc.png)
+  ![](./StatisticsAPI/CovarancePFunc.png)
 
   where
 
@@ -51,5 +51,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/CovariancePResultTable.png)
+![](./StatisticsAPI/CovariancePResultTable.png)
 

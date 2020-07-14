@@ -31,9 +31,9 @@ Ensor\* pRetEnsor : pEnsor의 엘리먼트에 맞는 갯수만큼 계산된 Enso
 
 * CDF
 
-![](/StatisticsAPI/LogNormalDistCdfFunc.png)
+![](./StatisticsAPI/LogNormalDistCdfFunc.png)
 
-![](/StatisticsAPI/LogNormalDistCdfGraph.png)
+![](./StatisticsAPI/LogNormalDistCdfGraph.png)
 
 #### Examples1
 
@@ -49,5 +49,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/LogNormalInv.png)
+![](./StatisticsAPI/LogNormalInv.png)
 

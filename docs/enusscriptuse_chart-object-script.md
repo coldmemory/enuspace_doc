@@ -13,7 +13,7 @@ grand_parent: enuSpace Tutorial
 
 ### 차트 계층도
 
-![](/assets/차트 계층도.png)
+![](./assets/차트 계층도.png)
 
 ---
 

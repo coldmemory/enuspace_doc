@@ -9,7 +9,7 @@ Revision 2019.12.09 - enuSpace for saturn \(v4.0\)
 
 # contour
 
-![](/assets/3d/contour.png)
+![](./assets/3d/contour.png)
 
 ---
 
@@ -154,7 +154,7 @@ function _ontaskview()
 
 enuSpace 스튜디오를 통하여 객체의 편집 및 속성정보를 확인할 수 있습니다.
 
-![](/assets/3d/contour_prop.png)
+![](./assets/3d/contour_prop.png)
 
 ## X3D Tag 예시
 
@@ -241,5 +241,5 @@ end]]>
 
 color-position 속성 정보는 draw-shape 속성값이 cylinder인 경우에만 제공되는 정보입니다. circle-position 속성은 원형 컬럼의 위치 정보를 설정하는 기능입니다.
 
-![](/assets/tutorial/3d_circleposition.png)
+![](./assets/tutorial/3d_circleposition.png)
 

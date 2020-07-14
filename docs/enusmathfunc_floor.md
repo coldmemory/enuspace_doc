@@ -47,5 +47,5 @@ function MathEquation()
 
 #### Result
 
-![](/MathAPI/FloorResult.png)
+![](./MathAPI/FloorResult.png)
 

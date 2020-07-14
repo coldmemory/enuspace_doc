@@ -50,5 +50,5 @@ end
 
 #### Result
 
-![](/MathAPI/MeanResult.png)
+![](./MathAPI/MeanResult.png)
 

@@ -26,13 +26,13 @@ reference fotran\_task code2 : [https://github.com/EXPNUNI/enuSpace-Article/blob
 
 fortran\_task.enup 프로젝트를 오픈합니다.
 
-![](/assets/externaltask/project_open.png)
+![](./assets/externaltask/project_open.png)
 
 ### Database Tag 추가
 
 데이터베이스 Tag를 추가합니다.
 
-![](/assets/externaltask/database_add.png)
+![](./assets/externaltask/database_add.png)
 
 프로젝트 닫기를 수행하고 코드를 수정합니다.
 
@@ -135,5 +135,5 @@ SetArrayValue\(\)함수의 세번째 파라미터는 정의된 아래의 타입�
 
 프로젝트를 오픈하여 Task를 기동합니다.
 
-![](/assets/externaltask/test.png)추가된 Database Tag 변수 @CORE.analog의 값이 변경되는지 확인합니다.
+![](./assets/externaltask/test.png)추가된 Database Tag 변수 @CORE.analog의 값이 변경되는지 확인합니다.
 

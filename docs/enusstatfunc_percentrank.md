@@ -40,7 +40,7 @@ end
 
 #### Result1
 
-![](/StatisticsAPI/PercentRank.png)
+![](./StatisticsAPI/PercentRank.png)
 
 #### Examples2
 
@@ -55,5 +55,5 @@ end
 
 #### Result2
 
-![](/StatisticsAPI/PercentRankResult2.png)
+![](./StatisticsAPI/PercentRankResult2.png)
 

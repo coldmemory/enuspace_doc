@@ -42,5 +42,5 @@ function MathEquation()
 
 #### Result
 
-![](/StatisticsAPI/MaxIfResultTable.png)
+![](./StatisticsAPI/MaxIfResultTable.png)
 

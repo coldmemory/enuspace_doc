@@ -40,7 +40,7 @@ Ensor\* pRetEnsor : Fcalc, 0.05 two tailed F,two tailedd probability P를 가진
 
 * **PDF**
 
-![](/StatisticsAPI/FTestGraph.png)
+![](./StatisticsAPI/FTestGraph.png)
 
 #### Examples1
 
@@ -56,5 +56,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/FTestResultTable.png)
+![](./StatisticsAPI/FTestResultTable.png)
 

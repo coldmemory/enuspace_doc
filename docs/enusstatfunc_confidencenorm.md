@@ -32,7 +32,7 @@ Ensor\* pRetEnsor : pEnsor의 엘리먼트에 맞는 갯수만큼 계산된 Enso
 * Returns the confidence interval for a population mean, using a normal distribution.
 * Normal Distribution curve
 
-![](/StatisticsAPI/ConfidenceNormFuncGraph.png)
+![](./StatisticsAPI/ConfidenceNormFuncGraph.png)
 
 #### Examples1
 
@@ -47,5 +47,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/ConfidenceNormResultTable.png)
+![](./StatisticsAPI/ConfidenceNormResultTable.png)
 

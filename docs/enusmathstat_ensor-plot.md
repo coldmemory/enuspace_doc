@@ -26,7 +26,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/plot1.png)
+![](./assets/statistics/plot1.png)
 
 * Plot\(\)함수의 인자에 두개의 입력할 경우, x축의 인자에 대한 y축의 인자값을 이용하여 표시됩니다.
 
@@ -40,7 +40,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/plot2.png)
+![](./assets/statistics/plot2.png)
 
 * Plot\(\)함수의 시리즈 속성 지정
 
@@ -77,7 +77,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/plot3.png)
+![](./assets/statistics/plot3.png)
 
 * Plot\(\)함수에 여러개의 인자\(x1, y1, x2, y2 ...\)를 입력하였을 이용하여 멀티 시리즈 Plot 차트로 현시됩니다.
 
@@ -92,7 +92,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/plot4.png)
+![](./assets/statistics/plot4.png)
 
 ## ensor.Table\(\)
 
@@ -109,7 +109,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/table1.png)
+![](./assets/statistics/table1.png)
 
 ## ensor.Contour\(\)
 
@@ -124,7 +124,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/contour1.png)
+![](./assets/statistics/contour1.png)
 
 ensor.Contour\(\)함수의 두번째 인자는 사용자 정의한 속성값을 지정합니다.  \* 속성값을 지정하지 않을 경우, 기본 설정값으로 적용됩니다. contourType:contour;minEelvation:자동계산;maxElevation:자동계산;colorElevation:기본값
 
@@ -142,7 +142,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/contour2.png)
+![](./assets/statistics/contour2.png)
 
 ```lua
 function MathEquation()
@@ -153,7 +153,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/contour4.png)
+![](./assets/statistics/contour4.png)
 
 ## ensor.Scatter\(\)
 
@@ -181,7 +181,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/scatter1.png)
+![](./assets/statistics/scatter1.png)
 
 * Scatter\(\)함수의 시리즈 속성 지정
 
@@ -210,7 +210,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/scatter2.png)
+![](./assets/statistics/scatter2.png)
 
 * 멀티 시리즈 Scatter\(\)함수
 
@@ -225,7 +225,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/scatter3.png)
+![](./assets/statistics/scatter3.png)
 
 ## ensor.Stem\(\)
 
@@ -241,7 +241,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/stem1.png)
+![](./assets/statistics/stem1.png)
 
 ```lua
 function MathEquation()
@@ -253,7 +253,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/stem2.png)
+![](./assets/statistics/stem2.png)
 
 * Stem\(\)함수의 시리즈 속성 지정
 
@@ -287,7 +287,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/stem3.png)
+![](./assets/statistics/stem3.png)
 
 * 멀티 시리즈 Stem\(\) 함수
 
@@ -302,7 +302,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/stem4.png)
+![](./assets/statistics/stem4.png)
 
 ## ensor.Histogram\(\)
 
@@ -318,7 +318,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/histogram1.png)
+![](./assets/statistics/histogram1.png)
 
 ```lua
 function MathEquation()
@@ -330,7 +330,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/histogram2.png)
+![](./assets/statistics/histogram2.png)
 
 * Histogram\(\)함수의 시리즈 속성 지정
 
@@ -354,7 +354,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/histogram3.png)
+![](./assets/statistics/histogram3.png)
 
 * 멀티 시리즈 Histogram\(\) 함수
 
@@ -369,7 +369,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/histogram4.png)
+![](./assets/statistics/histogram4.png)
 
 ## ensor.Stair\(\)
 
@@ -385,7 +385,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/stair1.png)
+![](./assets/statistics/stair1.png)
 
 ```lua
 function MathEquation()
@@ -397,7 +397,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/stair2.png)
+![](./assets/statistics/stair2.png)
 
 * Stair\(\)함수의 시리즈 속성 지정
 
@@ -419,7 +419,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/stair3.png)
+![](./assets/statistics/stair3.png)
 
 * 멀티 시리즈 Stair\(\) 함수
 
@@ -434,7 +434,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/stair4.png)
+![](./assets/statistics/stair4.png)
 
 ## ensor.Area\(\)
 
@@ -450,7 +450,7 @@ function MathEquation()
 end
 ```
 
-![](/assets/statistics/area1.png)
+![](./assets/statistics/area1.png)
 
 * Area\(\)함수의 시리즈 속성 지정
 
@@ -488,7 +488,7 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/area2.png)
+![](./assets/statistics/area2.png)
 
 * 멀티 시리즈 Area\(\) 함수
 
@@ -503,5 +503,5 @@ function MathEquation()
  end
 ```
 
-![](/assets/statistics/area3.png)
+![](./assets/statistics/area3.png)
 

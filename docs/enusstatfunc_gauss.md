@@ -23,7 +23,7 @@ Ensor\* pRetEnsor : pEnsor의 Gauss 값을 가진  Ensor\*를 반환합니다.
 
 * equation:
 
-![](/StatisticsAPI/GaussDistFunc.png)
+![](./StatisticsAPI/GaussDistFunc.png)
 
 at μ=0, σ=1
 
@@ -41,5 +41,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/GaussDistResult.png)
+![](./StatisticsAPI/GaussDistResult.png)
 

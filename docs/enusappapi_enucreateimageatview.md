@@ -79,7 +79,7 @@ void CSampleView::OnInitialUpdate()
     enuSetSvgPageView(ViewHandle , strPicture.GetBuffer(0)); 
 
     // object create
-    HNODE hnode = enuCreateImageAtView(ViewHandle, L"MyObject", 0, 0, 300, 500, L"resource\\image.png", 0, 0);
+    HNODE hnode = enuCreateImageAtView(ViewHandle, L"MyObject", 0, 0, 300, 500, L"resource\\image.png", 0, 0);.
 }
 ```
 

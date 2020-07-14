@@ -29,7 +29,7 @@ Returns the left-tailed probability of the chi-squared distribution.
 
 * **PDF**
 
-![](/StatisticsAPI/ChisqDistRtPdfGraph.png)
+![](./StatisticsAPI/ChisqDistRtPdfGraph.png)
 
 #### Examples1
 
@@ -44,5 +44,5 @@ function MathEquation()
 
 #### Result
 
-![](/StatisticsAPI/ChisqDistRtResultTable.png)
+![](./StatisticsAPI/ChisqDistRtResultTable.png)
 

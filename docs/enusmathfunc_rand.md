@@ -42,5 +42,5 @@ function MathEquation()
 
 #### Result
 
-![](/MathAPI/RandResult.png)
+![](./MathAPI/RandResult.png)
 

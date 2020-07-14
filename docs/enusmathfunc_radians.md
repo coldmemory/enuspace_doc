@@ -35,5 +35,5 @@ end
 
 #### Result
 
-![](/MathAPI/RadianResult.png)
+![](./MathAPI/RadianResult.png)
 

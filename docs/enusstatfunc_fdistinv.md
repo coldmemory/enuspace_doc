@@ -33,7 +33,7 @@ Ensor\* pRetEnsor : pEnsor의 엘리먼트에 맞는 갯수만큼 계산된 Enso
 
 **FInv**\(_x, df1, df2_\) = 1 – FDist\(_x, df1, df2,_ true\)
 
-![](/StatisticsAPI/FDistInvFuncGraph.png)
+![](./StatisticsAPI/FDistInvFuncGraph.png)
 
 #### Examples1
 
@@ -49,5 +49,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/FInvResult.png)
+![](./StatisticsAPI/FInvResult.png)
 

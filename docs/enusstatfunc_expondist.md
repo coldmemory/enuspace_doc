@@ -33,11 +33,11 @@ Ensor\* pRetEnsor : pEnsor의 엘리먼트에 맞는 갯수만큼 계산된 Enso
 
 * The equation for the probability density function is:
 
-       ![](/StatisticsAPI/ExponDistFunc1.png)
+       ![](./StatisticsAPI/ExponDistFunc1.png)
 
 * The equation for the cumulative distribution function is:
 
-  ![](/StatisticsAPI/ExponDistFuncCdf.png)
+  ![](./StatisticsAPI/ExponDistFuncCdf.png)
 
 #### Examples1
 
@@ -56,5 +56,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/ExponDistResult.png)
+![](./StatisticsAPI/ExponDistResult.png)
 

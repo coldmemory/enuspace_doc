@@ -40,7 +40,7 @@ end
 
 #### Result1
 
-![](/MathAPI/ModResult.png)
+![](./MathAPI/ModResult.png)
 
 #### Examples2
 
@@ -57,5 +57,5 @@ end
 
 #### Result2
 
-![](/MathAPI/ModResult2.png)
+![](./MathAPI/ModResult2.png)
 

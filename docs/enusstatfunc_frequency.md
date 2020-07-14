@@ -41,5 +41,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/FrequencyResultTable.png)
+![](./StatisticsAPI/FrequencyResultTable.png)
 

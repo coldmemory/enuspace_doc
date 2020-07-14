@@ -33,9 +33,9 @@ Ensor\* pRetEnsor : pEnsor2와 pEnsor3에 의해 계산된 선형 트렌드 식�
 
 * The equation for FORECAST is **a+bx**, where:
 
-![](/StatisticsAPI/ForecastFunc1.png)
+![](./StatisticsAPI/ForecastFunc1.png)
 
-![](/StatisticsAPI/ForecastFunc2.png)
+![](./StatisticsAPI/ForecastFunc2.png)
 
 and where x and y are the sample means AVERAGE\(x data\) and AVERAGE\(y data\).
 
@@ -55,5 +55,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/ForecastResult.png)
+![](./StatisticsAPI/ForecastResult.png)
 

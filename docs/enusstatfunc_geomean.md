@@ -27,7 +27,7 @@ Ensor\* pRetEnsor : 엘리먼트의 갯수가 1인 Ensor\*를 반환합니다.
 
 * The equation for the geometric mean is:
 
-![](/StatisticsAPI/GeoMeanFunc.png)
+![](./StatisticsAPI/GeoMeanFunc.png)
 
 #### Examples
 
@@ -42,5 +42,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/GeoMeanResult.png)
+![](./StatisticsAPI/GeoMeanResult.png)
 

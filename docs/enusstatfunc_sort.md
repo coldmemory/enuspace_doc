@@ -44,7 +44,7 @@ function MathEquation()
 
 Argument 2가 없으면 모든 칼럼을 오름차순 정렬하고 Argument 2가 있으면 Argument 2의 칼럼을 기준으로 오름차순 정렬함.
 
-![](/StatisticsAPI/SortResultTable.png)
+![](./StatisticsAPI/SortResultTable.png)
 
 
 

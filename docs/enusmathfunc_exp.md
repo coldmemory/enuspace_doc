@@ -37,5 +37,5 @@ end
 
 #### Result
 
-![](/MathAPI/ExpResult.png)
+![](./MathAPI/ExpResult.png)
 

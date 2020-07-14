@@ -7,7 +7,7 @@ grand_parent: enuSpace Tutorial
 
 # Circle arrow
 
-![](/assets/tutorial/circlearrow_image.png)
+![](./assets/tutorial/circlearrow_image.png)
 
 ---
 
@@ -109,7 +109,7 @@ function _onmousedown()
 
 enuSpace 스튜디오를 통하여 객체의 편집 및 속성정보를 확인할 수 있습니다.
 
-![](/assets/tutorial/circlearrow_property.png)
+![](./assets/tutorial/circlearrow_property.png)
 
 ## SVG Tag 예시
 

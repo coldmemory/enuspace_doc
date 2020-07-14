@@ -37,15 +37,15 @@ Ensor\* pRetEnsor : pEnsor의 엘리먼트에 맞는 갯수만큼 계산된 Enso
 
 * **PDF**
 
-![](/StatisticsAPI/GammaDistFunc.png)
+![](./StatisticsAPI/GammaDistFunc.png)
 
-![](/StatisticsAPI/GammaDistFuncGraph1.png)
+![](./StatisticsAPI/GammaDistFuncGraph1.png)
 
 * **CDF**
 
-![](/StatisticsAPI/GammaDistFuncCdf.png)
+![](./StatisticsAPI/GammaDistFuncCdf.png)
 
-![](/StatisticsAPI/GammaDistFunc2.png)
+![](./StatisticsAPI/GammaDistFunc2.png)
 
 #### Examples1
 
@@ -64,5 +64,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/GammaDistResult.png)
+![](./StatisticsAPI/GammaDistResult.png)
 

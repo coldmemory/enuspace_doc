@@ -7,7 +7,7 @@ grand_parent: enuSpace Tutorial
 
 # cone
 
-![](/assets/3d/cone.png)
+![](./assets/3d/cone.png)
 
 ---
 
@@ -89,7 +89,7 @@ function _ontaskview()
 
 enuSpace 스튜디오를 통하여 객체의 편집 및 속성정보를 확인할 수 있습니다.
 
-![](/assets/3d/cone_prop.png)
+![](./assets/3d/cone_prop.png)
 
 ## X3D Tag 예시
 

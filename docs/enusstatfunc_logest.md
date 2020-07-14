@@ -55,5 +55,5 @@ end
 
 #### Result1
 
-![](/StatisticsAPI/LogestResultTable.png)
+![](./StatisticsAPI/LogestResultTable.png)
 

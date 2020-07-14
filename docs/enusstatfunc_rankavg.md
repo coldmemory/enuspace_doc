@@ -44,7 +44,7 @@ function MathEquation()
 
 Argument 2가 없으면 마지막 칼럼을 기준으로 Rank를 정함.
 
-![](/StatisticsAPI/RankAvgResult.png)
+![](./StatisticsAPI/RankAvgResult.png)
 
 #### Examples2
 
@@ -61,5 +61,5 @@ function MathEquation()
 
 Argument 2가 있으면 Argument 2 칼럼을 기준으로 Rank를 정함.
 
-![](/StatisticsAPI/RankAveResultTable2.png)
+![](./StatisticsAPI/RankAveResultTable2.png)
 

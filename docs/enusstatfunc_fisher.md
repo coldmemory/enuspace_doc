@@ -21,7 +21,7 @@ Ensor\* pRetEnsor : Fisher 함수에 의해 변환된  Ensor\*를 반환합니�
 
 #### Remarks
 
-![](/StatisticsAPI/FisherFunc.png)
+![](./StatisticsAPI/FisherFunc.png)
 
 #### Examples1
 
@@ -37,5 +37,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/FisherResult.png)
+![](./StatisticsAPI/FisherResult.png)
 

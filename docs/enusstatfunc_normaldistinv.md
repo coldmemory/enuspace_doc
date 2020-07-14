@@ -45,5 +45,5 @@ end
 
 #### Result1
 
-![](/StatisticsAPI/NormalDistInvResult.png)
+![](./StatisticsAPI/NormalDistInvResult.png)
 

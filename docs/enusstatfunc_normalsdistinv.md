@@ -35,5 +35,5 @@ end
 
 #### Result1
 
-![](/StatisticsAPI/NormalSInvResult.png)
+![](./StatisticsAPI/NormalSInvResult.png)
 

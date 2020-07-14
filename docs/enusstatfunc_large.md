@@ -38,5 +38,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/LargeresultTable.png)
+![](./StatisticsAPI/LargeresultTable.png)
 

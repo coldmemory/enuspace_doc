@@ -34,5 +34,5 @@ function MathEquation()
 
 #### Result
 
-![](/MathAPI/Even.png)
+![](./MathAPI/Even.png)
 

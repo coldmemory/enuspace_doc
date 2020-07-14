@@ -13,7 +13,7 @@ grand_parent: enuSpace Tutorial
 
 version : enuSpace for saturn 2020
 
-![](/assets/tutorial/slider.png)
+![](./assets/tutorial/slider.png)
 
 시간정보를 이용한 슬라이더 샘플.
 

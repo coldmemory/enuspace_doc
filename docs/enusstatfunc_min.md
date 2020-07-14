@@ -50,5 +50,5 @@ function MathEquation()
 
 #### Result
 
-![](/StatisticsAPI/MinResultTable.png)
+![](./StatisticsAPI/MinResultTable.png)
 

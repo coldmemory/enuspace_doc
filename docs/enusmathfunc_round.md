@@ -41,7 +41,7 @@ function MathEquation()
 
 #### Result1
 
-![](/MathAPI/RounResult.png)
+![](./MathAPI/RounResult.png)
 
 
 

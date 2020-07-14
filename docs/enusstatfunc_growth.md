@@ -55,5 +55,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/GrowthResult.png)
+![](./StatisticsAPI/GrowthResult.png)
 

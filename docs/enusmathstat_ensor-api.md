@@ -32,9 +32,9 @@ local ensor_x = ensor.new("[10][10]", "int", "1:100")       -- [10][10] matrix (
 local ensor_x = ensor.new("[10][10]", "double", "1:0.1:10") -- [10][10] matrix (datatype = double, default value : 1~10)
 ```
 
-![](/assets/statistics/ensor_api_new1.png)
+![](./assets/statistics/ensor_api_new1.png)
 
-![](/assets/statistics/ensor_api_new2.png)
+![](./assets/statistics/ensor_api_new2.png)
 
 * enuSpace의 변수값을 이용하여 ensor객체 생성방법
 
@@ -66,7 +66,7 @@ local ensor_g = ensor.GetEnsor(ensor_x, "[3:5][3:5]")
 ensor.Table(ensor_g)
 ```
 
-![](/assets/statistics/ensor_api_getensor.png)
+![](./assets/statistics/ensor_api_getensor.png)
 
 특정 배열의 인덱스 전부를 취득하고자 하는 경우에는 아래 코드 처럼 \[:\]의 표기법을 사용한다.
 
@@ -74,7 +74,7 @@ ensor.Table(ensor_g)
 local ensor_g = ensor.GetEnsor(ensor_x, "[:][3:5]")
 ```
 
-![](/assets/statistics/ensor_api_getensor2.png)
+![](./assets/statistics/ensor_api_getensor2.png)
 
 ## ensor.GetValue\(\)
 

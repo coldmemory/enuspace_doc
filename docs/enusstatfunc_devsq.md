@@ -25,7 +25,7 @@ Ensor\* pRetEnsor : 편차의 제곱의 합를 가진 Ensor\*를 반환합니다
 
 * The equation for the sum of squared deviations is:
 
-  ![](/StatisticsAPI/DevsqFunc.png)
+  ![](./StatisticsAPI/DevsqFunc.png)
 
 #### Examples1
 
@@ -40,5 +40,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/CovarianceSResultTable.png)
+![](./StatisticsAPI/CovarianceSResultTable.png)
 

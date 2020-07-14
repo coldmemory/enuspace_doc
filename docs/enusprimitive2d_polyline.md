@@ -7,7 +7,7 @@ grand_parent: enuSpace Tutorial
 
 # polyline
 
-![](/assets/tutorial/polyline_image.png)
+![](./assets/tutorial/polyline_image.png)
 
 ---
 
@@ -101,7 +101,7 @@ function _onmousedown()
 
 enuSpace 스튜디오를 통하여 객체의 편집 및 속성정보를 확인할 수 있습니다.
 
-![](/assets/tutorial/polyline_property.png)
+![](./assets/tutorial/polyline_property.png)
 
 ## SVG Tag 예시
 

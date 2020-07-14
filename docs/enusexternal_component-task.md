@@ -19,7 +19,7 @@ Component Task는 그래픽 객체를 통하여 모델을 연동하는 방법입
 
 enuSpace에서 추가된 모델 컴포넌트 핀객체가 외부 테스크의 메모리를 지시하도록 설정합니다. enuSpace의 모델 컴포넌트 핀객체가 외부 테스크의 변수를 지시함으로서 태스크 제어 및 모니터링이 가능하게 됩니다. enuSpace는 외부 태스크 로드시 해당 외부 태스크에게 핀변수 인터페이스를 위한 함수\(SetPinInterfaceVariable\)를 제공하고, 외부 태스크는 제공된 함수를 이용하여 자신의 변수정보를 enuSpace의 핀객체에 전달함으로서 컴포넌트 태스크 구성이 마무리됩니다.
 
-![](/assets/externaltask/component_task_diagram.png)
+![](./assets/externaltask/component_task_diagram.png)
 
 ## SVG 그래픽 구성
 
@@ -27,7 +27,7 @@ Component Task는 해당 Task의 디렉토리에 dll, svg파일이 존재하여�
 
 컴포넌트용 SVG 파일을 생성하는 방법은 enuSpace스튜디오에서 제공하는 로직라이브러리 생성 기능을 활용합니다. 구현이 완료된 SVG파일은 해당 Task의 디렉토리에 옮긴후, 작업된 SVG파일은 제거를 수행합니다.
 
-![](/assets/externaltask/component1.png)
+![](./assets/externaltask/component1.png)
 
 로직 라이브러리 생성방법에 따라서 아래 그림과 같이 핀객체를 추가하고, 핀객체의 속성정보를 입력합니다. 핀의 변수명에 해당하는 속성은 name 입니다. name은 일반 변수형태로 이름을 입력하거나, 배열변수명으로 정의가 가능합니다.
 
@@ -35,7 +35,7 @@ Component Task는 해당 Task의 디렉토리에 dll, svg파일이 존재하여�
 
 변수명을 정의하였다면, 해당하는 핀의 변수 타입정보를 지정합니다. 변수의 타입은 bool, int, float, double, string을 지정할수 있습니다. 해당 핀의 입,출력정보를 지정합니다.
 
-![](/assets/externaltask/component2.png)
+![](./assets/externaltask/component2.png)
 
 PIN객체의 속성 테이블
 
@@ -334,5 +334,5 @@ void component::Simulation(void)
 
 심볼 컴포넌트를 더블클릭하면 심볼 테이블이 나타나며, 입력 핀변수의 값을 변경하여 출력값을 확인합니다.
 
-![](/assets/externaltask/component_sim.png)
+![](./assets/externaltask/component_sim.png)
 

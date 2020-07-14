@@ -32,7 +32,7 @@ Ensor\* pRetEnsor : pEnsor의 엘리먼트에 맞는 갯수만큼 계산된 Enso
 * Returns the confidence interval for a population mean, using a Student's t distribution.
 * Student's t Distribution curve
 
-![](/StatisticsAPI/CofidenceTFuncGraph.png)
+![](./StatisticsAPI/CofidenceTFuncGraph.png)
 
 #### Examples1
 
@@ -47,5 +47,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/ConfidenceTResultTable.png)
+![](./StatisticsAPI/ConfidenceTResultTable.png)
 

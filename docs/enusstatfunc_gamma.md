@@ -23,7 +23,7 @@ Ensor\* pRetEnsor : pEnsor의 Gamma 값을 가진  Ensor\*를 반환합니다.
 
 * equation:
 
-![](/StatisticsAPI/GammaFunc.png)
+![](./StatisticsAPI/GammaFunc.png)
 
 * Г\(N+1\) = N \* Г\(N\)
 
@@ -41,5 +41,5 @@ end
 
 #### Result
 
-![](/StatisticsAPI/GammaResult.png)
+![](./StatisticsAPI/GammaResult.png)
 

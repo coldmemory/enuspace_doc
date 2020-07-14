@@ -33,15 +33,15 @@ Ensor\* pRetEnsor : pEnsor의 엘리먼트에 맞는 갯수만큼 계산된 Enso
 
 * **PDF**
 
-![](/StatisticsAPI/PoissonDistFunc.png)
+![](./StatisticsAPI/PoissonDistFunc.png)
 
-![](/StatisticsAPI/PoissonDistPdfGraph.png)
+![](./StatisticsAPI/PoissonDistPdfGraph.png)
 
 * **CDF**
 
-![](/StatisticsAPI/PoissonDistCdfFunc.png)
+![](./StatisticsAPI/PoissonDistCdfFunc.png)
 
-![](/StatisticsAPI/PoissonDistCdfGraph.png)
+![](./StatisticsAPI/PoissonDistCdfGraph.png)
 
 #### Examples1
 
@@ -60,7 +60,7 @@ end
 
 #### Result
 
-![](/StatisticsAPI/PoissonDistResult1.png)![](/StatisticsAPI/PoissonDistResult2.png)
+![](./StatisticsAPI/PoissonDistResult1.png)![](/StatisticsAPI/PoissonDistResult2.png)
 
 
 

@@ -11,7 +11,7 @@ grand_parent: enuSpace Tutorial
 
 IoT library : [https://github.com/EXPNUNI/enuSpace-Article/tree/master/library%20package](https://github.com/EXPNUNI/enuSpace-Article/tree/master/library package)
 
-![](/assets/logic-library/iot_symbol.png)
+![](./assets/logic-library/iot_symbol.png)
 
 ## 라이브러리 생성
 
@@ -19,7 +19,7 @@ IoT library : [https://github.com/EXPNUNI/enuSpace-Article/tree/master/library%2
 
 생성된 파일을 선택후 팝업메뉴를 이용하여 Add Node를 통하여 새로운 심볼을 생성합니다. 생성된 심볼을 디자인합니다. 디자인 객체를 이용하여 아래 그림과 같이 디자인을 수행합니다.
 
-![](/assets/logic-library/gauge.png)
+![](./assets/logic-library/gauge.png)
 
 각각의 객체의 속성에 id를 위 그림과 같이 설정합니다. 핀객체에 대해서는 name의 속성값을 설정합니다. 핀객체는 로직블럭과 로직블럭간의 연결선을 이용하여 연결이 가능합니다. 연결선을 이용하여 핀객체 연결시 데이터 전송 역할을 수행합니다.
 
@@ -76,7 +76,7 @@ ID\_LABEL\_VALUE, ID\_LABEL\_MIN, ID\_LABEL\_MAX의 값 현시를 위한 코드�
 
 생성된 픽쳐페이지에 생성한 라이브러리를 마우스를 이용하여 드래그 & 드랍으로 객체를 생성합니다. 선택객체를 더블클릭하여 Value Table의 입력값을 조정하여 정상적으로 라이브러리가 생성되었는지 확인합니다.
 
-![](/assets/logic-library/logic_gauge2.png)
+![](./assets/logic-library/logic_gauge2.png)
 
 입력값을 50으로 설정시 게이지바의 위치가 50의 위치하였음을 확인할 수 있습니다.
 
@@ -84,11 +84,11 @@ ID\_LABEL\_VALUE, ID\_LABEL\_MIN, ID\_LABEL\_MAX의 값 현시를 위한 코드�
 
 리본 메뉴의 Data/Communication에서 웹서버 기동 메뉴를 클릭하여, 웹서버를 기동한 후 웹브라우져를 통하여 제작한 픽쳐페이지가 정상적으로 현시되는지 확인합니다.
 
-![](/assets/logic-library/web_gauge.png)
+![](./assets/logic-library/web_gauge.png)
 
 다양한 형태의 게이지를 생성하여, 아래 그림과 같이 적용 및 활용할 수 있습니다.
 
-![](/assets/logic-library/variou_gauge.png)
+![](./assets/logic-library/variou_gauge.png)
 
 enuSpace for Mars\(2017\)은 HMI/SCADA/DCS/IoT분야에 강력한 기능을 활용하여 적용할 수 있습니다.
 

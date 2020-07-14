@@ -37,13 +37,13 @@ Revision 2019.02.21 - enuSpace for saturn \(v4.0\)
 
 Display Result\) Elevation 타입을 색상으로 설정, 색상의 최소, 최대값, 컬러 색상표 그리고 elevation 데이터를 지정하였을 경우 아래와 같이 elevation 데이터의 값에 따라서 Scatter 차트의 시리즈 색상이 설정된다.
 
-![](/assets/tutorial/chart_series_ele1.png)
+![](./assets/tutorial/chart_series_ele1.png)
 
 -&gt; elevation-data : 0 50 150 200 250
 
 Display Result\) elevation 데이터를 반대로 지정하였을 경우.
 
-![](/assets/tutorial/chart_series_ele2.png)
+![](./assets/tutorial/chart_series_ele2.png)
 
 \_
 
@@ -67,13 +67,13 @@ Display Result\) elevation 데이터를 반대로 지정하였을 경우.
 
 Display Result\) elevation 타입을 volume으로 지정. elevation-data의 데이터값에 맞는 볼륨의 최소, 최대값 설정한다. 설정된 볼륨 최소 및 최대값에 따라서 지정한 volume-elevation 값으로 심볼의 사이즈값으로 나타난다.
 
-![](/assets/tutorial/chart_series_ele3.png)
+![](./assets/tutorial/chart_series_ele3.png)
 
 -&gt; volume-type : cx, cy, height, position-x, position-y
 
 Display Result\) 볼륨 타입 설정에 따른 디스플레이 결과 \(left -&gt; right\)
 
-![](/assets/tutorial/chart_series_ele4.png)\_
+![](./assets/tutorial/chart_series_ele4.png)\_
 
 #### Series의 Scatter 차트 \(color+volume\)
 
@@ -101,5 +101,5 @@ Display Result\) 볼륨 타입 설정에 따른 디스플레이 결과 \(left -&
 
 Display Result\) 색상과 볼륨을 elevation-data의 값에 따라서 표현된다.
 
-![](/assets/tutorial/chart_series_ele5.png)
+![](./assets/tutorial/chart_series_ele5.png)
 
