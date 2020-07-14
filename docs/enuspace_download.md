@@ -8,7 +8,7 @@ nav_order: b
 
 ---
 
-### ![](/assets/uranus_icon.png)enuSpace for uranus \(2021\)
+### ![](./assets/uranus_icon.png)enuSpace for uranus \(2021\)
 
 ---
 
