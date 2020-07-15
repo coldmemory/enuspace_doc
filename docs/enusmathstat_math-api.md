@@ -42,7 +42,6 @@ has_children: true
 | [ ensor.LCM\(\)](./enusmathfunc_lcm.md) | Returns the least common multiple | lua |
 | [ ensor.GCD\(\)](./enusmathfunc_gcd.md) | Returns the least common divisor | lua |
 | [ ensor.Ln\(\)](./enusmathfunc_ln.md) | Returns the natural logarithm of a number | lua |
-| [ ](./enusmathfunc_log.md) |  |  |
 | [ ensor.Log10\(\)](./enusmathfunc_log10.md) | Returns the base-10 logarithm of a number | lua |
 | [ ensor.Max\(\)](./enusmathfunc_max.md) | Returns the max value of a number | lua |
 | [ ensor.Det\(\)](./enusmathfunc_det.md) | Returns the matrix determinant of an array | lua |
