@@ -32,16 +32,16 @@ TaskName은 해당 Task의 이름과 dll파일 이름이 동일하여야 한다.
 
 External Task는 4가지의 종류로 구성된다.
 
-##### **일반 산술 연산을 위한 타입 **\[TASK\_TYPE\_PROCESS\]
+#### **일반 산술 연산을 위한 타입 **\[TASK\_TYPE\_PROCESS\]
 
 컴포넌트 로직 객체에 대한 플로우 다이어그램에 대한 그래프용
 
-* ##### **전체 픽쳐 페이지 연결용 그래프 연산용 타입 **\[TASK\_TYPE\_FLOW\_COMPONENT\_TOTAL\]
-* ##### **단일 픽처 페이지 연결용 그래프 연산용 타입 **\[TASK\_TYPE\_FLOW\_COMPONENT\_PAGE\]
+* #### **전체 픽쳐 페이지 연결용 그래프 연산용 타입 **\[TASK\_TYPE\_FLOW\_COMPONENT\_TOTAL\]
+* #### **단일 픽처 페이지 연결용 그래프 연산용 타입 **\[TASK\_TYPE\_FLOW\_COMPONENT\_PAGE\]
 
-##### **컴포넌트 로직 객체의 함수 호출용 타입 **\[TASK\_TYPE\_FUNCTION\_COMPONENT\]
+#### **컴포넌트 로직 객체의 함수 호출용 타입 **\[TASK\_TYPE\_FUNCTION\_COMPONENT\]
 
-#### External Task 특징
+### External Task 특징
 
 ##### **일반 산술 연산 모델을 위한 타입 **\[TASK\_TYPE\_PROCESS\]
 
@@ -93,33 +93,33 @@ extern "C" __declspec(dllexport) int GetTaskType()
 
 ---
 
-### enuSpace와 External Task 인터페이스 정의
+## enuSpace와 External Task 인터페이스 정의
 
 enuSpace와 External Task는 다음과 같이 정의된다.
 
-#### CallBack Functios
+### CallBack Functios
 
-##### extern "C" \_\_declspec\(dllexport\) void SetCallBack\_SetValue\(void fcbSetValue\(wchar\_t\*, double\)\)
+#### extern "C" \_\_declspec\(dllexport\) void SetCallBack\_SetValue\(void fcbSetValue\(wchar\_t\*, double\)\)
 
 enuSpace의 변수값을 설정하기 위한 콜백함수를 전달한다.
 
-##### extern "C" \_\_declspec\(dllexport\) void SetCallBack\_GetValue\(VariableStruct fcbGetValue\(wchar\_t\*\)\)
+#### extern "C" \_\_declspec\(dllexport\) void SetCallBack\_GetValue\(VariableStruct fcbGetValue\(wchar\_t\*\)\)
 
 enuSpace의 변수값을 가져오기 위한 콜백함수를 전달한다.
 
-##### extern "C" \_\_declspec\(dllexport\) void SetCallBack\_SetArrayValue\(void fcbSetArrayValue\(wchar\_t\*, void\*, int, int\)\);
+#### extern "C" \_\_declspec\(dllexport\) void SetCallBack\_SetArrayValue\(void fcbSetArrayValue\(wchar\_t\*, void\*, int, int\)\);
 
 enuSpace의 배열 변수값을 설정하기 위한 콜백함수를 전달한다.
 
-##### extern "C" \_\_declspec\(dllexport\) void SetCallBack\_GetArrayValue\(VariableStruct fcbGetArrayValue\(wchar\_t\*\)\);
+#### extern "C" \_\_declspec\(dllexport\) void SetCallBack\_GetArrayValue\(VariableStruct fcbGetArrayValue\(wchar\_t\*\)\);
 
 enuSpace의 배열 변수값을 가져오기 위한 콜백함수를 전달한다.
 
-##### extern "C" \_\_declspec\(dllexport\) void SetCallBack\_SetReShapeArrayValue\(void fcbSetReShapeArrayValue\(wchar\_t\*, void\*, int, int\)\);
+#### extern "C" \_\_declspec\(dllexport\) void SetCallBack\_SetReShapeArrayValue\(void fcbSetReShapeArrayValue\(wchar\_t\*, void\*, int, int\)\);
 
 enuSpace의 로직 컴포넌트의 PIN 변수값과 Shape값을 설정하기 위한 콜백함수를 전달한다.
 
-##### extern "C" \_\_declspec\(dllexport\) void SetCallBack\_PrintMessage\(void fcbPrintMessage\(wchar\_t\*\)\);
+#### extern "C" \_\_declspec\(dllexport\) void SetCallBack\_PrintMessage\(void fcbPrintMessage\(wchar\_t\*\)\);
 
 enuSpace의 출력창에 표시하기 위한 콜백함수를 전달한다.
 
@@ -143,33 +143,33 @@ fcbSetPinInterfaceVariable(L"ID_LOGIC.PIN_DATA", &data, DEF_DOUBLE, 100);
 // 외부 태스크의 데이터 설정시 enuSpace의 로직 객체 심볼 테이블을 통하여 데이터 확인 및 디버깅.
 ```
 
-#### Task Option Functions
+### Task Option Functions
 
-##### extern "C" \_\_declspec\(dllexport\) int GetTaskType\(\);
+#### extern "C" \_\_declspec\(dllexport\) int GetTaskType\(\);
 
 enuSpace에 Task의 타입정보를 전달한다.
 
-##### extern "C" \_\_declspec\(dllexport\) bool IsEnableTransfer\(wchar\_t\* pFromType, wchar\_t\* pToType\);
+#### extern "C" \_\_declspec\(dllexport\) bool IsEnableTransfer\(wchar\_t\* pFromType, wchar\_t\* pToType\);
 
 로직 컴포넌트의 타입의 경우 각 컴포넌트의 PIN변수의 타입정보가 연결가능한 타입인지를 반환한다.
 
-##### extern "C" \_\_declspec\(dllexport\) bool IsTaskStopWhenModify\(\);
+#### extern "C" \_\_declspec\(dllexport\) bool IsTaskStopWhenModify\(\);
 
 로직 컴포넌트를 이용하여 픽처를 편집할 경우, TASK 기동시 TASK를 정지하여 편집을 진행할 것인지를 반환한다.
 
-#### Operation Functions
+### Operation Functions
 
-##### extern "C" \_\_declspec\(dllexport\) bool OnLoad\(\);
+#### extern "C" \_\_declspec\(dllexport\) bool OnLoad\(\);
 
 enuSpace는 Task가 처음로드 수행시 OnLoad\(\)함수를 호출한다.
 
-##### extern "C" \_\_declspec\(dllexport\) bool OnInit\(\);
+#### extern "C" \_\_declspec\(dllexport\) bool OnInit\(\);
 
 enuSpace는 로드 상테에서 Task Run 명령 수행시 초기에 한번 OnInit\(\)함수를 호출한다.
 
-##### extern "C" \_\_declspec\(dllexport\) bool OnTask\(\);   &lt;--- 3.0.5.1 이전버젼
+#### extern "C" \_\_declspec\(dllexport\) bool OnTask\(\);   &lt;--- 3.0.5.1 이전버젼
 
-##### extern "C" \_\_declspec\(dllexport\) bool OnTask\(\_\_int64 time\);   &lt;--- 3.0.6.0 이후버젼
+#### extern "C" \_\_declspec\(dllexport\) bool OnTask\(\_\_int64 time\);   &lt;--- 3.0.6.0 이후버젼
 
 ```cpp
 extern "C" __declspec(dllexport) bool OnTask(__int64 time)
@@ -192,11 +192,11 @@ extern "C" __declspec(dllexport) bool OnTask(__int64 time)
 
 enuSpace는 주어진 Task Cycle의  주기에 맞추어 OnTask\(\)함수를 호출한다.
 
-##### extern "C" \_\_declspec\(dllexport\) bool OnUnload\(\);
+#### extern "C" \_\_declspec\(dllexport\) bool OnUnload\(\);
 
 enuSpace는 프로젝트 닫기를 수행하거나 종료시 OnUnload\(\) 함수를 호출한다.
 
-##### extern "C" \_\_declspec\(dllexport\) bool OnModeChange\(int iMode\);
+#### extern "C" \_\_declspec\(dllexport\) bool OnModeChange\(int iMode\);
 
 enuSpace의 Task의 상태를 제어할 경우, 상태정보를 각 Task에 전달을 수행한다. 이러한 상태 정보 \(DEF\_MODE\_EDIT, DEF\_MODE\_FREEZE, DEF\_MODE\_STEP, DEF\_MODE\_RUN\)를 이용하여 해당 Task 모델을 구성한다.
 
@@ -234,9 +234,9 @@ extern "C" __declspec(dllexport) void OnModeChange(int iMode)
 }
 ```
 
-#### Util Functions
+### Util Functions
 
-##### extern "C" \_\_declspec\(dllexport\) void ExecuteFunction\(wchar\_t\* pStrFunction\);
+#### extern "C" \_\_declspec\(dllexport\) void ExecuteFunction\(wchar\_t\* pStrFunction\);
 
 enuSpace에서 스크립트에서 호출한다.
 
@@ -278,11 +278,11 @@ lua script를 이용한 호출 예시
 end
 ```
 
-##### extern "C" \_\_declspec\(dllexport\) bool OnShowHelp\(wchar\_t\* pStrSymbolName\);
+#### extern "C" \_\_declspec\(dllexport\) bool OnShowHelp\(wchar\_t\* pStrSymbolName\);
 
 enuSpace에서 로직 컴포넌트 선택후 F1 key를 입력하였을 경우 호출한다. 해당 컴포넌트의 이름에 맞는 도움말을 제공합니다.
 
-### Task의 Delta Time 가져오기 방법
+## Task의 Delta Time 가져오기 방법
 
 enuSpace에서 설정한 Task의 Cycle 정보를 취득하는 방법은 변수 요청함수 포이터를 이용하여 가져올수 있다. 일반적으로 변수값을 요청하는 방식과 동일하게 변수명을 dt.{TaskName} 을 입력하여 취득한다.
 
