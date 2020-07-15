@@ -14,7 +14,7 @@ enuSpace에서 제공하는 3D 기초객체의 사용방법에 대하여 설명�
 
 | Primitive Object | Description |
 | :--- | :--- |
-| box(./enusappapi_enucreate3dbox.md)  | 박스 모양 객체 |
+| [box] (./enusappapi_enucreate3dbox.md)  | 박스 모양 객체 |
 | cone | 원뿔 모양 객체 |
 | cylinder | 원통형 객체 |
 | sphere | 구 객체 |
