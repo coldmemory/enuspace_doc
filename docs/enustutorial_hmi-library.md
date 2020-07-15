@@ -151,7 +151,7 @@ Home-&gt;Runtime 버튼을 클릭하여, 실제 동작화면을 통하여 변수
 
 다음 강좌에서는 HMI 라이브러리의 확장 사용방법에 대하여 알아보도록 하겠습니다.
 
-[enuSpace를 이용한 HMI 라이브러리 생성 및 적용 방법\(2/2\)](//tutorial/hmi-library2.html)
+
 
 
 
@@ -161,7 +161,7 @@ Home-&gt;Runtime 버튼을 클릭하여, 실제 동작화면을 통하여 변수
 
 본 강좌에서는 다이나틱 데이터 디스플레이를 HMI Panel 라이브러리 제작하는 과정을 포함하고 있습니다.
 
-[enuSpace를 이용한 HMI 라이브러리 생성 및 적용 방법\(1/2\)](//tutorial/hmi-library1.html)
+[enuSpace를 이용한 HMI 라이브러리 생성 및 적용 방법\(1/2\)](./enustutorial_hmi-library.md)
 
 강좌샘플 : [![](http://t1.daumcdn.net/tistory_admin/blogs/image/extension/zip.gif?_version_=5edd9eee8cdd891e2125a28405975fd20eb6ee50)lesson2.zip](http://enuspace.tistory.com/attachment/cfile3.uf@220E2C4458F997E7232C7F.zip)
 
