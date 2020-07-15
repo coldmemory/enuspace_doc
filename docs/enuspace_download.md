@@ -259,7 +259,7 @@ IoT\(Internet of Things\) devices management and control.
 
 ---
 
-##### **Release date : 2017.06.15, Version : 2.0.6.86**
+#### **Release date : 2017.06.15, Version : 2.0.6.86**
 
 **32bit **[**Version : enuSpace for mars 2.0.6.86 x86 Download \(student\)**](http://www.enu-tech.co.kr/release/enuspace_setup_2.0.6.86_x86.exe)
 
@@ -272,7 +272,7 @@ IoT\(Internet of Things\) devices management and control.
 
 ---
 
-##### **Release date : 2017.05.16, Version : 2.0.6.85**
+#### **Release date : 2017.05.16, Version : 2.0.6.85**
 
 [Version : enuSpace for mars 2.0.6.85 x86 Download \(student\)](http://www.enu-tech.co.kr/release/enuspace_setup_2.0.6.85.exe)
 
@@ -281,7 +281,7 @@ IoT\(Internet of Things\) devices management and control.
 
 ---
 
-##### **Release date : 2017.04.28, Version : 2.0.6.84**
+#### **Release date : 2017.04.28, Version : 2.0.6.84**
 
 [Version : enuSpace for mars 2.0.6.84 Download \(student\)](http://www.enu-tech.co.kr/release/enuspace_setup_2.0.6.84.exe)
 
@@ -291,7 +291,7 @@ IoT\(Internet of Things\) devices management and control.
 
 ---
 
-##### **Release date : 2017.04.26, Version : 2.0.6.83**
+#### **Release date : 2017.04.26, Version : 2.0.6.83**
 
 [Version : enuSpace for mars 2.0.6.83 Download \(student\)](http://www.enu-tech.co.kr/release/enuspace_setup_2.0.6.83.exe)
 
@@ -300,7 +300,7 @@ IoT\(Internet of Things\) devices management and control.
 
 ---
 
-##### **Release date : 2017.04.24, Version : 2.0.6.82**
+#### **Release date : 2017.04.24, Version : 2.0.6.82**
 
 [Version : enuSpace for mars 2.0.6.82 Download \(student\)](http://www.enu-tech.co.kr/release/enuspace_setup_2.0.6.82.exe)
 
@@ -309,7 +309,7 @@ IoT\(Internet of Things\) devices management and control.
 
 ---
 
-##### **Release date : 2017.04.14, Version : 2.0.6.81**
+#### **Release date : 2017.04.14, Version : 2.0.6.81**
 
 [Version : enuSpace for mars 2.0.6.81 Download \(student\)](http://www.enu-tech.co.kr/release/enuspace_setup_2.0.6.81.exe)
 
@@ -318,7 +318,7 @@ IoT\(Internet of Things\) devices management and control.
 
 ---
 
-##### **Release date : 2017.04.11, Version : 2.0.6.80**
+#### **Release date : 2017.04.11, Version : 2.0.6.80**
 
 [**Version : enuSpace for mars 2.0.6.80 Download \(student\)**](http://www.enu-tech.co.kr/release/enuspace_setup_2.0.6.80.exe)
 
@@ -336,7 +336,7 @@ IoT\(Internet of Things\) devices management and control.
 
 ---
 
-##### **Release date : 2016.08.03, Version : **[**1.0.3.0 D**](http://www.enu-tech.co.kr/release/enuspace_setup_1.0.3.0.exe)[**ownload**](http://www.enu-tech.co.kr/release/enuspace_setup_1.0.3.0.exe)
+#### **Release date : 2016.08.03, Version : **[**1.0.3.0 D**](http://www.enu-tech.co.kr/release/enuspace_setup_1.0.3.0.exe)[**ownload**](http://www.enu-tech.co.kr/release/enuspace_setup_1.0.3.0.exe)
 
 * Fixed : path 객체 Picking 기능 버그 개선
 * Fixed : enuSpace SDK enuCreateImage 함수 버그 개선
@@ -368,7 +368,7 @@ bool enuSetAutoConnect(bool bflag);
 
 ---
 
-##### **Release date : 2016.02.17, Version : **[**1.0.2.0 D**](http://www.enu-tech.co.kr/release/enuspace_setup_1.0.2.0.exe)[**ownload**](http://www.enu-tech.co.kr/release/enuspace_setup_1.0.2.0.exe)
+#### **Release date : 2016.02.17, Version : **[**1.0.2.0 D**](http://www.enu-tech.co.kr/release/enuspace_setup_1.0.2.0.exe)[**ownload**](http://www.enu-tech.co.kr/release/enuspace_setup_1.0.2.0.exe)
 
 * New : Line, Polyline Arrow 기능 추가
 * New : Logic Symbol Transfer Line 방향 정보 표시 기능 추가
@@ -389,7 +389,7 @@ bool enuSetAutoConnect(bool bflag);
 
 ---
 
-##### **Release date : 2016.01.12, Version :**[**1.0.1.0 **](http://www.enu-tech.co.kr/release/enuspace_setup_1.0.1.0.exe)[**Download**](http://www.enu-tech.co.kr/release/enuspace_setup_1.0.1.0.exe)
+#### **Release date : 2016.01.12, Version :**[**1.0.1.0 **](http://www.enu-tech.co.kr/release/enuspace_setup_1.0.1.0.exe)[**Download**](http://www.enu-tech.co.kr/release/enuspace_setup_1.0.1.0.exe)
 
 * New :  SCADA HMI Solution.
 * New :  Graphics Component \(SDK support\).
