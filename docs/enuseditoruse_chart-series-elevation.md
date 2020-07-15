@@ -13,17 +13,17 @@ Revision 2019.02.21 - enuSpace for saturn \(v4.0\)
 
 차트의 시리즈의 elevation 속성을 이용하여 데이터를 가시화합니다.
 
-#### Series의 Scatter 차트 \(color\)
+### Series의 Scatter 차트 \(color\)
 
 ---
 
-##### Series Attribute
+#### Series Attribute
 
 -&gt; series-type : scatter
 
 -&gt; data : 50,50 100,100 150,150 200,200 250,250
 
-##### Series Attribute \(elevation\)
+#### Series Attribute \(elevation\)
 
 -&gt; elevation-type : color
 
@@ -51,7 +51,7 @@ Display Result\) elevation 데이터를 반대로 지정하였을 경우.
 
 ---
 
-##### Series Attribute \(elevation\)
+#### Series Attribute \(elevation\)
 
 -&gt; elevation-type : volume
 
@@ -79,7 +79,7 @@ Display Result\) 볼륨 타입 설정에 따른 디스플레이 결과 \(left -&
 
 ---
 
-##### Series Attribute \(elevation\)
+#### Series Attribute \(elevation\)
 
 -&gt; elevation-type : color+volume
 
