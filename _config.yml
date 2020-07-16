@@ -78,11 +78,12 @@ footer_content: "Copyright &copy; 2016-2020 Expansion & Universal Co., ltd"
 # Footer last edited timestamp
 require 'Time'
 t = Time.now
-last_modified_date: t
+Time.now.strftime("%I:%M")
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+last_edit_time_format: Time.now.strftime("%I:%M") # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
-
+#last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+#last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 
 # Footer "Edit this page on GitHub" link text
