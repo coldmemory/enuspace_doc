@@ -33,7 +33,7 @@ Type : NONE
 
 Runtime View의 상태에서 project 파일에 정의된 윈도우에서 style의 정보가 popup인 경우 적용.
 
-참고 : [popup window 사용방법](/tutorial/editor/popup-window.html)
+참고 : [popup window 사용방법](./enuseditoruse_popup-window.md)
 
 ```xml
 <?xml-stylesheet 
@@ -86,7 +86,7 @@ function _onmousedown()
 end
 ```
 
-응용프로그램에서 뷰를 생성하고, [enuSetViewID\(\)](/ApplicationAPI/enuSetViewID.html)함수를 이용하여 뷰의 ID값을 적용한다. 뷰의 ID는 프로젝트 파일에서 정의한 설정값에 따라 적용된다. 
+응용프로그램에서 뷰를 생성하고, [enuSetViewID\(\)](./enusappapi_enusetviewid.md)함수를 이용하여 뷰의 ID값을 적용한다. 뷰의 ID는 프로젝트 파일에서 정의한 설정값에 따라 적용된다. 
 
-[enuCloseWindow\(\)](/ApplicationAPI/enuCloseWindow.html)함수는 생성된 뷰에 대하여 HIDE 기능을 수행한다. 
+[enuCloseWindow\(\)](./enusappapi_enuclosewindow.md)함수는 생성된 뷰에 대하여 HIDE 기능을 수행한다. 
 
