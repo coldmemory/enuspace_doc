@@ -19,7 +19,7 @@ transy : 켄버스의 y축의 위치 이동값을 반환합니다.
 
 #### Remarks
 
-켄버스의 이동값을 반환합니다. 켄버스의 이동값을 적용하는 함수는 [SetMoveCanvas\(\)](/ScriptAPI\SetMoveCanvas.html)함수를 활용합니다.
+켄버스의 이동값을 반환합니다. 켄버스의 이동값을 적용하는 함수는 [SetMoveCanvas\(\)](./enusscriptapi_setmovecanvas.md)함수를 활용합니다.
 
 ```lua
 -- lua

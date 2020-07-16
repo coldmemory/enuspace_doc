@@ -27,7 +27,7 @@ none
 
 #### Remarks
 
-스크립트를 이용하여 동적으로 원 객체를 생성합니다. 생성된 객체의 속성을 변경하고자 하는 경우에는[SetAttribute\(\)](/ScriptAPI\SetAttribute.html)함수를 이용합니다.
+스크립트를 이용하여 동적으로 원 객체를 생성합니다. 생성된 객체의 속성을 변경하고자 하는 경우에는[SetAttribute\(\)](enusscriptapi_setattribute.md)함수를 이용합니다.
 
 
 

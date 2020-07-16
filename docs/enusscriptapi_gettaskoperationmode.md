@@ -19,7 +19,7 @@ mode : TASK 실행 및 정지등 태스크 상태 정보를 전달합니다.
 
 #### Remarks
 
-태스를 제어하는 함수는 [SetTaskOperationMode\(\)](/ScriptAPI/SetTaskOperationMode.html)를 이용합니다.
+태스를 제어하는 함수는 [SetTaskOperationMode\(\)](./enusscriptapi_settaskoperationmode.md)를 이용합니다.
 
 #### Examples
 

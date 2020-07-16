@@ -17,7 +17,7 @@ none
 
 #### Remarks
 
-[PlaySoundX\(\)](/ScriptAPI\PlaySoundX.html), [StopSoundX\(\)](/ScriptAPI\StopSoundX.html)함수와 함께 사용됩니다.
+[PlaySoundX\(\)](./enusscriptapi_playsoundx.md), [StopSoundX\(\)](./enusscriptapi_stopsoundx.md)함수와 함께 사용됩니다.
 
 ```lua
 -- lua

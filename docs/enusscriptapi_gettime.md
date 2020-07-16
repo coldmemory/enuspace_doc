@@ -19,7 +19,7 @@ enuSpace의 시간값을 반환합니다.
 
 enuSpace 설정된 Simulation Time 또는 System Time에 해당하는 값을 반환합니다.
 
-참조함수 [GetDateTimeString\(\)](/ScriptAPI\GetDateTimeString.html)
+참조함수 [GetDateTimeString\(\)](./enusscriptapi_getdatetimestring.md)
 
 ```lua
 -- lua

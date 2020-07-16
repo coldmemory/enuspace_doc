@@ -17,7 +17,7 @@ none
 
 #### Remarks
 
-픽쳐의 스케일값을 조정합니다. 현재 스케일정보를 받아오려면 [GetZoomScale\(\)](/ScriptAPI\GetZoomScale.html)함수를 이용합니다.
+픽쳐의 스케일값을 조정합니다. 현재 스케일정보를 받아오려면 [GetZoomScale\(\)](./enusscriptapi_getzoomscale.md)함수를 이용합니다.
 
 ```lua
 -- lua

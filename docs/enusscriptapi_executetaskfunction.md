@@ -21,7 +21,7 @@ none
 
 ExecuteTaskFunction\(\)함수는 외부 태스크로 등록된 모듈에 ExecuteFunction\(\)함수 구현부가 존재하여야 합니다. 해당 모듈에 ExecuteFunction\(\)함수가 구현되었을 경우, 스크립트에서 본 함수를 사용하는 경우 구현된 ExecuteFunction\(\)함수를 호출합니다.
 
-외부 태스크 만들기 참조 :[ External Task](/external-task.html)
+외부 태스크 만들기 참조 :[ External Task](./enuspace_external-task.md)
 
 ```cpp
 // 해당 TASK의 extern함수의 구현 예시

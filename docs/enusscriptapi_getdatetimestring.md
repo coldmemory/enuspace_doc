@@ -40,7 +40,7 @@ FILETIME 구조체 : [https://msdn.microsoft.com/ko-kr/library/x3399a54.aspx](ht
 
 SYSTEMTIME 구조체 : [https://msdn.microsoft.com/ko-kr/library/windows/desktop/ms724950\(v=vs.85\).aspx](https://msdn.microsoft.com/ko-kr/library/windows/desktop/ms724950%28v=vs.85%29.aspx)
 
-참조 : [GetTime\(\)](/ScriptAPI\GetTime.html)
+참조 : [GetTime\(\)](./enusscriptapi_gettime.md)
 
 ```cpp
 __int64 iTime

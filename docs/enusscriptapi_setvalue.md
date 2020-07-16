@@ -24,7 +24,7 @@ none
 일반적으로 ID\_RECT.width = 0와 같은 표현식으로 사용하여도 된다.
 
 * enuSpace 스튜디어오에서 파일 저장시 웹동작을 위한 변환 파일이 생성된다. 변환시 본 함수의 첫번째 파라미터는 문자열로 변경되어 웹 랜더러를 통한 인터페이스를 수행한다. SetValue\(ID\_RECT.width, 10\);  ---&gt; SetValue\("ID\_RECT.width", 10\);   
-* 웹을 통하여 아래의 javascript 함수가 동작을 수행하는 경우에,  RESTful [setvalue\(\)](/tutorial/restful-setvalue.html) API를 통하여 연계되어 동작을 수행한다.  
+* 웹을 통하여 아래의 javascript 함수가 동작을 수행하는 경우에,  RESTful [setvalue\(\)](./enusrestfulapi_restful-setvalue.md) API를 통하여 연계되어 동작을 수행한다.  
 
 ```lua
 -- lua

@@ -25,7 +25,7 @@ value
 
 * enuSpace 스튜디어오에서 파일 저장시 웹동작을 위한 변환 파일이 생성된다. 변환시 본 함수의 첫번째 파라미터는 문자열로 변경되어 웹 랜더러를 통한 인터페이스를 수행한다. GetValue\(ID\_RECT.width\);  ---&gt; GetValue\("ID\_RECT.width"\);
 
-* 웹을 통하여 아래의 javascript 함수가 동작을 수행하는 경우에는,  RESTful [getvalue\(\)](/tutorial/restful-getvalue.html) API를 통하여 연계되어 동작을 수행한다.
+* 웹을 통하여 아래의 javascript 함수가 동작을 수행하는 경우에는,  RESTful [getvalue\(\)](./enusrestfulapi_restful-getvalue.md) API를 통하여 연계되어 동작을 수행한다.
 
 ```lua
 -- lua 

@@ -17,7 +17,7 @@ none
 
 #### Remarks
 
-[PlaySoundX\(\)](/ScriptAPI\PlaySoundX.html)함수를 통하여 재생중인 소리를 정지합니다.
+[PlaySoundX\(\)](./enusscriptapi_playsoundx.md)함수를 통하여 재생중인 소리를 정지합니다.
 
 ```lua
 -- lua

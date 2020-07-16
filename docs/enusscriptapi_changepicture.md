@@ -27,7 +27,7 @@ enuSpace 편집기에서 윈도우 이름을 정의하지 않으면 윈도우 �
 
 픽쳐 파일이름은 "picture\filename.svg"형태로 picture 디렉토리를 포함하여야 합니다.
 
-ChangePicture\(\)함수는 로드된 픽쳐를 보여주거나, 로드되지 않은 픽쳐를 호출하였을 경우 로드를 수행하고 해당 윈도우에 픽쳐 파일을 보여줍니다. 참조함수 [LoadPicture\(\)](/ScriptAPI\LoadPicture.html), [RemovePicture\(\)](/ScriptAPI\RemovePicture.html)
+ChangePicture\(\)함수는 로드된 픽쳐를 보여주거나, 로드되지 않은 픽쳐를 호출하였을 경우 로드를 수행하고 해당 윈도우에 픽쳐 파일을 보여줍니다. 참조함수 [LoadPicture\(\)](./enusscriptapi_loadpicture.md), [RemovePicture\(\)](./enusscriptapi_removepicture.md)
 
 ```lua
 -- lua
