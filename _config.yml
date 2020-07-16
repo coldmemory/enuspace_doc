@@ -73,14 +73,18 @@ nav_sort: case_insensitive # default, equivalent to nil
 back_to_top: true
 back_to_top_text: "Back to top"
 
-content: "Copyright &copy; 2016-2021.<a href=\"https://github.com/EXPNUNI/enuspace_doc/blob/master/LICENSE.txt/\">enuSpace license.</a>"
-footer_content: "Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
+footer_content: "Copyright &copy; 2016-2020 Expansion & Universal Co., ltd"
 
 # Footer last edited timestamp
+# require 'time'
+# t = Time.now
+# t.rfc2822
+# Time.strptime(now)
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://github.com/EXPNUNI/enuspace_doc/
-# last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+last_edit_time_format: "jul 16 2020" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
+#last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+#last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 
 # Footer "Edit this page on GitHub" link text
