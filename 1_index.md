@@ -4,7 +4,7 @@ title: enuSpace Overview
 nav_order: a
 description: "Overview page"
 permalink: /
-last_modified_date: %Y-%m_%d
+last_modified_date: %Y-%m-%d
 
 ---
 // 2020-07-16T18:37:08+0000
