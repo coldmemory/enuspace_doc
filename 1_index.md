@@ -1,10 +1,10 @@
+time:git --no-pager log -1 --format="%ai"
 ---
 layout: default
 title: enuSpace Overview
 nav_order: a
 description: "Overview page"
 permalink: /
-time:git --no-pager log -1 --format="%ai"
 last_modified_date: time
 
 ---
