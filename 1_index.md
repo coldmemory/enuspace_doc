@@ -1,4 +1,4 @@
-# time: git --no-pager log -1 --format="%ai"
+// time: git --no-pager log -1 --format="%ai"
 ---
 layout: default
 title: enuSpace Overview
