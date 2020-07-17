@@ -1,7 +1,5 @@
 ---
 time: git --no-pager log -1 --format="%ai"
----
----
 layout: default
 title: enuSpace Overview
 nav_order: a
