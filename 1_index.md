@@ -7,7 +7,7 @@ permalink: /
 last_modified_date: now
 
 ---
-// 2020-07-16T18:37:08+0000
+
 # enuSpace Overview
 
 ---
