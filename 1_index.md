@@ -4,7 +4,7 @@ title: enuSpace Overview
 nav_order: a
 description: "Overview page"
 permalink: /
-last_modified_date: now().UTC+9
+last_modified_date: timezone.now()
 
 ---
 
