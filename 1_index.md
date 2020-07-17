@@ -4,7 +4,7 @@ title: enuSpace Overview
 nav_order: a
 description: "Overview page"
 permalink: /
-last_modified_date: new
+last_modified_date: rfc3339('2001-02-03T04:05:06+07:00')
 
 ---
 
