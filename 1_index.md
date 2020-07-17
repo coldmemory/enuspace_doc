@@ -4,7 +4,8 @@ title: enuSpace Overview
 nav_order: a
 description: "Overview page"
 permalink: /
-last_modified_date: "%Y-%m-%d"
+time:git --no-pager log -1 --format="%ai"
+last_modified_date: time
 
 ---
 // 2020-07-16T18:37:08+0000
