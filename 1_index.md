@@ -1,11 +1,10 @@
-require 'date'
 ---
 layout: default
 title: enuSpace Overview
 nav_order: a
 description: "Overview page"
 permalink: /
-last_modified_date: now
+last_modified_date: rfc3339(now,'+07:00')
 
 ---
 
