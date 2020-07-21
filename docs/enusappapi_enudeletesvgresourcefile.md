@@ -2,6 +2,7 @@
 layout: default
 title: enuDeleteSvgResourceFile
 parent: Application API
+last_modified_date: now
 ---
 # bool enuDeleteSvgResourceFile\(wchar\_t\* pStrFileName\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuCreate3DLineSet
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuCreate3DLineSet\(HX3D pX3DHandler, wchar\_t\* strID, wchar\_t\* strPoints, float transx, float transy, float transz\)
 

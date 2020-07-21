@@ -2,6 +2,7 @@
 layout: default
 title: enuCreatePolyline
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuCreatePolyline\(HSVG pSvgHandler, wchar\_t\* strID, wchar\_t\* strPoints, float transx, float transy\)
 

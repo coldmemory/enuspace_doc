@@ -2,6 +2,7 @@
 layout: default
 title: enuSetMouseWheelCallBack
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetMouseWheelCallBack\(HVIEW pENUView, void functioncb\(float, float, float\) \)
 

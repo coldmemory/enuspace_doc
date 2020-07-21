@@ -2,6 +2,7 @@
 layout: default
 title: SetArrayValue
 parent: Script API
+last_modified_date: now
 ---
 # SetArrayValue\(target, source\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuSetWindowColor
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetWindowColor\(HVIEW pENUView, byte iR, byte iG, byte iB\)
 

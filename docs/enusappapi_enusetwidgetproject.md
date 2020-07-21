@@ -2,6 +2,7 @@
 layout: default
 title: enuSetWidgetProject
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetWidgetProject\(\)
 

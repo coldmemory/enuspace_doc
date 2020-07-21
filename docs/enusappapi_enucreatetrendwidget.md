@@ -2,6 +2,7 @@
 layout: default
 title: enuCreateTrendWidget
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuCreateTrendWidget\(HVIEW pENUView, float x, float y, float width, float height, float transx, float transy, float angle\)
 

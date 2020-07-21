@@ -2,6 +2,7 @@
 layout: default
 title: enuCreate3DTerrain
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuCreate3DTerrain\(HX3D pX3DHandler, wchar\_t\* strID, float size, float subdivision, float transx, float transy, float transz\)
 

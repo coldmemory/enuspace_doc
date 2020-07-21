@@ -2,6 +2,7 @@
 layout: default
 title: enuChangePictureAsync
 parent: Application API
+last_modified_date: now
 ---
 # void enuChangePictureAsync\(wchar\_t\* strWindow, wchar\_t\* strPicName\)
 

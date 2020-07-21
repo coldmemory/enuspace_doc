@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectFontsize
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectFontsize\(HVIEW pENUView, float fSize\)
 

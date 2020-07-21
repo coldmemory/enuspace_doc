@@ -2,6 +2,7 @@
 layout: default
 title: enuReloadPicture
 parent: Application API
+last_modified_date: now
 ---
 # void enuReloadPicture\(HVIEW pENUView\)
 

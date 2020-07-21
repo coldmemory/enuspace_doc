@@ -2,6 +2,7 @@
 layout: default
 title: enuUpdateScreen
 parent: Application API
+last_modified_date: now
 ---
 # void enuUpdateScreen\(HVIEW pENUView\)
 

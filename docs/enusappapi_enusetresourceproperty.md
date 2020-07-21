@@ -2,6 +2,7 @@
 layout: default
 title: enuSetResourceProperty
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetResourceProperty\(HSVG pSvg, wchar\_t\* pAttribute, wchar\_t\* pValue\)
 

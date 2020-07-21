@@ -2,6 +2,7 @@
 layout: default
 title: enuDestoryWidget
 parent: Application API
+last_modified_date: now
 ---
 # void enuDestoryWidget\(HVIEW pView\)
 

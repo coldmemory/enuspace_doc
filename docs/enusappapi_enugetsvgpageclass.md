@@ -2,6 +2,7 @@
 layout: default
 title: enuGetSvgPageClass
 parent: Application API
+last_modified_date: now
 ---
 # HSVG enuGetSvgPageClass\(wchar\_t\* pStrFileName\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: StopSoundX
 parent: Script API
+last_modified_date: now
 ---
 # StopSoundX\(wave\)
 
@@ -17,7 +18,7 @@ none
 
 #### Remarks
 
-[PlaySoundX\(\)](./enusscriptapi_playsoundx.md)함수를 통하여 재생중인 소리를 정지합니다.
+[PlaySoundX\(\)](/ScriptAPI\PlaySoundX.html)함수를 통하여 재생중인 소리를 정지합니다.
 
 ```lua
 -- lua

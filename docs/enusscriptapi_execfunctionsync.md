@@ -2,6 +2,7 @@
 layout: default
 title: ExecFunctionSync
 parent: Script API
+last_modified_date: now
 ---
 # ExecFunctionSync\(\)
 

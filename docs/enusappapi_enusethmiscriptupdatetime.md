@@ -2,6 +2,7 @@
 layout: default
 title: enuSetHMIScriptUpdateTime
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetHMIScriptUpdateTime\(int iMiliSecond\)
 

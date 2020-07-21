@@ -2,6 +2,7 @@
 layout: default
 title: enuGetPageList
 parent: Application API
+last_modified_date: now
 ---
 # void\* enuGetPageList\(\)
 

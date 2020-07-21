@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectRotation
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectRotation\(HVIEW pENUView, float fAngle\)
 

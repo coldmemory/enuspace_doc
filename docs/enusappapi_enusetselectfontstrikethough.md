@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectFontStrikethough
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectFontStrikethough\(HVIEW pENUView, bool bFlag\)
 

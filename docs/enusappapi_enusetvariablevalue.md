@@ -2,6 +2,7 @@
 layout: default
 title: enuSetVariableValue
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetVariableValue\(HSVG pSvgHandler, wchar\_t\* strVariable, wchar\_t\* strValue\)
 

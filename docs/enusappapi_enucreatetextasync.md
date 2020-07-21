@@ -2,6 +2,7 @@
 layout: default
 title: enuCreateTextAsync
 parent: Application API
+last_modified_date: now
 ---
 # void enuCreateTextAsync\(HSVG pSvgHandler, wchar\_t\* strID, float x, float y, float dx, float dy, wchar\_t\* text, float transx, float transy\)
 

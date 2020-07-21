@@ -2,6 +2,7 @@
 layout: default
 title: enuSetX3dPageView
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetX3dPageView\(HVIEW pENUView, wchar\_t\* pStrFileName\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: SetScriptOperationMode
 parent: Script API
+last_modified_date: now
 ---
 # SetScriptOperationMode\(operation\)
 

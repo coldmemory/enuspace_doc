@@ -2,6 +2,7 @@
 layout: default
 title: enuGetTransformFromGeometry
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuGetTransformFromGeometry\(HX3D pX3DHandler, HNODE node\)
 

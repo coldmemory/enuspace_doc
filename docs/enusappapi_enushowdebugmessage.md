@@ -2,6 +2,7 @@
 layout: default
 title: enuShowDebugMessage
 parent: Application API
+last_modified_date: now
 ---
 # void enuShowDebugMessage\(bool bShow\)
 

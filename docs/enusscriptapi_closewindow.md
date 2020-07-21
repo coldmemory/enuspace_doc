@@ -2,6 +2,7 @@
 layout: default
 title: CloseWindow
 parent: Script API
+last_modified_date: now
 ---
 # CloseWindow\(window\)
 
@@ -19,7 +20,7 @@ none
 
 RuntimeView에서 호출된 팝업 윈도우를 닫기 수행할시 해당 윈도우 이름을 통하여 윈도우 창을 닫습니다.
 
-참조함수 : [OpenWindow\(\)](./enusscriptapi_openwindow.md)
+참조함수 : [OpenWindow\(\)](/ScriptAPI\OpenWindow.html)
 
 ```lua
 -- lua

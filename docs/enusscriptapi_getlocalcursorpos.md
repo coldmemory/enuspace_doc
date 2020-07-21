@@ -2,6 +2,7 @@
 layout: default
 title: GetLocalCursorPos
 parent: Script API
+last_modified_date: now
 ---
 # GetLocalCursorPos\(\)
 

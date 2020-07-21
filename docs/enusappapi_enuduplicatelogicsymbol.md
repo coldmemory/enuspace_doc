@@ -2,6 +2,7 @@
 layout: default
 title: enuDuplicateLogicSymbol
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuDuplicateLogicSymbol\(wchar\_t\* strPicture, wchar\_t\* strSymbol\)
 

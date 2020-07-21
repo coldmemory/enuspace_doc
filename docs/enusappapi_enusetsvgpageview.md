@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSvgPageView
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetSvgPageView\(HVIEW pENUView, wchar\_t\* pStrFileName\)
 

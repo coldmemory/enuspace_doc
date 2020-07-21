@@ -2,6 +2,7 @@
 layout: default
 title: enuSaveAsSvgGlobalFile
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSaveAsSvgGlobalFile\(wchar\_t\* strTaget, wchar\_t\* strSource\)
 

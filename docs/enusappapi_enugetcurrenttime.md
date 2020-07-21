@@ -2,6 +2,7 @@
 layout: default
 title: enuGetCurrentTime
 parent: Application API
+last_modified_date: now
 ---
 # \_\_int64 enuGetCurrentTime\(\)
 

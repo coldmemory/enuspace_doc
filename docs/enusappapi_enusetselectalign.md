@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectAlign
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectAlign\(HVIEW pENUView, int iType\)
 

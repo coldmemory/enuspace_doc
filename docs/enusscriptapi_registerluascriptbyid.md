@@ -2,6 +2,7 @@
 layout: default
 title: RegisterLuaScriptById
 parent: Script API
+last_modified_date: now
 ---
 # RegisterLuaScriptById\(id, function, script\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectFontcolor
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectFontcolor\(HVIEW pENUView, wchar\_t\* strFontColor\)
 

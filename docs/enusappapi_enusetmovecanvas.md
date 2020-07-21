@@ -2,6 +2,7 @@
 layout: default
 title: enuSetMoveCanvas
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetMoveCanvas\(HVIEW pENUView, float transx, float transy\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuExecuteString
 parent: Application API
+last_modified_date: now
 ---
 # void enuExecuteString\(wchar\_t\* picture, wchar\_t\* event\)
 

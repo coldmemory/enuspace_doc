@@ -2,6 +2,7 @@
 layout: default
 title: enuDeleteAllObject
 parent: Application API
+last_modified_date: now
 ---
 # void enuDeleteAllObject\(HSVG pSvgHandler\)
 

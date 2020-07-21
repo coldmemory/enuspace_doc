@@ -2,6 +2,7 @@
 layout: default
 title: enuGetLogicList
 parent: Application API
+last_modified_date: now
 ---
 # void\* enuGetLogicList\(\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuSetLuaScriptByNode
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetLuaScriptByNode\(HSVG pSvgHandler, HNODE pNode, wchar\_t\* strFunction, wchar\_t\* strScript\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: GetArrayValue
 parent: Script API
+last_modified_date: now
 ---
 # GetArrayValue\(variable\)
 

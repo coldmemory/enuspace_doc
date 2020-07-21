@@ -2,6 +2,7 @@
 layout: default
 title: OpenWindow
 parent: Script API
+last_modified_date: now
 ---
 # OpenWindow\(window, posx, posy, href\)
 

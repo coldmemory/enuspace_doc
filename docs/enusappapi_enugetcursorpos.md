@@ -2,6 +2,7 @@
 layout: default
 title: enuGetCursorPos
 parent: Application API
+last_modified_date: now
 ---
 # POINT enuGetCursorPos\(\)
 

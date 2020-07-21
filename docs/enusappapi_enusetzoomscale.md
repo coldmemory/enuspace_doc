@@ -2,6 +2,7 @@
 layout: default
 title: enuSetZoomScale
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetZoomScale\(HVIEW pENUView, float fPercent\)
 

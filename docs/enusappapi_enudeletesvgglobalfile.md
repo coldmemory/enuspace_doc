@@ -2,6 +2,7 @@
 layout: default
 title: enuDeleteSvgGlobalFile
 parent: Application API
+last_modified_date: now
 ---
 # bool enuDeleteSvgGlobalFile\(wchar\_t\* pStrFileName\)
 

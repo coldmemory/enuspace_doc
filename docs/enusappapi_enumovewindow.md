@@ -2,6 +2,7 @@
 layout: default
 title: enuMoveWindow
 parent: Application API
+last_modified_date: now
 ---
 # void enuMoveWindow\(wchar\_t\* strWindow, float posX, float posY\)
 

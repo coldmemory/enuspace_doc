@@ -2,6 +2,7 @@
 layout: default
 title: enuGetHmiSymbolList
 parent: Application API
+last_modified_date: now
 ---
 # void\* enuGetHmiSymbolList\(wchar\_t\* pStrFilename\)
 

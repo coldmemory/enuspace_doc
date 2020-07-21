@@ -2,6 +2,7 @@
 layout: default
 title: enuSetVolumeX
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetVolumeX\(int iVolume\)
 

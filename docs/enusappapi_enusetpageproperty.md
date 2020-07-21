@@ -2,6 +2,7 @@
 layout: default
 title: enuSetPageProperty
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetPageProperty\(void\* pPage, wchar\_t\* pAttribute, wchar\_t\* pValue\)
 

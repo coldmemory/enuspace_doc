@@ -2,6 +2,7 @@
 layout: default
 title: BringToFrontObject
 parent: Script API
+last_modified_date: now
 ---
 # BringToFrontObject\(objects\)
 

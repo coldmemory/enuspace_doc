@@ -2,6 +2,7 @@
 layout: default
 title: enuGetGlobalVariableNode
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuGetGlobalVariableNode\(wchar\_t\* pStrVariable\)
 

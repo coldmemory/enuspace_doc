@@ -2,6 +2,7 @@
 layout: default
 title: enuCreatePolygon
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuCreatePolygon\(HSVG pSvgHandler, wchar\_t\* strID, wchar\_t\* strPoints, float transx, float transy\)
 

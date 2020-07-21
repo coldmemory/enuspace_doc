@@ -2,6 +2,7 @@
 layout: default
 title: enuExecuteFunctionByNode
 parent: Application API
+last_modified_date: now
 ---
 # void enuExecuteFunctionByNode\(HSVG pSvgHandler, HNODE pNode, wchar\_t\* strFunction\);
 

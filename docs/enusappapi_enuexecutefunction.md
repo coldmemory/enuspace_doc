@@ -2,6 +2,7 @@
 layout: default
 title: enuExecuteFunction
 parent: Application API
+last_modified_date: now
 ---
 # void enuExecuteFunction\(HSVG pSvgHandler, wchar\_t\* strFunction\)
 

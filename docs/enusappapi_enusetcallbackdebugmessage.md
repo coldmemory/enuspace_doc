@@ -2,6 +2,7 @@
 layout: default
 title: enuSetCallBackDebugMessage
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetCallBackDebugMessage\(void fcbDebugMessage\(wchar\_t\*\)\)
 

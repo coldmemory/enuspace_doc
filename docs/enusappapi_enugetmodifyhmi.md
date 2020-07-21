@@ -2,6 +2,7 @@
 layout: default
 title: enuGetModifyHmi
 parent: Application API
+last_modified_date: now
 ---
 # bool enuGetModifyHmi\(wchar\_t\* pStrFilename\)
 

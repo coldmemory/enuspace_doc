@@ -2,6 +2,7 @@
 layout: default
 title: enuNewSvgHmiFile
 parent: Application API
+last_modified_date: now
 ---
 # HSVG enuNewSvgHmiFile\(wchar\_t\* pStrFileName\)
 

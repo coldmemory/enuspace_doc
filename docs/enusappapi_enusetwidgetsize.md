@@ -2,6 +2,7 @@
 layout: default
 title: enuSetWidgetSize
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetWidgetSize\(HVIEW pENUView, int x, int y, int width, int height\)
 

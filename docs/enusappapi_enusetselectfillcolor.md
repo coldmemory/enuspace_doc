@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectFillcolor
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectFillcolor\(HVIEW pENUView, wchar\_t\* strColor\)
 

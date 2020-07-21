@@ -3,6 +3,7 @@ layout: default
 title: 텍스트 객체 값 출력방법
 parent: Script 사용방법
 grand_parent: enuSpace Tutorial
+last_modified_date: now
 ---
 
 # 텍스트 객체 값 출력방법

@@ -2,6 +2,7 @@
 layout: default
 title: enuGetGlobalClass
 parent: Application API
+last_modified_date: now
 ---
 # HSVG enuGetGlobalClass\(wchar\_t\* pStrFileName\)
 

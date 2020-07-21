@@ -2,6 +2,7 @@
 layout: default
 title: enuSetConfiguration
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetConfiguration\(wchar\_t\* pAttribute, wchar\_t\* pValue\)
 

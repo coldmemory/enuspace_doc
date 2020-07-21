@@ -2,6 +2,7 @@
 layout: default
 title: enuSetRuntimeMode
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetRuntimeMode\(bool bRunTime\)
 

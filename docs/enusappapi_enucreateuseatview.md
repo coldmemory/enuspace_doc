@@ -2,6 +2,7 @@
 layout: default
 title: enuCreateUseAtView
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuCreateUseAtView\(HVIEW pENUView, float transx, float transy, wchar\_t\* xlink\_href, wchar\_t\* strType\)
 

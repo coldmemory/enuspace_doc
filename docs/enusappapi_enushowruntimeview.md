@@ -2,6 +2,7 @@
 layout: default
 title: enuShowRuntimeView
 parent: Application API
+last_modified_date: now
 ---
 # bool enuShowRuntimeView\(HWND hWnd\)
 

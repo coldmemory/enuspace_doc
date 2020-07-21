@@ -2,6 +2,7 @@
 layout: default
 title: enuCreateUseWidget
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuCreateUseWidget\(HVIEW pENUView, float transx, float transy, wchar\_t\* xlink\_href, wchar\_t\* strType\)
 

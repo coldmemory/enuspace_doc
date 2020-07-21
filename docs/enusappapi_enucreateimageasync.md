@@ -2,6 +2,7 @@
 layout: default
 title: enuCreateImageAsync
 parent: Application API
+last_modified_date: now
 ---
 # void enuCreateImageAsync\(HSVG pSvgHandler, wchar\_t\* strID, float x, float y, float width, float height, wchar\_t\* xlink\_href, float transx, float transy\)
 

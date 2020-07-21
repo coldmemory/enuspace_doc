@@ -2,6 +2,7 @@
 layout: default
 title: enuGetModifyPage
 parent: Application API
+last_modified_date: now
 ---
 # bool enuGetModifyPage\(wchar\_t\* pStrFilename\)
 

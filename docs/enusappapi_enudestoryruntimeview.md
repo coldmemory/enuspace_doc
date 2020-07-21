@@ -2,6 +2,7 @@
 layout: default
 title: enuDestoryRuntimeView
 parent: Application API
+last_modified_date: now
 ---
 # void enuDestoryRuntimeView\(\)
 

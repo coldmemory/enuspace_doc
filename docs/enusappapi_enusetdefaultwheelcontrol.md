@@ -2,6 +2,7 @@
 layout: default
 title: enuSetDefaultWheelControl
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetDefaultWheelControl\(HVIEW pENUView, bool bDefault\)
 

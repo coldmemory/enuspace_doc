@@ -2,6 +2,7 @@
 layout: default
 title: enuCreateCircle
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuCreateCircle\(HSVG pSvgHandler, wchar\_t\* strID, float r, float cx, float cy, float transx, float transy\)
 

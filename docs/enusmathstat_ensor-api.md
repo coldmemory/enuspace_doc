@@ -2,6 +2,7 @@
 layout: default
 title: Ensor API
 parent: Math & Statistics
+last_modified_date: now
 ---
 
 # Ensor object

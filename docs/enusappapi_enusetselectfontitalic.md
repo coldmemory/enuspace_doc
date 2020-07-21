@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectFontItalic
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectFontItalic\(HVIEW pENUView, bool bFlag\)
 

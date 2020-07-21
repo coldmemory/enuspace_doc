@@ -2,6 +2,7 @@
 layout: default
 title: enuSaveAsSvgResourceFile
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSaveAsSvgResourceFile\(wchar\_t\* strTaget, wchar\_t\* strSource\)
 

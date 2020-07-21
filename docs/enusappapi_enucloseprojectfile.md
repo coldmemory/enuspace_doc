@@ -2,6 +2,7 @@
 layout: default
 title: enuCloseProjectFile
 parent: Application API
+last_modified_date: now
 ---
 # bool enuCloseProjectFile\(\)
 

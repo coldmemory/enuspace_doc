@@ -2,6 +2,7 @@
 layout: default
 title: enuWidgetFunctionByNode
 parent: Application API
+last_modified_date: now
 ---
 # void enuWidgetFunctionByNode\(HVIEW pENUView, HNODE pNode, wchar\_t\* strFunction\)
 

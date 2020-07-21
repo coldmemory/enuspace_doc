@@ -2,6 +2,7 @@
 layout: default
 title: enuGetAttributeByNode
 parent: Application API
+last_modified_date: now
 ---
 # void enuGetAttributeByNode\(HSVG pSvgHandler, HNODE pObject, wchar\_t\* pStrVariable, VariableStruct\* pData\)
 

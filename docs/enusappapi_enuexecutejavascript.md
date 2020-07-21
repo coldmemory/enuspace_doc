@@ -2,6 +2,7 @@
 layout: default
 title: enuExecuteJavaScript
 parent: Application API
+last_modified_date: now
 ---
 # wchar\_t\* enuExecuteJavaScript\(wchar\_t\* pStrExecute\)
 

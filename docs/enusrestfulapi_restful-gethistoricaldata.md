@@ -3,6 +3,7 @@ layout: default
 title: gethistoricaldata
 parent: RESTful API
 grand_parent: enuSpace Tutorial
+last_modified_date: now
 ---
 
 # **RESTful API - gethistoricaldata**

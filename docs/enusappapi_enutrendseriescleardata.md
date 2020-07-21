@@ -2,6 +2,7 @@
 layout: default
 title: enutrendseriescleardata
 parent: Application API
+last_modified_date: now
 ---
 # void enuTrendSeriesClearData\(HNODE SeriesNode\)
 

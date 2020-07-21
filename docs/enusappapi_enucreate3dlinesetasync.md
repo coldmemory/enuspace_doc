@@ -2,6 +2,7 @@
 layout: default
 title: enuCreate3DLineSetAsync
 parent: Application API
+last_modified_date: now
 ---
 # void enuCreate3DLineSetAsync\(HX3D pX3DHandler, wchar\_t\* strID, wchar\_t\* strPoints, float transx, float transy, float transz\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: GetImageSize
 parent: Script API
+last_modified_date: now
 ---
 # GetImageSize\(\)
 

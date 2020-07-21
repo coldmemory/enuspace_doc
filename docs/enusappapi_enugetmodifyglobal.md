@@ -2,6 +2,7 @@
 layout: default
 title: enuGetModifyGlobal
 parent: Application API
+last_modified_date: now
 ---
 # bool enuGetModifyGlobal\(wchar\_t\* pStrFilename\)
 

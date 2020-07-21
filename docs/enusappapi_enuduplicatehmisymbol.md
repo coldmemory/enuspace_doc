@@ -2,6 +2,7 @@
 layout: default
 title: enuDuplicateHmiSymbol
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuDuplicateHmiSymbol\(wchar\_t\* strPicture, wchar\_t\* strSymbol\)
 

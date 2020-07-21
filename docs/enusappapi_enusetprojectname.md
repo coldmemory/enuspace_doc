@@ -2,6 +2,7 @@
 layout: default
 title: enuSetProjectName
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetProjectName\(wchar\_t\* projectname\)
 

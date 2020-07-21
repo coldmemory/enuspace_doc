@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectFontDecrease
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectFontDecrease\(HVIEW pENUView\)
 

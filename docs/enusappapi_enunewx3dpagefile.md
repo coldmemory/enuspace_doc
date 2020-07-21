@@ -2,6 +2,7 @@
 layout: default
 title: enuNewX3DPageFile
 parent: Application API
+last_modified_date: now
 ---
 # HX3D enuNewX3DPageFile\(wchar\_t\* pStrFileName\)
 

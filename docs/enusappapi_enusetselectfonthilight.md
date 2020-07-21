@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectFontHilight
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectFontHilight\(HVIEW pENUView, bool bFlag\)
 

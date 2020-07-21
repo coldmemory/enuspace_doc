@@ -2,6 +2,7 @@
 layout: default
 title: SetReShapeArrayValue
 parent: Script API
+last_modified_date: now
 ---
 # SetReShapeArrayValue\(pinid, type, dimension, value\)
 

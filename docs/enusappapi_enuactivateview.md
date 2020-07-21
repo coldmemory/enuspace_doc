@@ -2,6 +2,7 @@
 layout: default
 title: enuActivateView
 parent: Application API
+last_modified_date: now
 ---
 # void enuActivateView\(HVIEW pENUView\)
 
@@ -14,7 +15,6 @@ Type : HVIEW
 뷰 핸들을 전달합니다.
 
 #### Return Value
-
 
 none
 

@@ -3,6 +3,7 @@ layout: default
 title: Sinh
 parent: Math functions
 grand_parent: enuSpace Tutorial
+last_modified_date: now
 ---
 
 # Sinh

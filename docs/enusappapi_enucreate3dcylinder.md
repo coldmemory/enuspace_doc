@@ -2,6 +2,7 @@
 layout: default
 title: enuCreate3DCylinder
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuCreate3DCylinder\(HX3D pX3DHandler, wchar\_t\* strID, float height, float radius, float slices, float transx, float transy, float transz\)
 

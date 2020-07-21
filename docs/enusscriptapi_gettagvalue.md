@@ -2,6 +2,7 @@
 layout: default
 title: GetTagValue
 parent: Script API
+last_modified_date: now
 ---
 # GetTagValue\("tagid"\)
 
@@ -21,7 +22,7 @@ value
 
 #### Remarks
 
-GetTagValue\(\)함수는 enuSpace 에서는 데이터베이스 변수의 값을 가져올때 수행하는 함수이다. 또한, 웹에서는 RESTful API [getvalue](./enusrestfulapi_restful-getvalue.md) 함수를 통하여 연계되어 동작을 수행한다.
+GetTagValue\(\)함수는 enuSpace 에서는 데이터베이스 변수의 값을 가져올때 수행하는 함수이다. 또한, 웹에서는 RESTful API [getvalue](/tutorial/restful-getvalue.html) 함수를 통하여 연계되어 동작을 수행한다.
 
 * [웹 연동 방법](/tutorial/web-interface.html)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuAddTask
 parent: Application API
+last_modified_date: now
 ---
 # bool enuAddTask\(wchar\_t\* pStrTaskID, wchar\_t\* pStrTaskModule, wchar\_t\* pStrCycle\)
 

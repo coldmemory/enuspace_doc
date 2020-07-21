@@ -2,6 +2,7 @@
 layout: default
 title: enuDeleteX3dPageFile
 parent: Application API
+last_modified_date: now
 ---
 # bool enuDeleteX3dPageFile\(wchar\_t\* pStrFileName\)
 

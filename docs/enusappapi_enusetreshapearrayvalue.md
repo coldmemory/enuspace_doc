@@ -2,6 +2,7 @@
 layout: default
 title: enuSetReShapeArrayValue
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetReShapeArrayValue\(wchar\_t\* pVariable, void\* fValue, int iType, int iSize\)
 

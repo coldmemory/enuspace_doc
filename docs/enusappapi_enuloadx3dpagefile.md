@@ -2,6 +2,7 @@
 layout: default
 title: enuLoadX3DPageFile
 parent: Application API
+last_modified_date: now
 ---
 # HSVG enuLoadX3DPageFile\(wchar\_t\* pStrFileName\)
 

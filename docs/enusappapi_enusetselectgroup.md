@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectGroup
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectGroup\(HVIEW pENUView\)
 

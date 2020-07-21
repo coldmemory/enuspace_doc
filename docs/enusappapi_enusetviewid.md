@@ -2,6 +2,7 @@
 layout: default
 title: enuSetViewID
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetViewID\(HVIEW pENUView, wchar\_t\* strID\)
 

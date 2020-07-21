@@ -2,6 +2,7 @@
 layout: default
 title: enuCreate3DView
 parent: Application API
+last_modified_date: now
 ---
 # HVIEW enuCreate3DView\(HWND hWnd\)
 

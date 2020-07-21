@@ -3,6 +3,7 @@ layout: default
 title: Logic Gauge
 parent: LOGIC 라이브러리 만들기
 grand_parent: enuSpace Tutorial
+last_modified_date: now
 ---
 
 # SVG와 JavaScript를 이용한 다이나믹 로직 심볼 제작 

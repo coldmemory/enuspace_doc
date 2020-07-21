@@ -2,6 +2,7 @@
 layout: default
 title: enuSetRuntimeView
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetRuntimeView\(HVIEW pENUView, bool bRuntime\)
 

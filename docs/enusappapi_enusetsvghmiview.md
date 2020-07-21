@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSvgHmiView
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetSvgHmiView\(HVIEW pENUView, wchar\_t\* pStrFileName\)
 

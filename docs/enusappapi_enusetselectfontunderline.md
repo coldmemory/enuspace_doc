@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectFontUnderline
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectFontUnderline\(HVIEW pENUView, bool bFlag\)
 

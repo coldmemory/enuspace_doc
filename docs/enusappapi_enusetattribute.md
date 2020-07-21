@@ -2,6 +2,7 @@
 layout: default
 title: enuSetAttribute
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetAttribute\(HSVG pSvgHandler, wchar\_t\* pStrVariable, wchar\_t\* pStrValue\)
 

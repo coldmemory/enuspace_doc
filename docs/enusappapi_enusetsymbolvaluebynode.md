@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSymbolValueByNode
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSymbolValueByNode\(HSVG pSvgHandler, HNODE pNode, wchar\_t\* pStrVariable, wchar\_t\* pStrValue\)
 

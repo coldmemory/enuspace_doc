@@ -2,6 +2,7 @@
 layout: default
 title: enuSetRenderObjectPreReset
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetRenderObjectPreReset\(HVIEW pENUView\)
 

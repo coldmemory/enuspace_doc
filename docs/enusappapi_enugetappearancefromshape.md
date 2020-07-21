@@ -2,6 +2,7 @@
 layout: default
 title: enuGetAppearanceFromShape
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuGetAppearanceFromShape\(HX3D pX3DHandler, HNODE node\)
 

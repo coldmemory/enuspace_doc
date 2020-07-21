@@ -2,6 +2,7 @@
 layout: default
 title: Debug 방법
 parent: External Task
+last_modified_date: now
 ---
 
 # External Task Debug 방법

@@ -2,6 +2,7 @@
 layout: default
 title: enuIsRuntimeView
 parent: Application API
+last_modified_date: now
 ---
 # bool enuIsRuntimeView\(\)
 

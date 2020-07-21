@@ -2,6 +2,7 @@
 layout: default
 title: enuLinkServerStop
 parent: Application API
+last_modified_date: now
 ---
 # void enuLinkServerStop\(\)
 

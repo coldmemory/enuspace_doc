@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectFontSubscript
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectFontSubscript\(HVIEW pENUView, bool bFlag\)
 

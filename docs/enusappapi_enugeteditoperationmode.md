@@ -2,6 +2,7 @@
 layout: default
 title: enuGetEditOperationMode
 parent: Application API
+last_modified_date: now
 ---
 # bool enuGetEditOperationMode\(HVIEW pENUVie\)
 

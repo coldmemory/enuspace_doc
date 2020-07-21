@@ -2,6 +2,7 @@
 layout: default
 title: enuSetLogicComponent
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetLogicComponent\(HVIEW pENUView, wchar\_t\* pStrFileName, wchar\_t\* pStrSymbol\)
 

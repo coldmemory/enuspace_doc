@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectDiffuseColor
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectDiffuseColor\(HVIEW pENUView, wchar\_t\* strColor\)
 

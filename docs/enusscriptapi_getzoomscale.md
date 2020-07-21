@@ -2,6 +2,7 @@
 layout: default
 title: GetZoomScale
 parent: Script API
+last_modified_date: now
 ---
 # GetZoomScale\(\)
 

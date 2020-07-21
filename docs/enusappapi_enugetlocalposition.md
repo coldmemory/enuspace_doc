@@ -2,6 +2,7 @@
 layout: default
 title: enuGetLocalPosition
 parent: Application API
+last_modified_date: now
 ---
 # POINTF enuGetLocalPosition\(HVIEW pENUView, POINT point\)
 

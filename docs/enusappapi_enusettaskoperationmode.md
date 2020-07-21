@@ -2,6 +2,7 @@
 layout: default
 title: enuSetTaskOperationMode
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetTaskOperationMode\(int iMode, int iStep\)
 

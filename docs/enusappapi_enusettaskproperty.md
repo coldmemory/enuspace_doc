@@ -2,6 +2,7 @@
 layout: default
 title: enuSetTaskProperty
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetTaskProperty\(wchar\_t\* pStrTaskID, wchar\_t\* pStrProp, wchar\_t\* pStrValue\)
 

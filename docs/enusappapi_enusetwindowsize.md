@@ -2,6 +2,7 @@
 layout: default
 title: enuSetWindowSize
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetWindowSize\(wchar\_t\* window, int x, int y, int width, int height\);
 

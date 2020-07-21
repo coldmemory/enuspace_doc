@@ -2,6 +2,7 @@
 layout: default
 title: BringForwardObject
 parent: Script API
+last_modified_date: now
 ---
 
 # BringForwardObject\(objects\)

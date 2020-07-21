@@ -2,6 +2,7 @@
 layout: default
 title: enuGetLogicSymbolList
 parent: Application API
+last_modified_date: now
 ---
 # void\* enuGetLogicSymbolList\(wchar\_t\* pStrFilename\)
 

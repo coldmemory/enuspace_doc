@@ -2,6 +2,7 @@
 layout: default
 title: enuAddSelectObjectByNode
 parent: Application API
+last_modified_date: now
 ---
 # void enuAddSelectObjectByNode\(HVIEW pENUView, HNODE hNode\)
 

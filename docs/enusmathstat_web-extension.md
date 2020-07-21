@@ -3,6 +3,7 @@ layout: default
 title: 확장 웹모듈 적용방법
 parent: Web 연동 및 사용방법
 grand_parent: enuSpace Tutorial
+last_modified_date: now
 ---
 
 # enuSpace for mars\(2017\)에서 확장용 web 모듈 사용하기

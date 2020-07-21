@@ -2,6 +2,7 @@
 layout: default
 title: enuIsEnablePaste
 parent: Application API
+last_modified_date: now
 ---
 # bool enuIsEnablePaste\(\)
 

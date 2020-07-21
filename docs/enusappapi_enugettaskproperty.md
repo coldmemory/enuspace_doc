@@ -2,6 +2,7 @@
 layout: default
 title: enuGetTaskProperty
 parent: Application API
+last_modified_date: now
 ---
 # TaskStruct\* enuGetTaskProperty\(wchar\_t\* pStrTaskID\)
 

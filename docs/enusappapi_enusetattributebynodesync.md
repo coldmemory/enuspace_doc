@@ -2,6 +2,7 @@
 layout: default
 title: enuSetAttributeByNodeSync
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetAttributeByNodeSync\(HSVG pSvgHandler, HNODE pObject, wchar\_t\* pStrVariable, wchar\_t\* pStrValue, bool bHistory=false, bool bScript=false\)
 

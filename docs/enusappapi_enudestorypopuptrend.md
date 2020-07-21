@@ -2,6 +2,7 @@
 layout: default
 title: enuDestoryPopupTrend
 parent: Application API
+last_modified_date: now
 ---
 # void enuDestoryPopupTrend\(void\* pTrend\)
 

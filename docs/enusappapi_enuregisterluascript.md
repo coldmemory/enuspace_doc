@@ -2,6 +2,7 @@
 layout: default
 title: enuRegisterLuaScript
 parent: Application API
+last_modified_date: now
 ---
 # bool enuRegisterLuaScript\(wchar\_t\* pStrScript\)
 

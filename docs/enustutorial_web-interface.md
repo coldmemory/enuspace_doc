@@ -2,6 +2,7 @@
 layout: default
 title: Web 연동 및 사용방법
 parent: enuSpace Tutorial
+last_modified_date: now
 ---
 
 # **Web 연동 및 사용방법**

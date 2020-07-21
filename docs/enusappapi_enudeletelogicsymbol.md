@@ -2,6 +2,7 @@
 layout: default
 title: enuDeleteLogicSymbol
 parent: Application API
+last_modified_date: now
 ---
 # bool enuDeleteLogicSymbol\(wchar\_t\* pStrFilename, wchar\_t\* pStrSymbol\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: LoadPicture
 parent: Script API
+last_modified_date: now
 ---
 # LoadPicture\(picture\)
 

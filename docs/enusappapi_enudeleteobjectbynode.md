@@ -2,6 +2,7 @@
 layout: default
 title: enuDeleteObjectByNode
 parent: Application API
+last_modified_date: now
 ---
 # void enuDeleteObjectByNode\(HSVG pSvgHandler, HNODE pTarget\)
 

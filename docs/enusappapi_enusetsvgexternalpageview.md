@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSvgExternalPageView
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetSvgExternalPageView\(HVIEW pENUView, HSVG pSvg\)
 

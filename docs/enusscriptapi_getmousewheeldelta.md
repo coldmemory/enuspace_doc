@@ -2,6 +2,7 @@
 layout: default
 title: GetMouseWheelDelta
 parent: Script API
+last_modified_date: now
 ---
 # GetMouseWheelDelta\(\)
 

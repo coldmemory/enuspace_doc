@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectUnGroup
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectUnGroup\(HVIEW pENUView\)
 

@@ -3,6 +3,7 @@ layout: default
 title: setvalue_package
 parent: RESTful API
 grand_parent: enuSpace Tutorial
+last_modified_date: now
 ---
 
 # **RESTful API - setvalue\_package**

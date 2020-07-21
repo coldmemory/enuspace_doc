@@ -2,6 +2,7 @@
 layout: default
 title: enuSetEditCut
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetEditCut\(HVIEW pENUView\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enusetvariablevaluebynode
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetVariableValueByNode\(HSVG pSvgHandler, HNODE hnode, wchar\_t\* strVariable, wchar\_t\* strValue\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enutrendseriesappendtimeanddata
 parent: Application API
+last_modified_date: now
 ---
 # void enuTrendSeriesAppendTimeAndData\(HNODE SeriesNode, double fTime, double fValue\)
 

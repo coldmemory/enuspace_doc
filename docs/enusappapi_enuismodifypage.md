@@ -2,6 +2,7 @@
 layout: default
 title: enuIsModifyPage
 parent: Application API
+last_modified_date: now
 ---
 # bool enuIsModifyPage\(HVIEW pENUView\)
 

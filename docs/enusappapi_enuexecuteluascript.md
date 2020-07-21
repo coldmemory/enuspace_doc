@@ -2,6 +2,7 @@
 layout: default
 title: enuExecuteLuaScript
 parent: Application API
+last_modified_date: now
 ---
 # wchar\_t\* enuExecuteLuaScript\(wchar\_t\* pStrExecute\)
 

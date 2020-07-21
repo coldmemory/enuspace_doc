@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectSpecularColor
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectSpecularColor\(HVIEW pENUView, wchar\_t\* strColor\)
 

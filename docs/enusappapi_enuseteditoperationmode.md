@@ -2,6 +2,7 @@
 layout: default
 title: enuSetEditOperationMode
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetEditOperationMode\(HVIEW pENUView, bool bFlag\)
 

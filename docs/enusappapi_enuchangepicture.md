@@ -2,6 +2,7 @@
 layout: default
 title: enuChangePicture
 parent: Application API
+last_modified_date: now
 ---
 # void enuChangePicture\(wchar\_t\* strWindow, wchar\_t\* strPicName\)
 

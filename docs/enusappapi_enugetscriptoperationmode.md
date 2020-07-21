@@ -2,6 +2,7 @@
 layout: default
 title: enuGetScriptOperationMode
 parent: Application API
+last_modified_date: now
 ---
 # bool enuGetScriptOperationMode\(\)
 

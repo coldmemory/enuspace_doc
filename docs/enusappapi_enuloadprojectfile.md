@@ -2,6 +2,7 @@
 layout: default
 title: enuLoadProjectFile
 parent: Application API
+last_modified_date: now
 ---
 # bool enuLoadProjectFile\(wchar\_t\* pStrFileName\)
 

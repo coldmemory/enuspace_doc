@@ -2,6 +2,7 @@
 layout: default
 title: enuSetEditRedo
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetEditRedo\(HVIEW pENUView\)
 

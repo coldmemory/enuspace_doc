@@ -3,6 +3,7 @@ layout: default
 title: Statistics functions
 parent: Math & Statistics
 has_children: true
+last_modified_date: now
 ---
 
 # ensor Statistics functions

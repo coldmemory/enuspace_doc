@@ -2,6 +2,7 @@
 layout: default
 title: enuSetCanvasSize
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetCanvasSize\(HVIEW pENUView, float cx, float cy\)
 

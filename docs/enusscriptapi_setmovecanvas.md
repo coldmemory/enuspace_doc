@@ -2,6 +2,7 @@
 layout: default
 title: SetMoveCanvas
 parent: Script API
+last_modified_date: now
 ---
 # SetMoveCanvas\(window, transx, transy\)
 
@@ -21,7 +22,7 @@ none
 
 #### Remarks
 
-SetMoveCanvas\(\)함수는 [GetMoveCanvas\(\)](./enusscriptapi_getmovecanvas.md)함수와 조합하여 활용됩니다.
+SetMoveCanvas\(\)함수는 [GetMoveCanvas\(\)](/ScriptAPI\GetMoveCanvas.html)함수와 조합하여 활용됩니다.
 
 ```lua
 -- lua

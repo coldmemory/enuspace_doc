@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectEmissiveColor
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectEmissiveColor\(HVIEW pENUView, wchar\_t\* strColor\)
 

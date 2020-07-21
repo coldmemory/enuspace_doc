@@ -2,6 +2,7 @@
 layout: default
 title: enuGetObjectById
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuGetObjectById\(HSVG pSvgHandler, wchar\_t\* objectid\)
 

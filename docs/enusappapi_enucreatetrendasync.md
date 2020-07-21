@@ -2,6 +2,7 @@
 layout: default
 title: enuCreateTrendAsync
 parent: Application API
+last_modified_date: now
 ---
 # void enuCreateTrendAsync\(HSVG pSvgHandler, wchar\_t\* strID, float x, float y, float width, float height, float transx, float transy\)
 

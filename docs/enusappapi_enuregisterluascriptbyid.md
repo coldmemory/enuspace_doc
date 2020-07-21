@@ -2,6 +2,7 @@
 layout: default
 title: enuRegisterLuaScriptById
 parent: Application API
+last_modified_date: now
 ---
 # void enuRegisterLuaScriptById\(wchar\_t\* strPagename, wchar\_t\* strID, wchar\_t\* strFunction, wchar\_t\* strScript\)
 

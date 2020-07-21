@@ -2,6 +2,7 @@
 layout: default
 title: enuCreatePath
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuCreatePath\(HSVG pSvgHandler, wchar\_t\* strID, wchar\_t\* pStrValue, float transx, float transy\)
 

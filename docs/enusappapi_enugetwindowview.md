@@ -2,6 +2,7 @@
 layout: default
 title: enuGetWindowView
 parent: Application API
+last_modified_date: now
 ---
 # HVIEW enuGetWindowView\(wchar\_t\* strWindowID\)
 

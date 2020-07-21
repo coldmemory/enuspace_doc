@@ -2,6 +2,7 @@
 layout: default
 title: enuAddGlobalStruct
 parent: Application API
+last_modified_date: now
 ---
 # bool enuAddGlobalStruct\(wchar\_t\* pStrFileName, wchar\_t\* pStrStructName, CPtrList\* pItem\)
 

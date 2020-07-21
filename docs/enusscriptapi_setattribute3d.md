@@ -2,6 +2,7 @@
 layout: default
 title: SetAttribute3D
 parent: Script API
+last_modified_date: now
 ---
 # SetAttribute3D\(\)
 

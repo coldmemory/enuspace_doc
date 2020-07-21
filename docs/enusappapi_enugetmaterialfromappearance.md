@@ -2,6 +2,7 @@
 layout: default
 title: enuGetMaterialFromAppearance
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuGetMaterialFromAppearance\(HX3D pX3DHandler, HNODE node\)
 

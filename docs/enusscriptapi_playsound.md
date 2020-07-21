@@ -2,6 +2,7 @@
 layout: default
 title: PlaySound
 parent: Script API
+last_modified_date: now
 ---
 # PlaySound\(wave\)
 

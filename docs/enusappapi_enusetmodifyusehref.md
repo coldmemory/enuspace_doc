@@ -2,6 +2,7 @@
 layout: default
 title: enuSetModifyUseHref
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetModifyUseHref\(wchar\_t\* strSrcId, wchar\_t\* strNewId\)
 

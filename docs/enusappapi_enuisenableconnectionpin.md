@@ -2,6 +2,7 @@
 layout: default
 title: enuIsEnableConnectionPin
 parent: Application API
+last_modified_date: now
 ---
 # bool enuIsEnableConnectionPin\(HVIEW pENUView\)
 

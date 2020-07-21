@@ -3,6 +3,7 @@ layout: default
 title: AverageIf
 parent: Statistics functions
 grand_parent: Math & Statistics
+last_modified_date: now
 ---
 
 # AverageIf

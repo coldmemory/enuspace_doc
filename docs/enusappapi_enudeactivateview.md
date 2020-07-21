@@ -2,6 +2,7 @@
 layout: default
 title: enuDeactivateView
 parent: Application API
+last_modified_date: now
 ---
 # void enuDeactivateView\(HVIEW pENUView\)
 

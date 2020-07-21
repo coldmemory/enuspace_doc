@@ -2,6 +2,7 @@
 layout: default
 title: enuSetWindowPos
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetWindowPos\(HVIEW pENUView, int x, int y, int cx, int cy\)
 

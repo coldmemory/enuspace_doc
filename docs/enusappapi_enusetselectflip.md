@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectFlip
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectFlip\(HVIEW pENUView, int iType\)
 

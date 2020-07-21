@@ -3,6 +3,7 @@ layout: default
 title: Sqrt
 parent: Math functions
 grand_parent: enuSpace Tutorial
+last_modified_date: now
 ---
 
 # Sqrt

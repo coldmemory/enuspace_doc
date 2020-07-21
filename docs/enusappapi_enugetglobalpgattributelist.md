@@ -2,6 +2,7 @@
 layout: default
 title: enuGetGlobalPgAttributeList
 parent: Application API
+last_modified_date: now
 ---
 # void\* enuGetGlobalPgAttributeList\(wchar\_t\* pStrFileName, wchar\_t\* pStrStructName\)
 

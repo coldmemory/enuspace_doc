@@ -2,6 +2,7 @@
 layout: default
 title: enuSetHmiProperty
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetHmiProperty\(HSVG pSvg, wchar\_t\* pAttribute, wchar\_t\* pValue\)
 

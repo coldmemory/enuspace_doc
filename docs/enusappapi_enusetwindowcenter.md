@@ -2,6 +2,7 @@
 layout: default
 title: enuSetWindowCenter
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetWindowCenter\(HVIEW pENUView\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: SetTagValue
 parent: Script API
+last_modified_date: now
 ---
 # SetTagValue\("tagid", value\)
 
@@ -23,7 +24,7 @@ none
 
 #### Remarks
 
-SetTagValue\(\)함수는 enuSpace 에서는 데이터베이스 변수의 값을 설정하는 함수이다. 또한, 웹에서는 RESTful API [setvalue](./enusrestfulapi_restful-setvalue.md) 함수를 통하여 연계되어 동작을 수행한다.
+SetTagValue\(\)함수는 enuSpace 에서는 데이터베이스 변수의 값을 설정하는 함수이다. 또한, 웹에서는 RESTful API [setvalue](/tutorial/restful-setvalue.html) 함수를 통하여 연계되어 동작을 수행한다.
 
 * [웹 연동 방법](#)
 

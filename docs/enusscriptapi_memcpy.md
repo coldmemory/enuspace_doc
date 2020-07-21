@@ -2,6 +2,7 @@
 layout: default
 title: memcpy
 parent: Script API
+last_modified_date: now
 ---
 # memcpy\(target, source, size\)
 

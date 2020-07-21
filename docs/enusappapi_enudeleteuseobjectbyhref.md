@@ -2,6 +2,7 @@
 layout: default
 title: enuDeleteUseObjectByHref
 parent: Application API
+last_modified_date: now
 ---
 # void enuDeleteUseObjectByHref\(HSVG pSvgHandler, wchar\_t\* pStrHref\)
 

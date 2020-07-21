@@ -2,6 +2,7 @@
 layout: default
 title: enuSetModifySymbolAccept
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetModifySymbolAccept\(wchar\_t\* strPicture, wchar\_t\* strSymbol, int iFileType\)
 

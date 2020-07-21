@@ -2,6 +2,7 @@
 layout: default
 title: enuDelete3DObjectByNode
 parent: Application API
+last_modified_date: now
 ---
 # void enuDelete3DObjectByNode\(HX3D pX3DHandler, HNODE pTarget\)
 

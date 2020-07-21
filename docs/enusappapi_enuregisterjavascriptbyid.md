@@ -2,6 +2,7 @@
 layout: default
 title: enuRegisterJavaScriptById
 parent: Application API
+last_modified_date: now
 ---
 # void enuRegisterJavaScriptById\(wchar\_t\* strPagename, wchar\_t\* strID, wchar\_t\* strFunction, wchar\_t\* strScript\)
 

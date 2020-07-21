@@ -2,6 +2,7 @@
 layout: default
 title: enuSaveAsSvgHmiFile
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSaveAsSvgHmiFile\(wchar\_t\* strTaget, wchar\_t\* strSource\)
 

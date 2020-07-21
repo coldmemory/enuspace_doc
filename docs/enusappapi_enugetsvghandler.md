@@ -2,6 +2,7 @@
 layout: default
 title: enuGetSvgHandler
 parent: Application API
+last_modified_date: now
 ---
 # HSVG enuGetSvgHandler\(HVIEW pENUView\)
 

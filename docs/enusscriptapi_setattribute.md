@@ -2,6 +2,7 @@
 layout: default
 title: SetAttribute
 parent: Script API
+last_modified_date: now
 ---
 # SetAttribute\(variable, value\)
 

@@ -3,6 +3,7 @@ layout: default
 title: FDist
 parent: Statistics functions
 grand_parent: Math & Statistics
+last_modified_date: now
 ---
 
 # FDist

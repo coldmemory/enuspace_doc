@@ -2,6 +2,7 @@
 layout: default
 title: enuSetResetFile
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetResetFile\(wchar\_t\* strFilename\)
 

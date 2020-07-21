@@ -2,6 +2,7 @@
 layout: default
 title: enuSaveAsSvgLogicFile
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSaveAsSvgLogicFile\(wchar\_t\* strTaget, wchar\_t\* strSource\)
 

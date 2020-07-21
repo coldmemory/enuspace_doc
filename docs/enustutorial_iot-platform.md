@@ -2,6 +2,7 @@
 layout: default
 title: IoT Platform 사용방법
 parent: enuSpace Tutorial
+last_modified_date: now
 ---
 
 # **IoT Platform 사용방법**

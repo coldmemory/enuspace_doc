@@ -2,6 +2,7 @@
 layout: default
 title: enuGetHmiList
 parent: Application API
+last_modified_date: now
 ---
 # void\* enuGetHmiList\(\)
 

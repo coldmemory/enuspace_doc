@@ -2,6 +2,7 @@
 layout: default
 title: enuMoveObjectRight
 parent: Application API
+last_modified_date: now
 ---
 # void enuMoveObjectRight\(HVIEW pENUView\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuIsSelectFontSubscript
 parent: Application API
+last_modified_date: now
 ---
 # bool enuIsSelectFontSubscript\(HVIEW pENUView\)
 

@@ -3,6 +3,7 @@ layout: default
 title: Atan2
 parent: Math functions
 grand_parent: Math & Statistics
+last_modified_date: now
 ---
 
 # Atan2

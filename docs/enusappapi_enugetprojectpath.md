@@ -2,6 +2,7 @@
 layout: default
 title: enuGetProjectPath
 parent: Application API
+last_modified_date: now
 ---
 # wchar\_t\* enuGetProjectPath\(\)
 

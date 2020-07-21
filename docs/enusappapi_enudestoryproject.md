@@ -2,6 +2,7 @@
 layout: default
 title: enuDestoryProject
 parent: Application API
+last_modified_date: now
 ---
 # void enuDestoryProject\(HPROJECT pProject\)
 

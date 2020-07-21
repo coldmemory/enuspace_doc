@@ -2,6 +2,7 @@
 layout: default
 title: Using method
 parent: Math & Statistics
+last_modified_date: now
 ---
 
 ## enuSpace

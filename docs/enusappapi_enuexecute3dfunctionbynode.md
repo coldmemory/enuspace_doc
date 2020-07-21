@@ -2,6 +2,7 @@
 layout: default
 title: enuExecute3DFunctionByNode
 parent: Application API
+last_modified_date: now
 ---
 # void enuExecute3DFunctionByNode\(HX3D pX3D, HNODE pNode, wchar\_t\* strFunction\)
 

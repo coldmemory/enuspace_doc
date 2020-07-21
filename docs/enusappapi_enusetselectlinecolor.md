@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectLinecolor
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectLinecolor\(HVIEW pENUView, wchar\_t\* strColor\)
 

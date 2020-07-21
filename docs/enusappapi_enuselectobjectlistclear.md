@@ -2,6 +2,7 @@
 layout: default
 title: enuSelectObjectListClear
 parent: Application API
+last_modified_date: now
 ---
 # void enuSelectObjectListClear\(HVIEW pENUView\)
 

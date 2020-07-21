@@ -2,6 +2,7 @@
 layout: default
 title: enuRegisterJavaScript
 parent: Application API
+last_modified_date: now
 ---
 # bool enuRegisterJavaScript\(wchar\_t\* pStrScript\)
 

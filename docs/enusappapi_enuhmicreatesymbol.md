@@ -2,6 +2,7 @@
 layout: default
 title: enuHmiCreateSymbol
 parent: Application API
+last_modified_date: now
 ---
 # bool enuHmiCreateSymbol\(wchar\_t\* pStrFilename, wchar\_t\* pStrSymbol\)
 

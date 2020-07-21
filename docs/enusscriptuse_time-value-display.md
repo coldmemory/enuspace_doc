@@ -3,6 +3,7 @@ layout: default
 title: 시간정보 출력방법
 parent: Script 사용방법
 grand_parent: enuSpace Tutorial
+last_modified_date: now
 ---
 
 # 시간정보 출력방법

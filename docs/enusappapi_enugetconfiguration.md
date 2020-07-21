@@ -2,6 +2,7 @@
 layout: default
 title: enuGetConfiguration
 parent: Application API
+last_modified_date: now
 ---
 # wchar\_t\* enuGetConfiguration\(wchar\_t\* pAttribute\)
 

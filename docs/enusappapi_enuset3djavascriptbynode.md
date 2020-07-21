@@ -2,6 +2,7 @@
 layout: default
 title: enuSet3DJavaScriptByNode
 parent: Application API
+last_modified_date: now
 ---
 # void enuSet3DJavaScriptByNode\(HX3D pX3D, HNODE pNode, wchar\_t\* strFunction, wchar\_t\* strScript\)
 

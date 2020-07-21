@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectLineDashes
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectLineDashes\(HVIEW pENUView, wchar\_t\* strDashes\)
 

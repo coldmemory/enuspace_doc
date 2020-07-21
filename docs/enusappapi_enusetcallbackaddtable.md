@@ -2,6 +2,7 @@
 layout: default
 title: enuSetCallBackAddTable
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetCallBackAddTable\( void fcbAddTable\(HNODE\) \)
 

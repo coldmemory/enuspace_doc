@@ -2,6 +2,7 @@
 layout: default
 title: enuLogicGetSymbolType
 parent: Application API
+last_modified_date: now
 ---
 # wchar\_t\* enuLogicGetSymbolType\(wchar\_t\* pStrFilename, wchar\_t\* pStrSymbol\)
 

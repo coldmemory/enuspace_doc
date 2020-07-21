@@ -2,6 +2,7 @@
 layout: default
 title: enuCreate3DTextAsync
 parent: Application API
+last_modified_date: now
 ---
 # void enuCreate3DTextAsync\(HX3D pX3DHandler, wchar\_t\* strID, wchar\_t\* strString, wchar\_t\* strValue, float fontSize, float transx, float transy, float transz\)
 

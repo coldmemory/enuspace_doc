@@ -3,6 +3,7 @@ layout: default
 title: 배열변수의 활용방법
 parent: Script 사용방법
 grand_parent: enuSpace Tutorial
+last_modified_date: now
 ---
 
 # 배열변수의 활용방법

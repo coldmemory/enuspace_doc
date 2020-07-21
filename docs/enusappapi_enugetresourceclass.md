@@ -2,6 +2,7 @@
 layout: default
 title: enuGetResourceClass
 parent: Application API
+last_modified_date: now
 ---
 # HSVG enuGetResourceClass\(wchar\_t\* pStrFileName\)
 

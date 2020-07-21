@@ -2,6 +2,7 @@
 layout: default
 title: enuModifyGlobalStruct
 parent: Application API
+last_modified_date: now
 ---
 # bool enuModifyGlobalStruct\(wchar\_t\* pStrFileName, wchar\_t\* strStruct, wchar\_t\* strNewStruct, CPtrList\* pItem\)
 

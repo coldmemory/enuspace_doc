@@ -2,6 +2,7 @@
 layout: default
 title: enuGetVariablePointer
 parent: Application API
+last_modified_date: now
 ---
 # void enuGetVariablePointer\(HSVG pSvgHandler, wchar\_t\* pStrVariable, VariableStruct\* pData\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuGetWindowSize
 parent: Application API
+last_modified_date: now
 ---
 # bool enuGetWindowSize\(wchar\_t\* strWindowID, RECT\* rect\)
 

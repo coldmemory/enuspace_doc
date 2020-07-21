@@ -2,6 +2,7 @@
 layout: default
 title: enuSetMButtonDownCallBack
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetMButtonDownCallBack\(HVIEW pENUView, void functioncb\(float, float\) \)
 

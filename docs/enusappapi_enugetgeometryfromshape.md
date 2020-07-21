@@ -2,6 +2,7 @@
 layout: default
 title: enuGetGeometryFromShape
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuGetGeometryFromShape\(HX3D pX3DHandler, HNODE node\)
 

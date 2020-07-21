@@ -2,6 +2,7 @@
 layout: default
 title: enuDeleteSvgLogicFile
 parent: Application API
+last_modified_date: now
 ---
 # bool enuDeleteSvgLogicFile\(wchar\_t\* pStrFileName\)
 

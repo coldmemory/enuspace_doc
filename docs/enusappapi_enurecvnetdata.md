@@ -2,6 +2,7 @@
 layout: default
 title: enuRecvNetData
 parent: Application API
+last_modified_date: now
 ---
 # void enuRecvNetData\(void functioncb\(wchar\_t\* system, char\* buffer, int length\)\)
 

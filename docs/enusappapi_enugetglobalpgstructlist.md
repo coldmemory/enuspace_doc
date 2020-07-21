@@ -2,6 +2,7 @@
 layout: default
 title: enuGetGlobalPgStructList
 parent: Application API
+last_modified_date: now
 ---
 # void\* enuGetGlobalPgStructList\(wchar\_t\* pStrFileName\)
 

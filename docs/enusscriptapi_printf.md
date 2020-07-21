@@ -2,6 +2,7 @@
 layout: default
 title: printf
 parent: Script API
+last_modified_date: now
 ---
 # printf\(message\)
 

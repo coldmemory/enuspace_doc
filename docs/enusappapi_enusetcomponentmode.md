@@ -2,6 +2,7 @@
 layout: default
 title: enuSetComponentMode
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetComponentMode\(HVIEW pView, bool bOper\)
 

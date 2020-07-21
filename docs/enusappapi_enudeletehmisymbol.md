@@ -2,6 +2,7 @@
 layout: default
 title: enuDeleteHmiSymbol
 parent: Application API
+last_modified_date: now
 ---
 # bool enuDeleteHmiSymbol\(wchar\_t\* pStrFilename, wchar\_t\* pStrSymbol\)
 

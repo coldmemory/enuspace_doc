@@ -2,6 +2,7 @@
 layout: default
 title: MoveWindow
 parent: Script API
+last_modified_date: now
 ---
 # MoveWindow\(window, posx, posy\)
 

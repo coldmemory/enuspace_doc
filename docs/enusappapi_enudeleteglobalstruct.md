@@ -2,6 +2,7 @@
 layout: default
 title: enuDeleteGlobalStruct
 parent: Application API
+last_modified_date: now
 ---
 # bool enuDeleteGlobalStruct\(wchar\_t\* pStrFileName, wchar\_t\* strStruct\)
 

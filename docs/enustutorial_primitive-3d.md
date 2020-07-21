@@ -4,6 +4,7 @@ title: 기초객체(3D)
 parent: enuSpace Tutorial
 has_children: true
 nav_order: d
+last_modified_date: now
 ---
 
 # 3D Primitive Object - 기초 객체

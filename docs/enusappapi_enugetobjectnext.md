@@ -2,6 +2,7 @@
 layout: default
 title: enuGetObjectNext
 parent: Application API
+last_modified_date: now
 ---
 enuSpace for saturn\(ver.4\)
 

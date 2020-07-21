@@ -2,6 +2,7 @@
 layout: default
 title: enuGetCoordinateFromIndexedFaceSet
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuGetCoordinateFromIndexedFaceSet\(HX3D pX3DHandler, HNODE node\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuCreate3DInline
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuCreate3DInline\(HX3D pX3DHandler, wchar\_t\* strID, wchar\_t\* strUrl, float transx, float transy, float transz\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuGetSymbolWidth
 parent: Application API
+last_modified_date: now
 ---
 # float enuGetSymbolWidth\(HVIEW pENUView, wchar\_t\* strSymbol\)
 

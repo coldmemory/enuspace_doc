@@ -2,6 +2,7 @@
 layout: default
 title: enuCreateTrend
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuCreateTrend\(HSVG pSvgHandler, wchar\_t\* strID, float x, float y, float width, float height, float transx, float transy\)
 

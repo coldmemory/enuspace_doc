@@ -2,6 +2,7 @@
 layout: default
 title: enuDeleteSvgHmiFile
 parent: Application API
+last_modified_date: now
 ---
 # bool enuDeleteSvgHmiFile\(wchar\_t\* pStrFileName\)
 

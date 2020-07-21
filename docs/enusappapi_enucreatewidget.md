@@ -2,6 +2,7 @@
 layout: default
 title: enuCreateWidget
 parent: Application API
+last_modified_date: now
 ---
 # HVIEW enuCreateWidget\(HWND hWnd\)
 

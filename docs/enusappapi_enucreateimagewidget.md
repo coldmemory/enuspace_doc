@@ -2,6 +2,7 @@
 layout: default
 title: enuCreateImageWidget
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuCreateImageWidget\(HVIEW pENUView, wchar\_t\* xlink\_href\)
 

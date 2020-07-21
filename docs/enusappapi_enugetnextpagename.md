@@ -2,6 +2,7 @@
 layout: default
 title: enuGetNextPageName
 parent: Application API
+last_modified_date: now
 ---
 # wchar\_t\* enuGetNextPageName\(wchar\_t\* pStrFileName\)
 

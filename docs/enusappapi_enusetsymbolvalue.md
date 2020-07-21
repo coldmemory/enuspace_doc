@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSymbolValue
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSymbolValue\(HSVG pSvgHandler, wchar\_t\* pStrVariable, wchar\_t\* pStrValue\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuSetEditCopy
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetEditCopy\(HVIEW pENUView\)
 

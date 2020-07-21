@@ -2,6 +2,7 @@
 layout: default
 title: enuGetPageClass
 parent: Application API
+last_modified_date: now
 ---
 # void\* enuGetPageClass\(wchar\_t\* pStrFileName\)
 

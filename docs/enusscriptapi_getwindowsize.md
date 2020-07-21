@@ -2,6 +2,7 @@
 layout: default
 title: GetWindowSize
 parent: Script API
+last_modified_date: now
 ---
 # GetWindowSize\(\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuSetEditDeleteAsync
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetEditDeleteAsync\(HVIEW pENUView\)
 

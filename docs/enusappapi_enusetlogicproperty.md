@@ -2,6 +2,7 @@
 layout: default
 title: enuSetLogicProperty
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetLogicProperty\(HSVG pSvg, wchar\_t\* pAttribute, wchar\_t\* pValue\)
 

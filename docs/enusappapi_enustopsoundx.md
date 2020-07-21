@@ -2,6 +2,7 @@
 layout: default
 title: enuStopSoundX
 parent: Application API
+last_modified_date: now
 ---
 # void enuStopSoundX\(wchar\_t\* wavfilename\)
 

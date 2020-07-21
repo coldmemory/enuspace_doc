@@ -2,6 +2,7 @@
 layout: default
 title: GetTime
 parent: Script API
+last_modified_date: now
 ---
 #### GetTime\(\)
 
@@ -19,7 +20,7 @@ enuSpace의 시간값을 반환합니다.
 
 enuSpace 설정된 Simulation Time 또는 System Time에 해당하는 값을 반환합니다.
 
-참조함수 [GetDateTimeString\(\)](./enusscriptapi_getdatetimestring.md)
+참조함수 [GetDateTimeString\(\)](/ScriptAPI\GetDateTimeString.html)
 
 ```lua
 -- lua

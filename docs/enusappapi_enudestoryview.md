@@ -2,6 +2,7 @@
 layout: default
 title: enuDestoryView
 parent: Application API
+last_modified_date: now
 ---
 # void enuDestoryView\(HVIEW pENUView\)
 

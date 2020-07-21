@@ -2,6 +2,7 @@
 layout: default
 title: enuDeleteObjectByName
 parent: Application API
+last_modified_date: now
 ---
 # void enuDeleteObjectByName\(HSVG pSvgHandler, wchar\_t\* pStrVariable\)
 

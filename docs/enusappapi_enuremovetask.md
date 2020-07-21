@@ -2,6 +2,7 @@
 layout: default
 title: enuRemoveTask
 parent: Application API
+last_modified_date: now
 ---
 # extern "C" \_\_declspec\(dllexport\) bool enuRemoveTask\(wchar\_t\* pStrTaskID\)
 

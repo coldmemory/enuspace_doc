@@ -3,6 +3,7 @@ layout: default
 title: 팝업 윈도우
 parent: 저작기 사용방법
 grand_parent: enuSpace Tutorial
+last_modified_date: now
 ---
 
 # Popup Window
@@ -60,9 +61,9 @@ Step1. Rect 객체를 추가한다.
 
 Step2. Rect 객체의 스크립트를 추가한다. Rect객체에 \_onmousedown이벤트를 추가한다.
 
-Step3. 팝업윈도우의 위치를 설정하기 위해 GetCursorPos\(\)함수를 이용하여 마우스 커서의 위치를 회득한다. 획득한 좌표값을 이용하여, 앞 윈도우 설정된 popup 윈도우를 [OpenWindow](./enusscriptapi_openwindow.md)\(\)함수를 이용하여 호출한다.
+Step3. 팝업윈도우의 위치를 설정하기 위해 GetCursorPos\(\)함수를 이용하여 마우스 커서의 위치를 회득한다. 획득한 좌표값을 이용하여, 앞 윈도우 설정된 popup 윈도우를 [OpenWindow](/ScriptAPI/OpenWindow.html)\(\)함수를 이용하여 호출한다.
 
-Step4. 팝업윈도우의 속성을 설정하기 위해서 [ExecuteString](./enusscriptapi_executestring.md)\(\)함수를 이용하여 전달한다. 
+Step4. 팝업윈도우의 속성을 설정하기 위해서 [ExecuteString](/ScriptAPI/ExecuteString.html)\(\)함수를 이용하여 전달한다. 
 
 ```lua
 function _onmousedown()

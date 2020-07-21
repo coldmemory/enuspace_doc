@@ -2,6 +2,7 @@
 layout: default
 title: enuGetHmiClass
 parent: Application API
+last_modified_date: now
 ---
 # HSVG enuGetHmiClass\(wchar\_t\* pStrFileName\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuCreatePolylineAsync
 parent: Application API
+last_modified_date: now
 ---
 # void enuCreatePolylineAsync\(HSVG pSvgHandler, wchar\_t\* strID, wchar\_t\* strPoints, float transx, float transy\)
 

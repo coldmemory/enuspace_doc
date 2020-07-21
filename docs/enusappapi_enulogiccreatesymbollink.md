@@ -2,6 +2,7 @@
 layout: default
 title: enuLogicCreateSymbolLink
 parent: Application API
+last_modified_date: now
 ---
 # bool enuLogicCreateSymbolLink\(wchar\_t\* pStrFilename, wchar\_t\* pStrSymbol\)
 

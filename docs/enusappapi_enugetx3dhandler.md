@@ -2,6 +2,7 @@
 layout: default
 title: enuGetX3DHandler
 parent: Application API
+last_modified_date: now
 ---
 # HX3D enuGetX3DHandler\(HVIEW pENUView\)
 

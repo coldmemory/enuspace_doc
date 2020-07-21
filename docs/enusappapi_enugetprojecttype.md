@@ -2,6 +2,7 @@
 layout: default
 title: enuGetProjectType
 parent: Application API
+last_modified_date: now
 ---
 # wchar\_t\* enuGetProjectType\(\)
 

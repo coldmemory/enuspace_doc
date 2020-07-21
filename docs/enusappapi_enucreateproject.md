@@ -2,6 +2,7 @@
 layout: default
 title: enuCreateProject
 parent: Application API
+last_modified_date: now
 ---
 # HPROJECT enuCreateProject\(\)
 

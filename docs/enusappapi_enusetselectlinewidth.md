@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectLineWidth
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectLineWidth\(HVIEW pENUView, float fWidth\)
 

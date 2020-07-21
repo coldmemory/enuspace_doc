@@ -3,6 +3,7 @@ layout: default
 title: RESTful API
 parent: enuSpace Tutorial
 has_children: true
+last_modified_date: now
 ---
 
 # **RESTful API and JSON**
@@ -24,17 +25,17 @@ enuSpace for mars는 서버측에서 JavaScript를 이용하여 웹 기반 언�
 
 ---
 
-* ##### [requestpage : SVG 파일 페이지 요청](//tutorial/restful-requestpage.html)
-* ##### [getvalue : 변수 데이터 취득 요청](//tutorial/restful-getvalue.html)
-* ##### [setvalue : 변수 데이터 설정 요청](//tutorial/restful-setvalue.html)
-* ##### [getvalue\_package : 변수 데이터 리스트 취득 요청](//tutorial/restful-getvalue-package.html)
-* ##### [setvalue\_package : 변수 데이터 리스트 설정 요청](/tutorial/restful-setvalue-package.md)
-* ##### [gethistoricaldata : 특정 변수에 대한 히스토리 데이터 요청](/tutorial/restful-gethistoricaldata.html)
-* ##### [getpicturevalue : 특정 페이지의 현재 변수및 현재값 요청](/tutorial/restful-getpicturevalue.html)
+* ###### [requestpage : SVG 파일 페이지 요청](//tutorial/restful-requestpage.html)
+* ###### [getvalue : 변수 데이터 취득 요청](//tutorial/restful-getvalue.html)
+* ###### [setvalue : 변수 데이터 설정 요청](//tutorial/restful-setvalue.html)
+* ###### [getvalue\_package : 변수 데이터 리스트 취득 요청](//tutorial/restful-getvalue-package.html)
+* ###### [setvalue\_package : 변수 데이터 리스트 설정 요청](/tutorial/restful-setvalue-package.md)
+* ###### [gethistoricaldata : 특정 변수에 대한 히스토리 데이터 요청](/tutorial/restful-gethistoricaldata.html)
+* ###### [getpicturevalue : 특정 페이지의 현재 변수및 현재값 요청](/tutorial/restful-getpicturevalue.html)
 
 
 
-#### 확장 모듈을 이용하여 사용자 정의 RESTful API를 활용하여 적용할수 있습니다.
+##### 확장 모듈을 이용하여 사용자 정의 RESTful API를 활용하여 적용할수 있습니다.
 
 [확장 모듈을 이용한 RESTful API 적용 방법](http://enuspace.tistory.com/entry/enuSpacewebextension)
 

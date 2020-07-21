@@ -2,6 +2,7 @@
 layout: default
 title: enuSetUseAttribute_interface
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetUseAttribute\_interface\(HSVG pSvgHandler, HNODE pNode, wchar\_t\* strValue\)
 

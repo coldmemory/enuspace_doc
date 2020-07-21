@@ -2,6 +2,7 @@
 layout: default
 title: enuResourceCreateStyle
 parent: Application API
+last_modified_date: now
 ---
 # bool enuResourceCreateStyle\(wchar\_t\* pStrFilename, wchar\_t\* pStrStyle\)
 

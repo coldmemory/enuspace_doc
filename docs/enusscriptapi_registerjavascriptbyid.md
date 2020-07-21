@@ -2,6 +2,7 @@
 layout: default
 title: RegisterJavaScriptById
 parent: Script API
+last_modified_date: now
 ---
 # RegisterJavaScriptById\(id, function, script\)
 

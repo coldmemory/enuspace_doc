@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectFontname
 parent: Application API
+last_modified_date: now
 ---
 # oid enuSetSelectFontname\(HVIEW pENUView, wchar\_t\* strFontName\)oid enuSetSelectFontname\(HVIEW pENUView, wchar\_t\* strFontName\)
 

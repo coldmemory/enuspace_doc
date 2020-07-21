@@ -1,12 +1,12 @@
 ---
 layout: default
-title: SetStruct
+title: GetValue
 parent: Script API
 last_modified_date: now
 ---
-# SetStruct\(\)
+# GetValue\(\)
 
-SetStruct\(\)
+GetValue\(\)
 
 #### Parameters
 

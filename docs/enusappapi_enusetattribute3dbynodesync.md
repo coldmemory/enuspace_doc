@@ -2,6 +2,7 @@
 layout: default
 title: enuSetAttribute3DByNodeSync
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetAttribute3DByNodeSync\(HX3D pX3DHandler, HNODE pObject, wchar\_t\* pStrVariable, wchar\_t\* pStrValue, bool bHistory, bool bScript\)
 

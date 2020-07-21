@@ -2,6 +2,7 @@
 layout: default
 title: enuCreate3DSphere
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuCreate3DSphere\(HX3D pX3DHandler, wchar\_t\* strID, float radius, float slices, float transx, float transy, float transz\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuGetActiveProject
 parent: Application API
+last_modified_date: now
 ---
 # HPROJECT enuGetActiveProject\(\)
 

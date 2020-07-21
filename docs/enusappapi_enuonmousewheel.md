@@ -2,6 +2,7 @@
 layout: default
 title: enuOnMouseWheel
 parent: Application API
+last_modified_date: now
 ---
 # void enuOnMouseWheel\(HVIEW pENUView, UINT nFlags, short zDelta, CPoint pt\)
 

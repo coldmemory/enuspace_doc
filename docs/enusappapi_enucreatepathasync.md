@@ -2,6 +2,7 @@
 layout: default
 title: enuCreatePathAsync
 parent: Application API
+last_modified_date: now
 ---
 # void enuCreatePathAsync\(HSVG pSvgHandler, wchar\_t\* strID, wchar\_t\* pStrValue, float transx, float transy\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectObject
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetSelectObject\(HVIEW pENUView, wchar\_t\* strSelectID\)
 

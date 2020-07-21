@@ -2,6 +2,7 @@
 layout: default
 title: enuSetDBGeneration
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetDBGeneration\(\)
 

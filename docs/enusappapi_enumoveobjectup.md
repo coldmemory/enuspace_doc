@@ -2,6 +2,7 @@
 layout: default
 title: enuMoveObjectUp
 parent: Application API
+last_modified_date: now
 ---
 # void enuMoveObjectUp\(HVIEW pENUView\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuSetCanvasColor
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetCanvasColor\(HVIEW pENUView, byte iR, byte iG, byte iB\)
 

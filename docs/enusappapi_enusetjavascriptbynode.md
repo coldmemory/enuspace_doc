@@ -2,6 +2,7 @@
 layout: default
 title: enuSetJavaScriptByNode
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetJavaScriptByNode\(HSVG pSvgHandler, HNODE pNode, wchar\_t\* strFunction, wchar\_t\* strScript\)
 

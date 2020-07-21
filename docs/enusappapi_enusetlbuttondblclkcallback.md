@@ -2,6 +2,7 @@
 layout: default
 title: enuSetLButtonDblClkCallBack
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetLButtonDblClkCallBack\(HVIEW pENUView, void functioncb\(float, float\) \)
 

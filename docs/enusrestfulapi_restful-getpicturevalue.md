@@ -3,6 +3,7 @@ layout: default
 title: getpicturevalue
 parent: RESTful API
 grand_parent: enuSpace Tutorial
+last_modified_date: now
 ---
 
 # **RESTful API - getpicturevalue**

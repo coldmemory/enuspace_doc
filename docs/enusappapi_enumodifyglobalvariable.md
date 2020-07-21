@@ -2,6 +2,7 @@
 layout: default
 title: enuModifyGlobalVariable
 parent: Application API
+last_modified_date: now
 ---
 # bool enuModifyGlobalVariable\(wchar\_t\* pStrFileName, wchar\_t\* strVariable, wchar\_t\* strNewType, wchar\_t\* strNewVariable, wchar\_t\* strNewDescription\)
 

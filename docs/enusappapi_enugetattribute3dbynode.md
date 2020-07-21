@@ -2,6 +2,7 @@
 layout: default
 title: enuGetAttribute3DByNode
 parent: Application API
+last_modified_date: now
 ---
 # void enuGetAttribute3DByNode\(HX3D pX3DHandler, HNODE pObject, wchar\_t\* pStrVariable, VariableStruct\* pData\)
 

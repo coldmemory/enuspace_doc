@@ -2,6 +2,7 @@
 layout: default
 title: enuGetLogicClass
 parent: Application API
+last_modified_date: now
 ---
 # HSVG enuGetLogicClass\(wchar\_t\* pStrFileName\)
 

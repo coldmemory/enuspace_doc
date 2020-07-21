@@ -2,6 +2,7 @@
 layout: default
 title: PrintMessage
 parent: Script API
+last_modified_date: now
 ---
 # PrintMessage\(message\)
 

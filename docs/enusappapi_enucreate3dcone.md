@@ -2,6 +2,7 @@
 layout: default
 title: enuCreate3DCone
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuCreate3DCone\(HX3D pX3DHandler, wchar\_t\* strID, float bottomRadius, float height, float slices, float transx, float transy, float transz\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuSetActiveProject
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetActiveProject\(HPROJECT pHANDLE\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuGet3DObjectById
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuGet3DObjectById\(HX3D pX3DHandler, wchar\_t\* objectid\)
 

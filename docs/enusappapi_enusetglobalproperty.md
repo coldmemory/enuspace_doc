@@ -2,6 +2,7 @@
 layout: default
 title: enuSetGlobalProperty
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetGlobalProperty\(HSVG pSvg, wchar\_t\* pAttribute, wchar\_t\* pValue\)
 

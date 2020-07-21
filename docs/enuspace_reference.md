@@ -2,6 +2,7 @@
 layout: default
 title: Reference (Applied Project)
 nav_order: c
+last_modified_date: now
 ---
 
 # Reference \(Applied Project\)

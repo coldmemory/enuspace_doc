@@ -2,6 +2,7 @@
 layout: default
 title: enuAddGlobalVariable
 parent: Application API
+last_modified_date: now
 ---
 # bool enuAddGlobalVariable\(wchar\_t\* pStrFileName, wchar\_t\* pStrType, wchar\_t\* strVariable, wchar\_t\* strInitValue=L"", wchar\_t\* strDescription=L""\)
 

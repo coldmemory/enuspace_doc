@@ -2,6 +2,7 @@
 layout: default
 title: SetVolumeX
 parent: Script API
+last_modified_date: now
 ---
 # SetVolumeX\(volume\)
 
@@ -17,7 +18,7 @@ none
 
 #### Remarks
 
-[PlaySoundX\(\)](./enusscriptapi_playsoundx.md), [StopSoundX\(\)](./enusscriptapi_stopsoundx.md)함수와 함께 사용됩니다.
+[PlaySoundX\(\)](/ScriptAPI\PlaySoundX.html), [StopSoundX\(\)](/ScriptAPI\StopSoundX.html)함수와 함께 사용됩니다.
 
 ```lua
 -- lua

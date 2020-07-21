@@ -4,6 +4,7 @@ title: 기초객체(2D)
 parent: enuSpace Tutorial
 has_children: true
 nav_order: c
+last_modified_date: now
 ---
 
 # 2D Primitivie Object - 기초 객체

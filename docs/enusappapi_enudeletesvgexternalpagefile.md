@@ -2,6 +2,7 @@
 layout: default
 title: enuDeleteSvgExternalPageFile
 parent: Application API
+last_modified_date: now
 ---
 # bool enuDeleteSvgExternalPageFile\(wchar\_t\* pFileName\)
 

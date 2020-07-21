@@ -2,6 +2,7 @@
 layout: default
 title: enuIsEditRedo
 parent: Application API
+last_modified_date: now
 ---
 # bool enuIsEditRedo\(HVIEW pENUView\)
 

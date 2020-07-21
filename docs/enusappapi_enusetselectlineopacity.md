@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSelectLineOpacity
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSelectLineOpacity\(HVIEW pENUView, wchar\_t\* strOpacity\)
 

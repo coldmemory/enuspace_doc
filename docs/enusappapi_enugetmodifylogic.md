@@ -2,6 +2,7 @@
 layout: default
 title: enuGetModifyLogic
 parent: Application API
+last_modified_date: now
 ---
 # bool enuGetModifyLogic\(wchar\_t\* pStrFilename\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuGetSelectSingleObject
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuGetSelectSingleObject\(HVIEW pENUView\)
 

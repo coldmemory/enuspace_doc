@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSnapFile
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSnapFile\(wchar\_t\* strFilename\)
 

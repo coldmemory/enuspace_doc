@@ -2,6 +2,7 @@
 layout: default
 title: enuDeleteGlobalVariable
 parent: Application API
+last_modified_date: now
 ---
 # bool enuDeleteGlobalVariable\(wchar\_t\* pStrFileName, wchar\_t\* strVariable\)
 

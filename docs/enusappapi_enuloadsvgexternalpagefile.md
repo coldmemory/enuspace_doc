@@ -2,6 +2,7 @@
 layout: default
 title: enuLoadSvgExternalPageFile
 parent: Application API
+last_modified_date: now
 ---
 # HSVG enuLoadSvgExternalPageFile\(wchar\_t\* pFileName\)
 

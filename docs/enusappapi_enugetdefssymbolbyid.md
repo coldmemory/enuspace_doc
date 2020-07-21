@@ -2,6 +2,7 @@
 layout: default
 title: enuGetDefsSymbolById
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuGetDefsSymbolById\(HSVG pSvgHandler, wchar\_t\* objectid\)
 

@@ -3,6 +3,7 @@ layout: default
 title: Square
 parent: Math functions
 grand_parent: enuSpace Tutorial
+last_modified_date: now
 ---
 
 # Square

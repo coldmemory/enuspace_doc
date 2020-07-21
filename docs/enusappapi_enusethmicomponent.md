@@ -2,6 +2,7 @@
 layout: default
 title: enuSetHmiComponent
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetHmiComponent\(HVIEW pENUView, wchar\_t\* pStrFileName, wchar\_t\* pStrSymbol\)
 

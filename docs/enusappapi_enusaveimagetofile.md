@@ -2,6 +2,7 @@
 layout: default
 title: enuSaveImageToFile
 parent: Application API
+last_modified_date: now
 ---
 # void enuSaveImageToFile\(HVIEW pENUView, wchar\_t\* strFileName, wchar\_t\* strFileType\)
 

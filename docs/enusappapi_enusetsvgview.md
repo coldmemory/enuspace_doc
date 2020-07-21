@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSvgView
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSetSvgView\(HVIEW pENUView, HSVG pSvg\)
 

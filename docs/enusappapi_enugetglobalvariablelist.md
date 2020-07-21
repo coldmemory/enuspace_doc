@@ -2,6 +2,7 @@
 layout: default
 title: enuGetGlobalVariableList
 parent: Application API
+last_modified_date: now
 ---
 # void\* enuGetGlobalVariableList\(wchar\_t\* pStrFileName\)
 

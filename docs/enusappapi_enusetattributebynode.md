@@ -2,6 +2,7 @@
 layout: default
 title: enuSetAttributeByNode
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetAttributeByNode\(HSVG pSvgHandler, HNODE pObject, wchar\_t\* pStrVariable, wchar\_t\* pStrValue\)
 

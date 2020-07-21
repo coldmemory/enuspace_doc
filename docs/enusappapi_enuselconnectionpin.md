@@ -2,6 +2,7 @@
 layout: default
 title: enuSelConnectionPin
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSelConnectionPin\(HVIEW pENUView, wchar\_t\* strPicture, wchar\_t\* strSymbol\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuCloseWindow
 parent: Application API
+last_modified_date: now
 ---
 # void enuCloseWindow\(wchar\_t\* strWindow\)
 

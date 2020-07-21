@@ -2,6 +2,7 @@
 layout: default
 title: enuSetSymbolSize
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetSymbolSize\(HVIEW pENUView, wchar\_t\* strSymbol, float fWidth, float fHeight\)
 

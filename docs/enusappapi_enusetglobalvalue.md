@@ -2,6 +2,7 @@
 layout: default
 title: enuSetGlobalValue
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetGlobalValue\(HSVG pSvgHandler, wchar\_t\* pStrVariable, wchar\_t\* pStrValue\)
 

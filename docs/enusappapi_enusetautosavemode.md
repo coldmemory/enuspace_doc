@@ -2,6 +2,7 @@
 layout: default
 title: enuSetAutoSaveMode
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetAutoSaveMode\(bool bAuto\)
 

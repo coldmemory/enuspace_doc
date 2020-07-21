@@ -2,6 +2,7 @@
 layout: default
 title: enuRegisterFunction
 parent: Application API
+last_modified_date: now
 ---
 # bool enuRegisterFunction\(wchar\_t\* strFunction, int \(\*pfunc\)\(lua\_State\* L\)\)
 

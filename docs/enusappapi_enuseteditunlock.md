@@ -2,6 +2,7 @@
 layout: default
 title: enuSetEditUnLock
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetEditUnLock\(HVIEW pENUView\)
 

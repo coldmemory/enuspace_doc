@@ -2,6 +2,7 @@
 layout: default
 title: enuSendNetData
 parent: Application API
+last_modified_date: now
 ---
 # void enuSendNetData\(wchar\_t\* system, char\* data, int length\)
 

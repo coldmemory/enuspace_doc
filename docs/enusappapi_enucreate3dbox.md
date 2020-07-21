@@ -2,6 +2,7 @@
 layout: default
 title: enuCreate3DBox
 parent: Application API
+last_modified_date: now
 ---
 # HNODE enuCreate3DBox\(HX3D pX3DHandler, wchar\_t\* strID, float size, float transx, float transy, float transz\)
 

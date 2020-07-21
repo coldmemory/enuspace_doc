@@ -2,6 +2,7 @@
 layout: default
 title: enuSetMove3DCanvas
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetMove3DCanvas\(HVIEW pENUView, float transx, float transy, float transz\)
 

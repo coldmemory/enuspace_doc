@@ -2,6 +2,7 @@
 layout: default
 title: enuExportWebStyleSvg
 parent: Application API
+last_modified_date: now
 ---
 # bool enuExportWebStyleSvg\(wchar\_t\* strTaget, wchar\_t\* strSource\)
 

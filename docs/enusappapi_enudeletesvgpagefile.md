@@ -2,6 +2,7 @@
 layout: default
 title: enuDeleteSvgPageFile
 parent: Application API
+last_modified_date: now
 ---
 # bool enuDeleteSvgPageFile\(wchar\_t\* pStrFileName\)
 

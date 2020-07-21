@@ -2,6 +2,7 @@
 layout: default
 title: enuSetScriptOperationMode
 parent: Application API
+last_modified_date: now
 ---
 # void enuSetScriptOperationMode\(bool bFlag\)
 

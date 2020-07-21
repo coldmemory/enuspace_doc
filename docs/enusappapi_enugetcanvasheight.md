@@ -2,6 +2,7 @@
 layout: default
 title: enuGetCanvasHeight
 parent: Application API
+last_modified_date: now
 ---
 # float enuGetCanvasHeight\(HVIEW pENUView\)
 

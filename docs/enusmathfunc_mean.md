@@ -3,6 +3,7 @@ layout: default
 title: Mean
 parent: Math functions
 grand_parent: Math & Statistics
+last_modified_date: now
 ---
 
 # Mean

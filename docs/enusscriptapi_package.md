@@ -2,6 +2,7 @@
 layout: default
 title: GetValuePackage
 parent: Script API
+last_modified_date: now
 ---
 # GetValuePackage\(variable\)
 
@@ -21,7 +22,7 @@ value
 
 #### Remarks
 
-GetValue\_Package\(\)함수는 enuSpace 에서는 데이터베이스 배열변수의 값을 가져올때 수행하는 함수이다. 또한, 웹에서는 RESTful API [getvalue\_package](./enusrestfulapi_restful-getvalue-package.md) 함수를 통하여 연계되어 동작을 수행한다.
+GetValue\_Package\(\)함수는 enuSpace 에서는 데이터베이스 배열변수의 값을 가져올때 수행하는 함수이다. 또한, 웹에서는 RESTful API [getvalue\_package](/tutorial/restful-getvalue-package.html) 함수를 통하여 연계되어 동작을 수행한다.
 
 * enuSpace 스튜디어오에서 파일 저장시 웹동작을 위한 변환 파일이 생성된다. 변환시 본 함수의 첫번째 파라미터는 문자열로 변경되어 웹 랜더러를 통한 인터페이스를 수행한다. GetValuePackage\(@CORE.display\);  ---&gt; GetValuePackage\("@CORE.display"\);
 

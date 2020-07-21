@@ -2,6 +2,7 @@
 layout: default
 title: CreateGlobalVariable
 parent: Script API
+last_modified_date: now
 ---
 # CreateGlobalVariable\(type, variable, value\)
 

@@ -2,6 +2,7 @@
 layout: default
 title: enuSaveSvgFile
 parent: Application API
+last_modified_date: now
 ---
 # bool enuSaveSvgFile\(HSVG pSvgHandler, wchar\_t\* strFileName= L""\)
 
