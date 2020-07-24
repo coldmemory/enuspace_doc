@@ -450,7 +450,7 @@ extern "C" __declspec(dllexport) void ExecuteFunction(wchar_t* pStrFunction)
 extern "C" __declspec(dllexport) bool OnShowHelp(wchar_t* pStrSymbolName)
 {
     // tlaqh
-    strAddress.Format(L"https://expnuni.gitbooks.io/taskmodel/content/%s.html", pStrSymbolName);
+    strAddress.Format(L"https://expnuni.github.io/enuspace_doc/docs/%s/", pStrSymbolName);
     ShellExecute(NULL, L"open", L"chrome.exe", strAddress, NULL, SW_SHOW);
     return true;
 }

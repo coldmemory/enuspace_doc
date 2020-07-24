@@ -175,7 +175,7 @@ Add features
 * New : [GetValuePackage\(\)](/ScriptAPI/GetValue_Package.html) Script API add \(for web\).
 * New : Added fuction to modify database tags.
 * Improved : Add debug detail output information to script field.
-* Improved : Defining and extending functions for runtime mode. [enuSetRuntimeMode\(\)](https://expnuni.gitbooks.io/enuspace/content/ApplicationAPI/enuSetRuntimeMode.html)
+* Improved : Defining and extending functions for runtime mode. [enuSetRuntimeMode\(\)](https://expnuni.github.io/enuspace_doc/docs/enusappapi_enusetruntimemode/)
 * New : GetTime\(\), GetDateTimeString\(\) Script API add.
 * Improved : OnTask\(\). Add time information to function parameters
 * New : enuGetPageClass\(\) Application API add.

@@ -32,7 +32,7 @@ none
 
 #### Remarks
 
-스크립트를 이용하여 동적으로 이미지 객체를 생성합니다. 생성된 객체의 속성을 변경하고자 하는 경우에는 [SetAttribute\(\)](https://expnuni.gitbooks.io/enuspace/content/ScriptAPI/SetAttribute.html)함수를 이용합니다.
+스크립트를 이용하여 동적으로 이미지 객체를 생성합니다. 생성된 객체의 속성을 변경하고자 하는 경우에는 [SetAttribute\(\)](https://expnuni.github.io/enuspace_doc/docs/enusscriptapi_setattribute/)함수를 이용합니다.
 
 ```lua
 -- lua

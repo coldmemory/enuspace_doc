@@ -71,7 +71,7 @@ enuSpace에서 Tensorflow를 로직 블럭을 이용하여 프로그래밍을 �
 
 ![](./assets/plugin/enuSpaceTensorflow.png)
 
-gitbook : [https://expnuni.gitbooks.io/enuspacetensorflow/](https://expnuni.gitbooks.io/enuspacetensorflow/)
+github page : [https://expnuni.github.io/enuspace_tensorflow_doc/](https://expnuni.github.io/enuspace_tensorflow_doc/)
 
 github : [https://github.com/EXPNUNI/enuSpaceTensorflow](https://github.com/EXPNUNI/enuSpaceTensorflow)
 
