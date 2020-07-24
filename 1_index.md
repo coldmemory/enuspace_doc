@@ -41,7 +41,7 @@ enuSpace는 소프트웨어 개발자 도구\(Software Development Kit :SDK\)를
 
 #### enuSpaceTensorflow
 
-* gitbook : enuSpaceTensorflow \([https://expnuni.gitbooks.io/enuspacetensorflow](https://expnuni.gitbooks.io/enuspacetensorflow)\)
+* github-pages : enuSpaceTensorflow \([https://expnuni.github.io/enuspace_tensorflow_doc/](https://expnuni.github.io/enuspace_tensorflow_doc/)\)
 
 * github : enuSpaceTensorflow \([https://github.com/EXPNUNI/enuSpaceTensorflow](https://github.com/EXPNUNI/enuSpaceTensorflow)\)
 
