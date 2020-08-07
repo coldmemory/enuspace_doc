@@ -15,9 +15,26 @@ last_modified_date: now
 
 Working ......
 
-* New : CAD DXF file  parsing.
 
+---
+
+**Release date : 2020.08.07, Version : 5.0.1.0**
+
+32bit Version : [enuSpace for uranus 5.0.1.0 x32 Download \(student\)](http://www.enu-tech.co.kr/student_release/enuspace_setup_5.0.1.0_x32_st.exe)
+
+64bit Version : [enuSpace for uranus 5.0.1.0 x64 Download \(student\)](http://www.enu-tech.co.kr/student_release/enuspace_setup_5.0.1.0_x64_st.exe)
+
+New feature
+
+* Updated : V8 version 7.5.288.31
+* Updated : CAD DXF file parsing.
 * New : API added : void enuTrendReset\(HNODE TrendNode\)
+* Improved : Terrain object attribute added\(draw direction, grid interpolation\)
+* Improved : Trend object Text Label function added\(SetAttribute\(L"text-label", "a;b;c;d"\)\)
+* Bugfixed : Fixed Terrain object abnormal coordinate display
+* Bugfixed : Enable Trend Chart Object Recent Value Display Option
+* Bugfixed : Fixed bug when obtaining terrain object data
+* Bugfixed : Fixed an error when executing a script at the 3D root node
 
 ---
 
