@@ -1,4 +1,4 @@
-enuSpace gitHub site : https://expnuni.github.io/enuspace_doc/
+enuSpace gitHub HomePage : https://expnuni.github.io/enuspace_doc/
 
 
 # enuSpace Overview
