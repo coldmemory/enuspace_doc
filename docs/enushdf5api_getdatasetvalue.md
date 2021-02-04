@@ -16,7 +16,9 @@ hdf5dataset* datahandle : 로드된 데이터 셋의 핸들을 입력합니다.
 #### Return Value
 
 void* datapointer : 데이터의 포인터를 반환합니다.
+
 int type : 데이터의 타입정보를 반환합니다.
+
 int size : 데이터의 사이즈를 반환합니다.
 
 

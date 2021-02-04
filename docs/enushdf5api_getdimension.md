@@ -12,6 +12,7 @@ int hdf5.GetDimension\(hdf5dataset* datahandle, int index\)
 #### Parameters
 
 hdf5dataset* datahandle : 로드된 데이터 셋의 핸들을 입력합니다.
+
 int index : 랭크의 인덱스를 입력합니다. (zero based index)
 
 #### Return Value

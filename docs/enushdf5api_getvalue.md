@@ -12,7 +12,8 @@ value hdf5.GetValue\(hdf5dataset* datahandle, string dimension\)
 #### Parameters
 
 hdf5dataset* datahandle : 로드된 데이터 셋의 핸들을 입력합니다.
-string dimension : 문자열로 취득하고자하는 배열 정보를 입력합니다. Ex) “[2][2]”
+
+string dimension : 문자열로 취득하고자하는 배열 정보를 입력합니다. ex) “[2][2]”
 
 #### Return Value
 

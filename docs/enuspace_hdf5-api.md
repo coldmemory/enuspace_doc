@@ -16,24 +16,42 @@ last_modified_date: now
 
 enuSpace for uranus(v5) 버젼에서는 hdf5 데이터베이스 함수를 제공합니다.
 
-hdf5.Open()				
+hdf5.Open()
+* hdf5 파일을 오픈합니다.
+
 hdf5.Create()
-hdf5.Close()				
-hdf5.GetDataset()			
+* hdf5 파일을 생성합니다.
+
+hdf5.Close()
+* hdf5 파일을 닫습니다.
+
+hdf5.GetDataset()
+* 데이터셋을 불러옵니다.
+
 hdf5.GetDatasetValue()
+* 데이터셋의 데이터 주소, 타입, 사이즈를 가져옵니다.
+
 hdf5.AssignValue()
+* 메모리의 값을 전달합니다.
+
 hdf5.GetRank()
+* 데이터셋의 랭크정보를 가져옵니다.
+
 hdf5.GetDimension()
+* 특정 랭크의 배열 정보를 가져옵니다.
+
 hdf5.GetValue()
+* 데이터셋의 값을 가져옵니다.
+
 hdf5.SetDataset()
-hdf5.GetAttrs()
-hdf5.SetAttrs()
+* 데이터셋의 값을 저장합니다.
+
 
 
 ```lua
 function _onload()
 	----------------------------------------------------------------------------	
-	local hdf = hdf5.Open("D:/git/CoreViusalization/x64_bin/SKN3/GOGO.h5")
+	local hdf = hdf5.Open("D:/git/GOGO.h5")
 	local hdata = hdf5.GetDataset(hdf, "/ROOT/OUTPUT_FILE/BURNUPDATA[10]/NORMALIZED_POWER_DISTRIBUTION")
 
 	local pointer1
@@ -51,7 +69,7 @@ function _onload()
 	end
 
 	----------------------------------------------------------------------------
-	local h3ddata = hdf5.GetDataset(hdf, "/ROOT/OUTPUT_FILE/BURNUPDATA[20]/AXIALLY_AVERAGE_POWER_1D")
+	local h3ddata = hdf5.GetDataset(hdf, "/ROOT/OUTPUT_FILE/BURNUPDATA[20]/POWER_1D")
 	local rank = hdf5.GetRank(h3ddata)
 	if (rank == 1) then
 		local dim = hdf5.GetDimension(h3ddata, rank-1)  -- zero based index
@@ -81,7 +99,7 @@ function _onload()
 
 	hdf5.Close(hdf)
 	------------------------------------------------------------------------------
-	local hdfw = hdf5.Create("D:/git/CoreViusalization/x64_bin/SKN3/GOGO_NEW12.h5")
+	local hdfw = hdf5.Create("D:/git/GOGO_NEW12.h5")
 	hdf5.SetDataset(hdfw,"/ROOT/CORE", pointer2, datatype2, "[19][19]")
 	hdf5.SetDataset(hdfw,"/ROOT/CORE2", pointer2, datatype2, "[19][19]")
 	hdf5.Close(hdfw)

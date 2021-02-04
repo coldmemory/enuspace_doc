@@ -12,12 +12,15 @@ hdf5dataset*, type, size hdf5.GetDataset\(hdf5file* filehandle, string datapath\
 #### Parameters
 
 hdf5file* filehandle : HDF5의 파일 핸들을 입력합니다.
+
 string datapath : 로드하고자하는 data의 패스정보를 제공합니다.
 
 #### Return Value
 
 hdf5dataset* datahandle : 오픈된 HDF5의 파일 핸들을 반환합니다.
-int type : 데이터의 타입정보를 반환합니다
+
+int type : 데이터의 타입정보를 반환합니다.
+
 int size : 데이터의 사이즈를 반환합니다.
 
 #### Remarks

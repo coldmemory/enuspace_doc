@@ -12,10 +12,11 @@ void hdf5.Close\(hdf5file* filehandle\)
 #### Parameters
 
 hdf5file* filehandle : HDF5의 파일 핸들을 입력합니다.
+
 (Open, Create 함수를 통하여 생성된 핸들을 입력합니다.)
 #### Return Value
 
-
+NONE
 
 #### Remarks
 
