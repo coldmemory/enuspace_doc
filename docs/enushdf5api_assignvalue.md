@@ -5,7 +5,7 @@ parent: hdf5 functions
 last_modified_date: now
 ---
 
-# Open
+# AssignValue
 
 void hdf5.AssignValue\(void* target, void* source, int type, int size\)
 
