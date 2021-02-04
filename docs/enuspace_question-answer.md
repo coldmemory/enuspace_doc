@@ -2,7 +2,7 @@
 layout: default
 title: 자주하는 질문(Q/A)
 has_children: False
-nav_order: l
+nav_order: m
 last_modified_date: now
 ---
 
