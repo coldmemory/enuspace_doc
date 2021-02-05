@@ -18,55 +18,56 @@ last_modified_date: now
 ---
 
 * header
---header/enuLibrary.h
---header/svgdefine.h
+
+#### header/enuLibrary.h
+#### header/svgdefine.h
 * lib
---lib/enuSpaceLib.lib
+#### lib/enuSpaceLib.lib
 * bin
---bin/Certify.dll
---bin/dbplugin
---bin/dllLEA.dll
---bin/DXFHandler.dll
---bin/enuspace.config
---bin/enuSpaceLib.dll
---bin/glew32.dll
---bin/hdf5.dll
---bin/hdf5_cpp.dll
---bin/InstructorStation.dll
---bin/libmariadb.dll
---bin/natives_blob.bin
---bin/plugin
---bin/PluginManager.dll
---bin/ReservedWords.js
---bin/ReservedWords.lua
---bin/SciLexer.dll
---bin/snapshot_blob.bin
---bin/sqlite3.dll
---bin/v8.dll
---bin/v8_libbase.dll
---bin/v8_libplatform.dll
---bin/WebExtension.dll
+#### bin/Certify.dll
+#### bin/dbplugin
+#### bin/dllLEA.dll
+#### bin/DXFHandler.dll
+#### bin/enuspace.config
+#### bin/enuSpaceLib.dll
+#### bin/glew32.dll
+#### bin/hdf5.dll
+#### bin/hdf5_cpp.dll
+#### bin/InstructorStation.dll
+#### bin/libmariadb.dll
+#### bin/natives_blob.bin
+#### bin/plugin
+#### bin/PluginManager.dll
+#### bin/ReservedWords.js
+#### bin/ReservedWords.lua
+#### bin/SciLexer.dll
+#### bin/snapshot_blob.bin
+#### bin/sqlite3.dll
+#### bin/v8.dll
+#### bin/v8_libbase.dll
+#### bin/v8_libplatform.dll
+#### bin/WebExtension.dll
 
 ## enuSpace Studio를 이용한 프로젝트 생성
 ---
 enuSpace Studio를 이용하여 MFC 응용프로그램에서 사용하기 위한 프로젝트를 생성한다. 
 enuSpace Studio를 실행해서 새 프로젝트를 만들고 픽쳐를 생성 간단한 그림을 작도한다.
 
-![](./SDK/SDKTutorialSet/10 SDKTutorialSet.png)
+![](./SDK/SDKTutorialSet/10_SDKTutorialSet.png)
 
-![](./SDK/SDKTutorialSet/11 SDKTutorialSet.png)
+![](./SDK/SDKTutorialSet/11_SDKTutorialSet.png)
 
 ## MFC(Microsoft Foundation Class) 기반의 프로젝트 생성
 ---
-![](./SDK/SDKTutorialSet/1 SDKTutorialSet.png)
+![](./SDK/SDKTutorialSet/1_SDKTutorialSet.png)
 
 MFC 기반 Single Doc/View 프로젝트를 생성한다.
 
-![](./SDK/SDKTutorialSet/3 SDKTutorialSet.png)
+![](./SDK/SDKTutorialSet/3_SDKTutorialSet.png)
 
 프로젝트 루트 디렉토리에 제공된 enuSpace SDK 폴더 복사 및 붙여넣기를 수행한다.
 
-![](./SDK/SDKTutorialSet/4 SDKTutorialSet.png)
+![](./SDK/SDKTutorialSet/4_SDKTutorialSet.png)
 
 생성된 프로젝트 해더에 enuSpace SDK관련 해더 및 라이브러리정보를 추가한다. 
 추가방법은 아래와 같습니다.
@@ -84,16 +85,16 @@ MFC 기반 Single Doc/View 프로젝트를 생성한다.
 
 MFC 프로젝트를 빌드 후 실행힌다. 
 
-![](./SDK/SDKTutorialSet/6 SDKTutorialSet.png)
+![](./SDK/SDKTutorialSet/6_SDKTutorialSet.png)
 
 실행시 프로젝트 실행 디렉토리에 enuSpace SDK/bin 디렉토리에 포함된 파일을 복사하여 붙여넣기를 수행한다.
 주) enuSpaceLib.dll은 참조되는 파일들이 모두 동일한 디렉토리에 위치한다.
 
-![](./SDK/SDKTutorialSet/7 SDKTutorialSet.png)
+![](./SDK/SDKTutorialSet/7_SDKTutorialSet.png)
 
 enuSpace SDK에서 제공하는 프로젝트 생성, 로드, 뷰 설정을 수행하기 위한 함수를 추가한다. 
 
-![](./SDK/SDKTutorialSet/8 SDKTutorialSet.png)
+![](./SDK/SDKTutorialSet/8_SDKTutorialSet.png)
 
 
 ## MFC(Microsoft Foundation Class) 기반 응용프로그램에서 enuSpace 프로젝트 로드
@@ -102,7 +103,7 @@ MFC 기반 응용프로그램에서 enuLoadProject()함수를 통하여 enuSpace
 
 실행 프로그램의 디렉토리 위치를 취득하여 enuSpace 프로젝트를 로드한 예이다. 
 
-![](./SDK/SDKTutorialSet/12 SDKTutorialSet.png)
+![](./SDK/SDKTutorialSet/12_SDKTutorialSet.png)
 
 ```cpp
 

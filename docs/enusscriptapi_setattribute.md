@@ -24,6 +24,15 @@ none
 
 SetAttribute의 함수는 문자열형태로 변수명과 값을 입력하여 처리됩니다.
 
+주) 스크립트 작성 위치 기반으로 해당 속성 변수에 대하여 설정합니다. 
+
+ex) SVG 노드에 RECT 객체를 생성, RECT의 width값 변경시 
+
+* SVG에 스크립트를 작성한 경우 : SetAttribute("ID_RECT.width", "10") 사용
+
+* RECT 객체에 스크립트를 작성한 경우 : SetAttribute("width", "10") 사용
+
+
 ```lua
 -- lua
 SetAttribute("ID_RECT.width", "10")
@@ -47,6 +56,7 @@ ID_RECT.width = 10;
 ```lua
 -- lua
 function _onmousedown()
+    -- svg 하
     SetAttribute("ID_RECT.width", "10")
 end
 ```
