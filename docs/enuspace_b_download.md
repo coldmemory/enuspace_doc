@@ -14,8 +14,32 @@ last_modified_date: now
 ---
 
 Working ......
-
-
+* New : APP api added - enuUpdateScriptByNode API added.
+* Improved : dll recognition function referenced in task dll.
+* Improved : task api added - SetValueByString function added.
+* New : APP api added -  enuSetComponentHighlightOption API added.
+* New : APP api added -  enuSetComponentSymbolTableOption API added.
+* New : APP api added -  enuUpdateDatabase API added.
+* New : APP api added -  enuInsertDatabase API added.
+* New : APP api added -  enuDeleteDatabase API added.
+* Improved : text object interface variable update module patched.
+* Improved : logic task - flow based calculation module patched.
+* New : javascript and lua api added - UpdateDatabase_JS API added.
+* New : javascript and lua api added - InsertDatabase_JS API added.
+* New : javascript and lua api added - DeleteDatabase_JS API added.
+* Improved : Editbox text cursor position error patch.
+* New : Addition of color setting function outside canvas
+* New : APP api added - enuSetTagValue API added.
+* New : lua script api added - hdf5 moudle API added.
+* New : javascript and lua api added - GetVariabplePointer API added.
+* New : javascript and lua api added - GetVariabplePointer_str API added.
+* Imporved : javascript and lua api - SetAttribute function patched.
+* New : sqlite db interface module - ExecBegin, ExecCommit function added.
+* Improved : Additional management module function added for trend object scheduler update object.
+* New : trend object attribute added - "symbol-step" attribute added.
+* Improved : Switching from Runtimeview class to drawing logic RTM delivery method.
+* Improved : Add HMI, LOC, PIC separator when registering script.
+* Improved : external tast pin and link interface module patched.
 ---
 
 **Release date : 2020.08.07, Version : 5.0.1.0**

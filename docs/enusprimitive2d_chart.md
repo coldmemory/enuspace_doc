@@ -265,6 +265,7 @@ series에 관한 속성은 다음과 같습니다.
 |  | symbol-stroke-opacity | series 심볼의 외곽선 투명도 |
 |  | symbol-stroke-width | series 심볼의 외곽선 굵기 |
 |  | symbol-stroke-dasharray | series 심볼의 외곽선  스타일 |
+|  | symbol-step | 심볼 드로잉 간격 (기본:1) |
 |  | symbol-size | series 심볼의 크기 |
 |  | series-max-size | series에 저장되는 데이터의 총 갯수 |
 |  | data | series의 정적 데이터를 집어넣는 속성 |
