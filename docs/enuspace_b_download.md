@@ -44,6 +44,7 @@ New feature
 * Improved : Switching from Runtimeview class to drawing logic RTM delivery method.
 * Improved : Add HMI, LOC, PIC separator when registering script.
 * Improved : external tast pin and link interface module patched.
+
 ---
 
 **Release date : 2020.08.07, Version : 5.0.1.0**
