@@ -13,7 +13,11 @@ last_modified_date: now
 
 ---
 
-Working ......
+**Release date : 2021.02.15, Version : 5.0.2.0**
+
+64bit Version : [enuSpace for uranus 5.0.2.0 x64 Download \(student\)](http://www.enu-tech.co.kr/student_release/enuspace_setup_5.0.2.0_x64_st.exe)
+
+New feature
 * New : APP api added - enuUpdateScriptByNode API added.
 * Improved : dll recognition function referenced in task dll.
 * Improved : task api added - SetValueByString function added.
