@@ -24,6 +24,11 @@ none
 
 lua의 함수를 동적으로 등록하여 활용할 수 있습니다.
 
+Reference function 
+
+ExecuteString()
+
+
 ```lua
 -- lua
 local script = "function BlickFunction()\r\n PrintMessage(\"call...\")\r\nend";    -- lua script function
@@ -34,10 +39,7 @@ ID_RECT.BlickFunction()
 
 ```js
 -- javascript
-var script = "function BlickFunction()\r\n PrintMessage(\"call...\")\r\nend";    // lua script function
-
-RegisterLuaScriptById("ID_RECT", "BlickFunction", script);
-ID_RECT.BlickFunction();
+Not Support
 ```
 
 #### 
@@ -56,13 +58,7 @@ end
 
 ```js
 // JavaScript
-function _onmousedown()
-{    
-    var script = "function BlickFunction()\r\n PrintMessage(\"call...\")\r\nend";    // lua script function
-
-    RegisterLuaScriptById("ID_RECT", "BlickFunction", script);
-    ID_RECT.BlickFunction();
-}
+Not Support
 ```
 
 
