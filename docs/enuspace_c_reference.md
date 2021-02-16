@@ -11,6 +11,20 @@ last_modified_date: now
 
 #### 
 
+#### Spent Fuel Management System
+
+enuSpace for uranus \(ver 5.0\)![](/assets/reference/mcs_visualization.png)
+
+
+#### UV LED Management System
+
+enuSpace for uranus \(ver 5.0\)![](/assets/reference/uv_management.png)
+
+
+#### Airtraffic statistics and visualization
+
+enuSpace for uranus \(ver 5.0\)![](/assets/reference/airtraffic_stat.png)
+
 #### enuSpace-Tensorflow
 
 enuSpace for saturn \(ver 4.0\)![](/assets/reference/enuspace-tensorflow.png)
