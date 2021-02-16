@@ -5,7 +5,7 @@ parent: Script API
 last_modified_date: now
 ---
 
-# BringForwardObject\(objects\)
+# SetSelectGroup\(objects\)
 
 ---
 SetSelectGroup\(\)
