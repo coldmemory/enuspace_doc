@@ -12,17 +12,18 @@ SetSelectGroup\(\)
 
 #### Parameters
 
-* objects : 수행하고자 하는 객체의 ID를 입력합니다. 여러개의 객체를 입력하고자 하는경우에는 ","을 이용합니다.
+* objects : 그룹핑을 수행하고자 하는 객체의 ID를 입력합니다. 그래픽 객체 ID 정보를 "," 단위로 입력합니다.
 
-* group_id(optional) : 만들어질 Group의 id를 입력합니다. 그룹의 id를 입력하지 않은 경우 자동생성된 id가 부여됩니다.
+* group_id(optional) : 생성된 Group 객체의 ID를 입력합니다. 그룹의 ID를 입력하지 않은 경우 자동생성된 ID가 부여됩니다.
 
 
 #### Return Value
+
 * none
 
 #### Reference
-* SDK API : [void enuSetSelectGroup\(HVIEW pENUView\)](/enuspace_doc/docs/enusscriptapi_setselectgroup/)
 
+* SDK API : [void enuSetSelectGroup\(HVIEW pENUView\)](/enuspace_doc/docs/enusappapi_enusetselectgroup/)
 
 #### Remarks
 ```lua
