@@ -5,7 +5,7 @@ parent: Script API
 last_modified_date: now
 ---
 
-# SetSelectGroup\(\"objects\", (optional)group_id\)
+# SetSelectGroup\(\"objects\", group_id\)
 
 ---
 SetSelectGroup\(\)
@@ -21,8 +21,8 @@ SetSelectGroup\(\)
 * none
 
 #### Reference
-SDK API : 
-[void enuSetSelectGroup\(HVIEW pENUView\)](/enusscriptapi_setselectgroup/)
+* SDK API : [void enuSetSelectGroup\(HVIEW pENUView\)](/enuspace_doc/docs/enusscriptapi_setselectgroup/)
+
 
 #### Remarks
 ```lua
