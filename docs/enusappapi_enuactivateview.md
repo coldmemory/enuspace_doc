@@ -10,17 +10,17 @@ void enuActivateView\(HVIEW pENUView\)
 
 #### Parameters
 
-Type : HVIEW
+* Type : HVIEW
 
 뷰 핸들을 전달합니다.
 
 #### Return Value
 
-none
+* none
 
 #### Remarks
 
-활성화된 뷰는 taskview\(\) 의 스크립트 함수가 동작합니다.
+* 활성화된 뷰는 taskview\(\) 의 스크립트 함수가 동작합니다.
 
 #### Examples
 

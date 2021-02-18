@@ -11,11 +11,11 @@ hdf5file* hdf5.GetRank\(hdf5dataset* datahandle\)
 
 #### Parameters
 
-hdf5dataset* datahandle : 데이터셋 핸들을 입력합니다.
+* hdf5dataset* datahandle : 데이터셋 핸들을 입력합니다.
 
 #### Return Value
 
-int rank : rank 정보를 반환합니다. 
+* int rank : rank 정보를 반환합니다. 
 
 #### Remarks
 
