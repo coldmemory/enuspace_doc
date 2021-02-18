@@ -1,13 +1,13 @@
 ---
 layout: default
-title: AssignValue
+title: AssignPointerArrayValue
 parent: hdf5 functions
 last_modified_date: now
 ---
 
-# AssignValue
+# AssignPointerArrayValue
 
-void hdf5.AssignValue\(void* target, void* source, int type, int size\)
+void hdf5.AssignPointerArrayValue\(void* target, void* source, int type, int size\)
 
 #### Parameters
 
@@ -25,6 +25,10 @@ int datasize : 테이터의 사이즈를 입력합니다.
 
 #### Remarks
 
+
+#### Reference
+
+* SCRIPT API : [AssignPointerValue](/enuspace_doc/docs/enushdf5api_assignpointervalue/)
 
 
 #### Examples
@@ -46,7 +50,7 @@ function _onload()
 	pointer2, datatype2, datasize2 = GetVariablePointer(ID_CORE.data)
 	
 	if (datatype1 == datatype2 and datasize1 == datasize2) then
-		hdf5.AssignValue(pointer2, pointer1, datatype2, datasize2)
+		hdf5.AssignPointerArrayValue(pointer2, pointer1, datatype2, datasize2)
 	end
 end
 

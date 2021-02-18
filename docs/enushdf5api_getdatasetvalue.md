@@ -45,7 +45,7 @@ function _onload()
 	pointer2, datatype2, datasize2 = GetVariablePointer(ID_CORE.data)
 	
 	if (datatype1 == datatype2 and datasize1 == datasize2) then
-		hdf5.AssignValue(pointer2, pointer1, datatype2, datasize2)
+		hdf5.AssignPointerArrayValue(pointer2, pointer1, datatype2, datasize2)
 	end
 
 	hdf5.Close(hdf)
