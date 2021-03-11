@@ -12,7 +12,7 @@ last_modified_date: now
 We are working.
 
 * Improved :Add time information to the debug output window
-
+* New : javascript and lua api added - [DeleteObject](/enuspace_doc/docs/enusscriptapi_deleteobject/) added. 
 
 ---
 
@@ -35,9 +35,9 @@ New feature
 * New : APP api added -  enuDeleteDatabase API added.
 * Improved : text object interface variable update module patched.
 * Improved : logic task - flow based calculation module patched.
-* New : javascript and lua api added - UpdateDatabase_JS API added.
-* New : javascript and lua api added - InsertDatabase_JS API added.
-* New : javascript and lua api added - DeleteDatabase_JS API added.
+* New : javascript and lua api added - UpdateDatabase API added.
+* New : javascript and lua api added - InsertDatabase API added.
+* New : javascript and lua api added - DeleteDatabase API added.
 * Improved : Editbox text cursor position error patch.
 * New : Addition of color setting function outside canvas
 * New : APP api added - enuSetTagValue API added.

@@ -110,7 +110,11 @@ last_modified_date: now
 
 ###### Description : Parameter 붙여넣기 이벤트는 use, link객체에 대해서만 허용함
 
+### DSH-0018
+###### Error Display : Exist Object Id : $OBJECTID
+###### Description : 객체의 이름이 중복된 경우에 나타나는 메세지
 
-
-
+### DSH-0019
+###### Error Display : Not Del Variable : $OBJECTID
+###### Description : 생성된 겍체에 대하여 관리하는 맵에서 해당 맵을 검색하여 제거하지 못하였을 경우 나타나는 메세지
 
