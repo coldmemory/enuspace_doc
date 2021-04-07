@@ -13,6 +13,14 @@ We are working.
 
 * Improved :Add time information to the debug output window
 * New : javascript and lua api added - [DeleteObject](/enuspace_doc/docs/enusscriptapi_deleteobject/) added. 
+* Improved : Shape Outline ribbon menu (line weight, line dashes) added.
+* New : enuSpace Runtime viewer - Project file relative path input module.
+* New : Loading the project-based WebExtension.dll module.
+* Improved : DXFHandler SOLID object patched. Error exception handling.
+* Improved : DXFHandler User-based property setting window provided.
+* Fixed : Special character processing when saving SetAttribute object variable.
+* New : Add color fill and gradient color functions when expressing a series of trend objects.
+* New : Added interface to link with functions of external modules.
 
 ---
 

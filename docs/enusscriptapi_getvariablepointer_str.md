@@ -34,7 +34,7 @@ GetVariablePointer_str 함수는 입력변수를 문자열 형태로 제공하�
 local pointer
 local itype
 local isize
-pointer, itype, isize = GetVariablePointer("ID_CONTOUR.data")
+pointer, itype, isize = GetVariablePointer_str("ID_CONTOUR.data")
 
 ```
 
@@ -51,7 +51,7 @@ function _onmousedown()
     local pointer
     local itype
     local isize
-    pointer, itype, isize = GetVariablePointer("ID_CONTOUR.data")
+    pointer, itype, isize = GetVariablePointer_str("ID_CONTOUR.data")
 end
 ```
 
