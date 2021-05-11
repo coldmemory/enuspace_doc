@@ -48,7 +48,7 @@ end
 
 #### Result
 
-![](./StatisticsAPI/StandardizeResult2.png)
+![](./StatisticsAPI/StandardizeResult.png)
 
 
 

@@ -45,4 +45,4 @@ end
 
 #### Result1
 
-![](./StatisticsAPI/TrimMeantResult.png)
+![](./StatisticsAPI/TrimMeanResult.png)

@@ -6,9 +6,9 @@ grand_parent: Math & Statistics
 last_modified_date: now
 ---
 
-# StdevP
+# StdevS
 
-Ensor.StdevP\(Ensor\* pEnsor\)
+Ensor.StdevS\(Ensor\* pEnsor\)
 
 #### Parameters
 

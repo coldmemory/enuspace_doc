@@ -32,6 +32,7 @@ The equation for the standard error of the predicted y is:
 ![](./StatisticsAPI/SteyxFunc.png)
 
 where
+
 ![](./StatisticsAPI/SteyxFunc2.png)are the sample means Average(data1) and Average(data2), and n is the sample size.
 
 #### Examples1
@@ -49,7 +50,7 @@ end
 
 #### Result
 
-![](./StatisticsAPI/SteyxSResult.png)
+![](./StatisticsAPI/SteyxResult.png)
 
 
 

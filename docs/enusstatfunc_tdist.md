@@ -31,14 +31,14 @@ Ensor\* pRetEnsor : pEnsor의 엘리먼트에 맞는 갯수만큼 계산된 Enso
 
 * **PDF**
 
-![](./StatisticsAPI/TdistFunc.png)
-![](./StatisticsAPI/TdistGraph.png)
+![](./StatisticsAPI/TDistFunc.png)
+![](./StatisticsAPI/TDistGraph.png)
 
 * **CDF**
 
-![](./StatisticsAPI/TdistFunc2.png)
+![](./StatisticsAPI/TDistFunc2.png)
 where 2F1 is the hypergeometric function.
-![](./StatisticsAPI/TdistGraph2.png)
+![](./StatisticsAPI/TDistGraph2.png)
 
 
 #### Examples1
