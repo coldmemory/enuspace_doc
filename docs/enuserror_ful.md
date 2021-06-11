@@ -38,3 +38,6 @@ last_modified_date: now
 
 ###### Description : Group수행시 설정한 객체정보를 취득하지 못하였을 경우 나타나는 오류메세지.
 
+### FUL-0006
+
+###### Error Display : Parameter type is wrong(#PARAM_NUM). #FUNCTION_NAME parameter is only #TYPE

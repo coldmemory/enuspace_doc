@@ -54,6 +54,16 @@ ExecuteString("_onload()", "SVG", "picture\\picture.svg")
 ExecuteString("_onload()", 'SVG', "picture\\picture.svg");
 ```
 
+X3D 옵션 
+
+```lua
+ExecuteString("_onload()", "X3D", "picture\\picture.x3d")
+```
+
+```js
+ExecuteString("_onload()", 'X3D', "picture\\picture.x3d");
+```
+
 #### Examples
 
 ```lua
