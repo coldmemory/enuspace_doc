@@ -11,6 +11,19 @@ last_modified_date: now
 
 We are working.
 
+
+
+---
+
+### ![](./assets/neptune_icon.png)enuSpace for neptune \(2022\)
+
+---
+
+**Release date : 2021.07.07, Version : 6.0.0.0**
+
+64bit Version : [enuSpace for neptune 6.0.0.0 x64 Download \(student\)](http://www.enu-tech.co.kr/student_release/enuspace_setup_6.0.0.0_x64_st.exe)
+
+New feature
 * Improved :Add time information to the debug output window
 * New : javascript and lua api added - [DeleteObject](/enuspace_doc/docs/enusscriptapi_deleteobject/) added. 
 * Improved : Shape Outline ribbon menu (line weight, line dashes) added.
