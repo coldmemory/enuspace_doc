@@ -12,11 +12,6 @@ last_modified_date: now
 We are working.
 
 
-
----
-
-### ![](./assets/neptune_icon.png)enuSpace for neptune \(2022\)
-
 ---
 
 **Release date : 2021.07.07, Version : 6.0.0.0**
