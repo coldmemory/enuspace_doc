@@ -20,3 +20,9 @@ last_modified_date: now
 ###### Error Display : RegisterFunction Failed : #FunctionName
 
 ###### Description : 외부모듈의 함수 등록이 실패한 경우 나타나는 에러 메세지.
+
+### PRJ-0003
+
+###### Error Display : Could not find ExternalFunction moudle (%s)
+
+###### Description : 등록된 외부함수 모듈을 검색하지 못하였을 경우 나타나는 에러 메세지
