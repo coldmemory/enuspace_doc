@@ -37,7 +37,11 @@ var path = RelativePath("..\\Simulation\\OCEAN_PCA(PROGRAM)\\OCEAN_PCA.exe")
 ```lua
 -- lua
 function _onmousedown()
+
+    --프로젝트 패스가 D:\\Development\\GIT 라면
     local path = RelativePath("..\\Simulation\\OCEAN_PCA(PROGRAM)\\OCEAN_PCA.exe")
+    -- path : D:\\Development\\Simulation\\OCEAN_PCA(PROGRAM)\\OCEAN_PCA.exe
+
 end
 ```
 
@@ -45,7 +49,9 @@ end
 // JavaScript
 function _onmousedown()
 {    
+    //프로젝트 패스가 D:\\Development\\GIT 라면
     var path = RelativePath("..\\Simulation\\OCEAN_PCA(PROGRAM)\\OCEAN_PCA.exe");
+    //path : D:\\Development\\Simulation\\OCEAN_PCA(PROGRAM)\\OCEAN_PCA.exe
 }
 ```
 
