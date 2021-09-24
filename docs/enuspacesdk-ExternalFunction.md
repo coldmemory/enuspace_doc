@@ -32,8 +32,10 @@ EnuSpace 프로젝트 폴더 안에 db 폴더가 있다.
 ![](./SDK/EXTERNALFUNCTION/ExternalFunction_3.PNG)
 
 * EXTERNALFUNCTION : 등록할 ExternalFunction.dll이 들어있는 폴더 명을 기록하는 컬럼. (사용자의 상황에 따라 다양한 폴더 명이 만들어진다.)
+예시 : ExternalFunction
 
-* EXTERNALFUNCTION_MODULE : 등록할 ExternalFunction.dll의 상대 Path 정보를 기록하는 컬럼.
+* EXTERNALFUNCTION_MODULE : 등록할 ExternalFunction.dll의 상대 Path 정보를 기록하는 컬럼. (프로젝트 폴더가 기준이 된다.)
+예시 : ExternalFunction\ExternalFunction.dll
 
 ![](./SDK/EXTERNALFUNCTION/ExternalFunction_4.PNG)
 
