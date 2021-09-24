@@ -77,6 +77,7 @@ extern "C" __declspec(dllexport) bool OnLoad()
 참조 : [enuRegisterFunction](enusappapi_enuregisterfunction)
 
 * Script로부터 입력받는 Parameter 설정
+
 ```cpp
 lua_tonumber(L, 3); // 함수의 첫 번쨰 Parameter
 lua_tonumber(L, 4); // 함수의 두 번쨰 Parameter
@@ -86,8 +87,8 @@ lua_tonumber(L, 4); // 함수의 두 번쨰 Parameter
 ```
 
 * 출력 값 설정
-```cpp
 
+```cpp
 lua_pushnumber(L, cc);  // 출력하는 값이 number
 lua_pushstring(L, str); // 출력하는 값이 string
 
