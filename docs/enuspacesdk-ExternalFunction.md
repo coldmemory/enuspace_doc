@@ -9,8 +9,6 @@ last_modified_date: now
 
 # 외부함수 등록 방법
 
-![](./SDK/EXTERNALFUNCTION/ExternalFunction_0.PNG)
-
 EnuSpace에서는 외부함수를 등록할 수 있는 모듈을 지원한다.
 
 내부에서 지원하는 Script 함수 외에 필요한 함수를 사용자가 직접 C++코드에서 작성하여 Script에서 사용할 수 있다.
