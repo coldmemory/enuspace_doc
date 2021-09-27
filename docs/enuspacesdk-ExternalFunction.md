@@ -1,35 +1,49 @@
 ---
 layout: default
-title: ExternalFunction.dll 
+title: 외부함수 등록
 parent: SDK 인터페이스
 grand_parent: SDK Tutorial
 nav_order: a
 last_modified_date: now
 ---
 
-# ExternalFunction.dll 
+# 외부함수 등록 방법
 
-## 프로젝트 생성 방법
----
 ![](./SDK/EXTERNALFUNCTION/ExternalFunction_0.PNG)
 
-MFC 동적 연결 라이브러리로 새 프로젝트를 만든다. 
+EnuSpace에서는 외부함수를 등록할 수 있는 모듈을 지원한다.
 
-다만 프로젝트 명은 ExternalFunction으로 하고, 저장된 폴더 명을 사용자의 상황에 맞게 설정한다.
+내부에서 지원하는 Script 함수 외에 필요한 함수를 사용자가 직접 C++코드에서 작성하여 Script에서 사용할 수 있다.
 
-## EnuSpace에 등록 방법
+외부 함수 등록 모듈은 ExternalFunction.dll로 만들어진다.
+
+ExternalFunction.dll로 접근은 enusapce.db의 EXTERNALFUNTION 테이블의 정보를 참조하여 이뤄진다.
+
+EXTERNALFUNTION 테이블에는 저장된 폴더 컬럼과 ExternalFunction.dll로 접근하는 경로 컬럼이 있다.
+
+ExternalFunction.dll로 접근하는 경로의 컬럼에는 프로젝트 폴더를 기준으로 한 경로를 저장한다.
+
+## 외부함수 등록 모듈 생성 방법
 ---
 ![](./SDK/EXTERNALFUNCTION/ExternalFunction_1.PNG)
 
+MFC 동적 연결 라이브러리로 새 프로젝트를 만든다. 
+
+다만 프로젝트 명은 ExternalFunction으로 하고, 저장될 폴더 명을 사용자의 상황에 맞게 설정한다.
+
+## 외부함수 등록 모듈을 EnuSpace에 등록 방법
+---
+![](./SDK/EXTERNALFUNCTION/ExternalFunction_2.PNG)
+
 EnuSpace 프로젝트 폴더 안에 db 폴더가 있다.
 
-![](./SDK/EXTERNALFUNCTION/ExternalFunction_2.PNG)
+![](./SDK/EXTERNALFUNCTION/ExternalFunction_3.PNG)
 
 이 중 enusapce.db를 통해 ExternalFunction.dll 등록을 수행한다. 
 
 아래의 그림은 SQLite Expert Personal.exe를 통해 테이블을 수정하는 것을 보여준다.
 
-![](./SDK/EXTERNALFUNCTION/ExternalFunction_3.PNG)
+![](./SDK/EXTERNALFUNCTION/ExternalFunction_4.PNG)
 
 * EXTERNALFUNCTION : 등록할 ExternalFunction.dll이 들어있는 폴더 명을 기록하는 컬럼. (사용자의 상황에 따라 다양한 폴더 명이 만들어진다.)
 예시 : ExternalFunction
@@ -37,13 +51,13 @@ EnuSpace 프로젝트 폴더 안에 db 폴더가 있다.
 * EXTERNALFUNCTION_MODULE : 등록할 ExternalFunction.dll의 상대 Path 정보를 기록하는 컬럼. (프로젝트 폴더가 기준이 된다.)
 예시 : ExternalFunction\ExternalFunction.dll
 
-![](./SDK/EXTERNALFUNCTION/ExternalFunction_4.PNG)
-
-등록에 성공할 시 위의 그림처럼 사용자가 등록한 ExternalFunction이 Project tree에 표현된다.
-
-## Script에서 사용할 함수 등록 방법
----
 ![](./SDK/EXTERNALFUNCTION/ExternalFunction_5.PNG)
+
+외부함수 등록 모듈이 EnuSpace 등록에 성공할 시, 위의 그림처럼 외부함수 등록 모듈이 Project tree에 나타난다.
+
+## 외부함수 작성 방법
+---
+![](./SDK/EXTERNALFUNCTION/ExternalFunction_6.PNG)
 
 ```cpp
 #define USE_SDK
@@ -102,32 +116,12 @@ return 1; // 출력하는 값의 개수를 return 한다.
 // 만약 출력하는 값이 없을 때는 return 0;
 ```
 
-## 함수 등록 성공 메세지 및 Script에서 함수 사용 예시
+## 외부 함수 사용
 ---
-![](./SDK/EXTERNALFUNCTION/ExternalFunction_6.PNG)
-
-Debug 창에 위와 같은 메세지가 표현된다.
-
 ![](./SDK/EXTERNALFUNCTION/ExternalFunction_7.PNG)
 
-Script에서 위와 같이 함수를 사용한다.
+외부 함수 등록 성공 시 Debug 창에 위와 같은 메세지가 표현된다.
 
-## 사용시 주의할 점
----
-![](./SDK/EXTERNALFUNCTION/ExternalFunction_waring.PNG)
+![](./SDK/EXTERNALFUNCTION/ExternalFunction_8.PNG)
 
-* Thread 사용이 필요한 경우.
-
-enuGetObjectById, enuGetTrendSeriesNode... 같은 함수들은 사용자가 입력한 값에 해당하는 객체를 검색하고 그 결과에 대해 return한다.
-
-각 함수들의 작업은 Task Scheduler에 쌓이고, RTM에서 실시간으로 처리된다.
-
-다만, 작업의 효율성을 위해 각 함수에는 결과를 받기까지 허용한 시간이 있다. 
-
-그 시간내에 올바른 결과를 받을 수 없을 경우, 작업이 실패한 것으로 간주한다.
-
-위의 작업들을 ExternalFunction.dll에서 바로 사용할 경우, 
-
-요청한 작업이 RTM이 처리하기 전에 Task Scheduler에 머물다 허용한 시간 지나갈 가능성이 높다.
-
-따라서 별도의 Thread를 구성해서 사용하는 것을 추천한다.
+Script에서 위와 같이 외부 함수를 사용한다.
