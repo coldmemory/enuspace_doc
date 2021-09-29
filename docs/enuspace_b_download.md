@@ -25,6 +25,7 @@ We are working.
 * Improved : Contour object x-axis, y-axis text label display.
 * Fixed : Error in assigning address of string variable in SetArrayValue function.
 * Fixed : Fixed line object arrow drawing.
+
 ---
 
 **Release date : 2021.07.07, Version : 6.0.0.0**
