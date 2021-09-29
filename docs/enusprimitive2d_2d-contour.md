@@ -224,7 +224,21 @@ color-position 속성 정보는 draw-shape 속성값이 circle인 경우에만 �
 
 ### 속성 확장 : min-transparent
 
-min-transparent 속성 정보가 true 설정시 표현하고자 하는 데이터의 값이 minElevation값과 같은 경우에 투명 처리를 수행하는 옵션이다.
+데이터의 값이 Elevation의 최소값인 경우 Invisible 상태를 제공합니다. min-transparent 속성에 true 설정시 활성화합니다. 
 
 ![](./assets/tutorial/minTransparent.png)
+
+# enuSpace for neptune \(ver 6.0\) 추가 기능
+
+### 속성 확장 : xaxis-text, yaxis-text
+
+축방향 라벨 확장 기능으로 Text, 특수문자를 표현할 수 있습니다. xaxis-format이나 yaxis-format 속성에서 text로 전환하여 활성화합니다. 구분자는 `;`을 사용합니다.
+
+![](./assets/tutorial/axis-text1.png)       ![](./assets/tutorial/axis-text2.png)
+
+### 속성 확장 : transparentPoints
+
+좌표를 입력받아 해당 위치의 Alpha값을 조정하여 Invisible 상태를 제공합니다.. x1,y1 x2,y2 x3,y3 ··· 형식으로 좌표를 입력합니다.
+
+![](./assets/tutorial/transparent-points1.png)       ![](./assets/tutorial/transparent-points2.png)
 
