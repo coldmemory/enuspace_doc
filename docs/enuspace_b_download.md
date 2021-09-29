@@ -10,8 +10,21 @@ last_modified_date: now
 ### ![](./assets/neptune_icon.png)enuSpace for neptune \(2022\)
 
 We are working.
-
-
+* Fixed : 3d - Memory leak patch when removing 3D objects through API.
+* Improved : Improved 3d scatter chart function. (line option)
+* New : Script api added - RelativePath function added.
+* Improved : 3d view - Fixed object selection not being displayed in runtime mode
+* Fixed : 3d view - Patch a bug that occurs when executing the text billboard option.
+* Fixed : Trend object label-format added. (engineering unit).
+* New : Added trend log scale.  
+* Improved : Flownetwork task module updated.
+* Improved : Added execution function for relative path input parameter when executing program.
+* Improved : Added transparent coordinate setting function to contour object.
+* Improved : ExternalFunction multi module support.
+* Improved : Improved this contour object property dialog.
+* Improved : Contour object x-axis, y-axis text label display.
+* Fixed : Error in assigning address of string variable in SetArrayValue function.
+* Fixed : Fixed line object arrow drawing.
 ---
 
 **Release date : 2021.07.07, Version : 6.0.0.0**
