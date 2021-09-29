@@ -9,48 +9,63 @@ last_modified_date: now
 
 ---
 
+## Digital Twin
+
+version : enuSpace for neptune \(ver 6.0\)![](/assets/reference/digital_twin.png)
+Developer : Expansion & Universal Co., ltd (이엔유 주식회사)
+
 ## Spent Fuel Management System
 
-enuSpace for uranus \(ver 5.0\)![](/assets/reference/mcs_visualization.png)
+version : enuSpace for uranus \(ver 5.0\)![](/assets/reference/mcs_visualization.png)
+Developer : Expansion & Universal Co., ltd (이엔유 주식회사)
 
 ## Nuclear Power Plant - Abnormal AI/Logic System
 
-enuSpace for uranus \(ver 5.0\)![](/assets/reference/abnormal_ai.png)
+version : enuSpace for uranus \(ver 5.0\)![](/assets/reference/abnormal_ai.png)
 ![](/assets/reference/abnormal_lg.png)
+Developer : Expansion & Universal Co., ltd (이엔유 주식회사)
 
 ## UV LED Management System
 
-enuSpace for uranus \(ver 5.0\)![](/assets/reference/uv_management.png)
+version : enuSpace for uranus \(ver 5.0\)![](/assets/reference/uv_management.png)
+Developer : Expansion & Universal Co., ltd (이엔유 주식회사)
 
 ## Nuclear Core AI System
 
-enuSpace for uranus \(ver 5.0\)![](/assets/reference/core_ai.png)
+version : enuSpace for uranus \(ver 5.0\)![](/assets/reference/core_ai.png)
+Developer : Expansion & Universal Co., ltd (이엔유 주식회사)
 
 ## Airtraffic Statistics and Visualization
 
-enuSpace for uranus \(ver 5.0\)![](/assets/reference/airtraffic_stat.png)
+version : enuSpace for uranus \(ver 5.0\)![](/assets/reference/airtraffic_stat.png)
+Developer : Expansion & Universal Co., ltd (이엔유 주식회사)
 
 ## enuSpace-Tensorflow
 
-enuSpace for saturn \(ver 4.0\)![](/assets/reference/enuspace-tensorflow.png)
+version : enuSpace for saturn \(ver 4.0\)![](/assets/reference/enuspace-tensorflow.png)
+Developer : Expansion & Universal Co., ltd (이엔유 주식회사)
 
 ## 3D Display and Core analyzer
 
-enuSpace for jupiter \(ver 3.0\)
+version : enuSpace for jupiter \(ver 3.0\)
 
 ![](./assets/reference/ocean.png)
+Developer : Expansion & Universal Co., ltd (이엔유 주식회사)
 
 ## Air Map Editor Software
 
-enuSpace for mars \(ver 2.0\)![](/assets/reference/enuAeroSpace.png)
+version : enuSpace for mars \(ver 2.0\)![](/assets/reference/enuAeroSpace.png)
+Developer : Expansion & Universal Co., ltd (이엔유 주식회사)
 
 ## Air Traffic Analsys Software
 
-enuSpace for mars \(ver 2.0\)![](/assets/reference/airtraffic.png)
+version : enuSpace for mars \(ver 2.0\)![](/assets/reference/airtraffic.png)
+Developer : Expansion & Universal Co., ltd (이엔유 주식회사)
 
 ## Plant HMI Software
 
-enuSpace for moon \(ver 1.0\)
+version : enuSpace for moon \(ver 1.0\)
 
 ![](./assets/reference/plant_hmi.png)
+Developer : Expansion & Universal Co., ltd (이엔유 주식회사)
 
