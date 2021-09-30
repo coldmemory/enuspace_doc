@@ -154,7 +154,7 @@ Trend\(이하 차트\)객체의 속성 및 사용방법에 대하여 설명합�
 |  | font-style | 글씨 스타일 |
 |  | font-weight | 글씨 굵기 |
 
-## 차트 축 속성 보기
+## 차트 축(X. Y) 속성 보기
 
 ---
 
@@ -163,6 +163,7 @@ Trend\(이하 차트\)객체의 속성 및 사용방법에 대하여 설명합�
 | 기본 속성 | id | 차트 축의 id |
 | Style&Class | style | 스타일 프리셋 설정 속성 |
 | Trend Axis Properties | position | 차트 축의 위치 |
+|  | log | 로그 디스플레이 옵션 설정 |
 |  | mainscale | 주눈금 표시/비표시 설정 |
 |  | scale-length | 주눈금의 길이 |
 |  | tick | 눈금과 그래프와의 간격 설정 |
