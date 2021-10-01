@@ -50,11 +50,11 @@
 }
 
 @mixin fs-7 {
-  font-size: 24px !important;
+  font-size: 20px !important;
   line-height: $body-heading-line-height;
 
   @include mq(sm) {
-    font-size: 32px !important;
+    font-size: 26px !important;
   }
 }
 
