@@ -9,7 +9,7 @@ last_modified_date: now
 
 ### ![](./assets/neptune_icon.png)enuSpace for neptune \(2022\)
 
-We are working.
+## We are working.
  
 * Improved : Set 3D Background color function. enuSetWindowColor API deleted.
 * Fixed : 3d - Memory leak patch when removing 3D objects through API.
