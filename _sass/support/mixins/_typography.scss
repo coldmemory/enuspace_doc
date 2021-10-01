@@ -34,7 +34,6 @@
 
 @mixin fs-5 {
   font-size: 16px !important;
-  line-height: $body-heading-line-height;
   
   @include mq(sm) {
     font-size: 18px !important;
