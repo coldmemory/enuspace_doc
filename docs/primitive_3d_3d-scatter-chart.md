@@ -63,7 +63,7 @@ last_modified_date: now
 | symbol\_color | string | 심볼의 색상 | rgb\(0,0,0\) or \#ffffff |
 | symbol\_opacity | float | 심볼의 투명도 | 0~1 |
 | symbol\_size | float | 심볼의 사이즈 | value |
-| label\_visible | bool | 라베값 디스플레이 여부 | true, false |
+| label\_visible | bool | 라벨값 디스플레이 여부 | true, false |
 | data\_format | string | 시리즈 데이터 포맷정보 | xyz, xyzw, xyzl |
 | elevationType | string | 데이터 가시화 방법 | none, color, volume, color+volume |
 | minElevation | float | 데이터 가시화 최소값 | value |
