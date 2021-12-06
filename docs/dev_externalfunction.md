@@ -15,11 +15,11 @@ enuSpace에서는 외부함수를 등록할 수 있는 모듈을 지원한다.
 
 외부 함수 등록 모듈은 ExternalFunction.dll로 만들어진다.
 
-ExternalFunction.dll로 접근은 enusapce.db의 EXTERNALFUNTION 테이블의 정보를 참조하여 이뤄진다.
+_내부에서 ExternalFunction.dll로 접근하는 방법으로는 ./db/enusapce.db의 EXTERNALFUNTION 테이블의 정보를 참조하여 이뤄진다._
 
-EXTERNALFUNTION 테이블에는 저장된 폴더 컬럼과 ExternalFunction.dll로 접근하는 경로 컬럼이 있다.
+_EXTERNALFUNTION 테이블에는 저장된 폴더 컬럼과 ExternalFunction.dll로 접근하는 경로 컬럼이 있다._
 
-ExternalFunction.dll로 접근하는 경로의 컬럼에는 프로젝트 폴더를 기준으로 한 경로를 저장한다.
+_ExternalFunction.dll로 접근하는 경로의 컬럼에는 프로젝트 폴더를 기준으로 한 경로를 저장한다._
 
 ## 외부함수 등록 모듈 생성 방법
 ---
@@ -27,29 +27,17 @@ ExternalFunction.dll로 접근하는 경로의 컬럼에는 프로젝트 폴더�
 
 MFC 동적 연결 라이브러리로 새 프로젝트를 만든다. 
 
-다만 프로젝트 명은 ExternalFunction으로 하고, 저장될 폴더 명을 사용자의 상황에 맞게 설정한다.
 
 ## 외부함수 등록 모듈을 enuSpace에 등록 방법
 ---
 ![](./SDK/EXTERNALFUNCTION/ExternalFunction_2.PNG)
 
-EnuSpace 프로젝트 폴더 안에 db 폴더가 있다.
+Project tree 창에서 ExternalFunction 폴더 마우스 우 클릭 시, 위와 같은 버튼이 나타난다. 
+
+이 버튼을 클릭해 EXTERNALFUNTION.dll의 을 등록한다.
+
 
 ![](./SDK/EXTERNALFUNCTION/ExternalFunction_3.PNG)
-
-이 중 enusapce.db를 통해 ExternalFunction.dll 등록을 수행한다. 
-
-아래의 그림은 SQLite Expert Personal.exe를 통해 테이블을 수정하는 것을 보여준다.
-
-![](./SDK/EXTERNALFUNCTION/ExternalFunction_4.PNG)
-
-* EXTERNALFUNCTION : 등록할 ExternalFunction.dll이 들어있는 폴더 명을 기록하는 컬럼. (사용자의 상황에 따라 다양한 폴더 명이 만들어진다.)
-예시 : ExternalFunction
-
-* EXTERNALFUNCTION_MODULE : 등록할 ExternalFunction.dll의 상대 Path 정보를 기록하는 컬럼. (프로젝트 폴더가 기준이 된다.)
-예시 : ExternalFunction\ExternalFunction.dll
-
-![](./SDK/EXTERNALFUNCTION/ExternalFunction_5.PNG)
 
 외부함수 등록 모듈이 EnuSpace 등록에 성공할 시, 위의 그림처럼 외부함수 등록 모듈이 Project tree에 나타난다.
 
@@ -83,7 +71,7 @@ int Adder(lua_State* L)
 
 extern "C" __declspec(dllexport) bool OnLoad()
 {
-	enuRegisterFunction(L"UserAdder", Adder);   
+	enuRegisterFunction(L"UserAdder", Adder);   // enuRegisterFunction(L"script에서 사용할 함수 명", 작성한 함수)
 	return true;
 }
 ```
@@ -115,10 +103,11 @@ return 1; // 출력하는 값의 개수를 return 한다.
 
 ## 외부 함수 사용
 ---
-![](./SDK/EXTERNALFUNCTION/ExternalFunction_7.PNG)
+![](./SDK/EXTERNALFUNCTION/ExternalFunction_4.PNG)
 
 외부 함수 등록 성공 시 Debug 창에 위와 같은 메세지가 표현된다.
 
-![](./SDK/EXTERNALFUNCTION/ExternalFunction_8.PNG)
+![](./SDK/EXTERNALFUNCTION/ExternalFunction_5.PNG)
 
 Script에서 위와 같이 외부 함수를 사용한다.
+
