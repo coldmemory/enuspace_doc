@@ -75,7 +75,7 @@ extern "C" __declspec(dllexport) bool OnLoad()
 	return true;
 }
 ```
-참조 : [enuRegisterFunction](enusappapi_enuregisterfunction)
+참조 : [enuRegisterFunction](sdk_api_enuregisterfunction)
 
 * Script로부터 입력받는 Parameter 설정
 
