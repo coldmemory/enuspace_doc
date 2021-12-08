@@ -28,13 +28,6 @@ Type : bool
 
 외부 함수 등록 여부를 제공한다. 
 
-#### 
-
-#### Remarks
-
-본 함수는 enuCreateProject\(\) 함수 다음에 호출되어 등록하여야 한다. 정상적으로 외부함수가 등록되었다면, enuLoadProject\(\)함수를 통하여 외부함수가 프로젝트에 적용된다. 
-
-
 
 #### Examples
 
@@ -71,6 +64,7 @@ BOOL CSampleDlg::OnInitDialog()
 
 	return TRUE; 
 }
+
 ```
 
 위와 같이 응용프로그램을 개발하였을 경우, enuSpace 뷰 화면에서 AddFunction\(\)함수를 호출하여 활용할 수 있다. 
@@ -91,7 +85,7 @@ end
 
 응용 프로그램에서 enuSpace 뷰에 추가된 함수를 호출 하기 위해서, 아래 그림과 같이 예시를 생성한다.
 
-![](./enuspace_doc/docs/assets/enuRegisterFunction_step1.png)  
+![](./assets/enuRegisterFunction_step1.png)  
 1. HMI 심볼 객체를 생성한다. \(심볼 객체 생성 방법 참조\) 생성될 심볼은 사용자의 함수를 추가하여 작성한다.
 
 2. HMI 시볼 객체를 그래픽 Picture 화면에 추가한 후 Use 객체의 ID를 지정한다. \(ID\_PUMP\) 설정된 프로젝트를 저장한다. 
@@ -135,7 +129,7 @@ BOOL CSampleDlg::OnInitDialog()
 
 본 함수는SVG핸들과 객체 핸들을 이용하여 함수를 호출하는API이다.
 
-![](./enuspace_doc/docs/assets/enuRegisterFunction_step2.png)
+![](./assets/enuRegisterFunction_step2.png)
 
 
 
@@ -159,8 +153,8 @@ info ID\_1ZJYsp0::onmousedown AddFunction Recognized internal variable in this f
 
 Compile OK : Page Name:samplepicture, Object Name:ID\_1ZJYsp0, Function Name:onmousedown
 
-![](./enuspace_doc/docs/assets/enuRegisterFunction_step3.png)  
-샘플 프로젝트를 작성하였다면 위 Sample코드와 같이 함수를 등록하는 코드를 작성한다.
+![](./assets/enuRegisterFunction_step3.png)  
+샘플 프로젝트를 작성하였다면, 함수를 등록하는 코드를 작성한다.
 
 ```cpp
 #include <SvgDefine.h>
@@ -205,10 +199,10 @@ BOOL CSampleDlg::OnInitDialog()
 
 아래 그림은Visual Studio에 루아 라이브러리를 등록하는 방법을 나타낸 것이다
 
-![](./enuspace_doc/docs/assets/enuRegisterFunction_step4.png)  
+![](./assets/enuRegisterFunction_step4.png)  
 
 
 아래 그림은 lua 스크립트에서 외부 응용프로그램의 함수를 호출하여 연산된 결과를 나타낸다.
 
-![](./enuspace_doc/docs/assets/enuRegisterFunction_step5.png)
+![](./assets/enuRegisterFunction_step5.png)
 
