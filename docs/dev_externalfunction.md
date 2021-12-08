@@ -119,9 +119,9 @@ extern "C" __declspec(dllexport) bool OnUnload()
 
 enuSpaceLib.lib와 lua53.lib를 추가 종속성에 설정한다.
 
-	* 구성속성 -> 링커 -> 입력 -> 추가종속성 설정
-		* enuspace_sdk\x64\lib\enuSpaceLib.lib
-		* enuspace_sdk\x64\header\lua53\lua53.lib
+* 구성속성 -> 링커 -> 입력 -> 추가종속성 설정
+	* enuspace_sdk\x64\lib\enuSpaceLib.lib
+	* enuspace_sdk\x64\header\lua53\lua53.lib
 
 3) 디버깅 설정
 
@@ -134,7 +134,7 @@ enuSpaceLib.lib와 lua53.lib를 추가 종속성에 설정한다.
 
 \[선택 사항\]
 * 구성속성 -> 디버깅 -> 명령 인수
-	* 실행 하려는 프로젝트의 파일을 입력한다. 이곳에 입력시 enuSpace.exe에서 프로젝트파일 설정 	없이 바로 프로젝트가 열린다.
+	* 실행 하려는 프로젝트의 파일을 입력한다. 이곳에 입력시 enuSpace.exe에서 프로젝트파일 설정 없이 바로 프로젝트가 열린다.
 	* 예시 : D:\Git\Sample\Sample.enup
 
 ## enuSpace에서 함수 등록 방법
