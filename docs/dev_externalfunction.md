@@ -157,11 +157,11 @@ Project tree 창에서 ExternalFunction 폴더 마우스 우 클릭 이벤트를
 ## 등록된 외부함수 Script에서 사용방법
 
 ```lua
-	function Sample()
-		local a = 3
-		local b = 4
-		local c = UserAdder(a,b) -- 등록된 위부함수 사용
-	end
+function Sample()
+	local a = 3
+	local b = 4
+	local c = UserAdder(a,b) -- 등록된 외부함수 사용
+end
 ```
 Script에서 위와 같이 외부 함수를 사용한다.
 
