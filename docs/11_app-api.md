@@ -232,6 +232,8 @@ last_modified_date: now
  [ bool enuGetWindowSize\(wchar\_t\* strWindowID, RECT\* rect\)](./sdk_api_enugetwindowsize.md)  
  [ bool enuSetWindowSize\(wchar\_t\* strWindowID, int x, int y, int width, int height\)](./sdk_api_enusetwindowsize.md)  
  [ bool enuRegisterFunction\(wchar\_t\* strFunction, int \(\*pfunc\)\(lua\_State\* L\)\)](./sdk_api_enuregisterfunction.md)  
+ [ bool enuDeleteFunction\(wchar\_t\* strFunction, int \(\*pfunc\)\(lua\_State\* L\)\)](./sdk_api_enudeletefunction.md)  
+
  [ HVIEW enuGetWindowView\(wchar\_t\* strWindowID\)](./sdk_api_enugetwindowview.md)
 
 ## View Interface
