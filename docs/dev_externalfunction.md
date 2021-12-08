@@ -13,33 +13,11 @@ enuSpace에서는 외부함수를 등록할 수 있는 모듈을 지원한다.
 
 내부에서 지원하는 Script 함수 외에 필요한 함수를 사용자가 직접 C++코드에서 작성하여 Script에서 사용할 수 있다.
 
-외부 함수 등록 모듈은 ExternalFunction.dll로 만들어진다.
-
-_내부에서 ExternalFunction.dll로 접근하는 방법으로는 ./db/enusapce.db의 EXTERNALFUNTION 테이블의 정보를 참조하여 이뤄진다._
-
-_EXTERNALFUNTION 테이블에는 저장된 폴더 컬럼과 ExternalFunction.dll로 접근하는 경로 컬럼이 있다._
-
-_ExternalFunction.dll로 접근하는 경로의 컬럼에는 프로젝트 폴더를 기준으로 한 경로를 저장한다._
-
 ## 외부함수 등록 모듈 생성 방법
 ---
 ![](./SDK/EXTERNALFUNCTION/ExternalFunction_1.PNG)
 
-MFC 동적 연결 라이브러리로 새 프로젝트를 만든다. 
-
-
-## 외부함수 등록 모듈을 enuSpace에 등록 방법
----
-![](./SDK/EXTERNALFUNCTION/ExternalFunction_2.PNG)
-
-Project tree 창에서 ExternalFunction 폴더 마우스 우 클릭 시, 위와 같은 버튼이 나타난다. 
-
-이 버튼을 클릭해 EXTERNALFUNTION.dll의 을 등록한다.
-
-
-![](./SDK/EXTERNALFUNCTION/ExternalFunction_3.PNG)
-
-외부함수 등록 모듈이 EnuSpace 등록에 성공할 시, 위의 그림처럼 외부함수 등록 모듈이 Project tree에 나타난다.
+Visual Studio에서 MFC 동적 연결 라이브러리로 새 프로젝트를 만든다. 
 
 ## 외부함수 작성 방법
 ---
@@ -71,12 +49,16 @@ int Adder(lua_State* L)
 
 extern "C" __declspec(dllexport) bool OnLoad()
 {
-	enuRegisterFunction(L"UserAdder", Adder);   // enuRegisterFunction(L"script에서 사용할 함수 명", 작성한 함수)
+	enuRegisterFunction(L"UserAdder", Adder);   // enuRegisterFunction(L"script에 등록할 함수 명", 등록할 함수 포인터)
 	return true;
 }
-```
-참조 : [enuRegisterFunction](https://expnuni.github.io/enuspace_doc/docs/sdk_api_enuregisterfunction/)
+extern "C" __declspec(dllexport) bool OnUnload()
+{
+	enuDeleteFunction(L"UserAdder", Formula);  // enuDeleteFunction(L"script에서 제거할 함수 명", 제거할 함수 포인터)
+	return true;
+}
 
+```
 * Script로부터 입력받는 Parameter 설정
 
 ```cpp
@@ -101,13 +83,91 @@ return 1; // 출력하는 값의 개수를 return 한다.
 // 만약 출력하는 값이 없을 때는 return 0;
 ```
 
-## 외부 함수 사용
+## 주의사항
 ---
-![](./SDK/EXTERNALFUNCTION/ExternalFunction_4.PNG)
 
-외부 함수 등록 성공 시 Debug 창에 위와 같은 메세지가 표현된다.
+1) 외부함수 등록 함수(enuRegisterFunction)는 Onload()에서 수행하고, 외부함수 제거 함수(enuDeleteFunction)는 OnUnload()에서 수행한다.
 
-![](./SDK/EXTERNALFUNCTION/ExternalFunction_5.PNG)
+```cpp
+extern "C" __declspec(dllexport) bool OnLoad()
+{
+	enuRegisterFunction(L"UserAdder", Adder);   // enuRegisterFunction(L"script에 등록할 함수 명", 등록할 함수 포인터)
+	return true;
+}
+extern "C" __declspec(dllexport) bool OnUnload()
+{
+	enuDeleteFunction(L"UserAdder", Formula);  // enuDeleteFunction(L"script에서 제거할 함수 명", 제거할 함수 포인터)
+	return true;
+}
+```
+참조 : [enuRegisterFunction](./sdk_api_enuregisterfunction.md), [enuRegisterFunction](./sdk_api_enudeletefunction.md)
 
+2) [Deadlock 발생 가능성](./dev_warning.md)
+
+등록한 외부함수로 작동하는 함수 내부에서 동기 함수(예: enuGetObjectById)를 사용 시 지속적인 return 대기가 발생, 즉 DeadLock 발생 가능성이 있다.
+
+## 환경설정
+---
+
+1) enuspace_sdk의 enuLibrary.h를 include한다. SvgDefine.h를 enuLibrary.h 내부에서 include 하도록 설정되어 있다.
+```cpp
+#define USE_SDK
+#include "enuspace_sdk/x64/header/enuLibrary.h" // EnuSpace SDK Include는 필수!!!
+```
+
+2) 속성 페이지에서 추가 종속성 설정한다.
+
+enuSpaceLib.lib와 lua53.lib를 추가 종속성에 설정한다.
+
+	* 구성속성 -> 링커 -> 입력 -> 추가종속성 설정
+		* enuspace_sdk\x64\lib\enuSpaceLib.lib
+		* enuspace_sdk\x64\header\lua53\lua53.lib
+
+3) 디버깅 설정
+
+외부함수 등록 모듈을 통해 바로 enuSpace를 실행시켜 디버깅 할 수 있도록 설정한다. 
+
+	[필수]
+	* 구성속성 -> 디버깅 -> 명령
+		* 실행 파일인 enuspace.exe의 Path를 입력한다.
+		* 예시 : D:\Git\enuspace.exe
+
+	[선택 사항]
+	* 구성속성 -> 디버깅 -> 명령 인수
+		* 실행 하려는 프로젝트의 파일을 입력한다. 이곳에 입력시 enuSpace.exe에서 프로젝트파일 설정 없이 바로 프로젝트가 열린다.
+		* 예시 : D:\Git\Sample\Sample.enup
+
+## enuSpace에서 함수 등록 방법
+
+Project tree 창에서 ExternalFunction 폴더 마우스 우 클릭 이벤트를 통해 외부함수 등록 모듈을 추가와 제거한다.
+
+![](./SDK/EXTERNALFUNCTION/ExternalFunction_Add.PNG) ![](./SDK/EXTERNALFUNCTION/ExternalFunction_Remove.PNG)
+
+외부함수 등록 모듈이 EnuSpace 등록에 성공할 시, 아래의 그림처럼 외부함수 등록 모듈이 Project tree에 나타난다.
+
+![](./SDK/EXTERNALFUNCTION/ExternalFunction_3.PNG)
+
+---
+외부 함수 등록 성공 시 출력 창에 아래와 같은 메세지가 출력된다.
+* 출력 창 메세지
+	* 등록 성공 시 : RegisterFunction Sucess
+	* 해제 성공 시 : DeleteFunction Success
+
+---
+## 등록된 외부함수 Script에서 사용방법
+
+```lua
+	function Sample()
+		local a = 3
+		local b = 4
+		local c = UserAdder(a,b) -- 등록된 위부함수 사용
+	end
+
+```
 Script에서 위와 같이 외부 함수를 사용한다.
+
+
+
+
+
 
