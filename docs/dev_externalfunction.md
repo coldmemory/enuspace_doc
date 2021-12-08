@@ -100,7 +100,7 @@ extern "C" __declspec(dllexport) bool OnUnload()
 	return true;
 }
 ```
-참조 : [enuRegisterFunction](./sdk_api_enuregisterfunction.md), [enuRegisterFunction](./sdk_api_enudeletefunction.md)
+참조 : [enuRegisterFunction](./sdk_api_enuregisterfunction.md), [enuDeleteFunction](./sdk_api_enudeletefunction.md)
 
 2) [Deadlock 발생 가능성](./dev_warning.md)
 
@@ -127,21 +127,21 @@ enuSpaceLib.lib와 lua53.lib를 추가 종속성에 설정한다.
 
 외부함수 등록 모듈을 통해 바로 enuSpace를 실행시켜 디버깅 할 수 있도록 설정한다. 
 
-	[필수]
-	* 구성속성 -> 디버깅 -> 명령
-		* 실행 파일인 enuspace.exe의 Path를 입력한다.
-		* 예시 : D:\Git\enuspace.exe
+\[필수\]
+* 구성속성 -> 디버깅 -> 명령
+	* 실행 파일인 enuspace.exe의 Path를 입력한다.
+	* 예시 : D:\Git\enuspace.exe
 
-	[선택 사항]
-	* 구성속성 -> 디버깅 -> 명령 인수
-		* 실행 하려는 프로젝트의 파일을 입력한다. 이곳에 입력시 enuSpace.exe에서 프로젝트파일 설정 없이 바로 프로젝트가 열린다.
-		* 예시 : D:\Git\Sample\Sample.enup
+\[선택 사항\]
+* 구성속성 -> 디버깅 -> 명령 인수
+	* 실행 하려는 프로젝트의 파일을 입력한다. 이곳에 입력시 enuSpace.exe에서 프로젝트파일 설정 	없이 바로 프로젝트가 열린다.
+	* 예시 : D:\Git\Sample\Sample.enup
 
 ## enuSpace에서 함수 등록 방법
 
 Project tree 창에서 ExternalFunction 폴더 마우스 우 클릭 이벤트를 통해 외부함수 등록 모듈을 추가와 제거한다.
 
-![](./SDK/EXTERNALFUNCTION/ExternalFunction_Add.PNG) ![](./SDK/EXTERNALFUNCTION/ExternalFunction_Remove.PNG)
+![](./SDK/EXTERNALFUNCTION/ExternalFunction_Add.png) ![](./SDK/EXTERNALFUNCTION/ExternalFunction_Remove.png)
 
 외부함수 등록 모듈이 EnuSpace 등록에 성공할 시, 아래의 그림처럼 외부함수 등록 모듈이 Project tree에 나타난다.
 
@@ -162,7 +162,6 @@ Project tree 창에서 ExternalFunction 폴더 마우스 우 클릭 이벤트를
 		local b = 4
 		local c = UserAdder(a,b) -- 등록된 위부함수 사용
 	end
-
 ```
 Script에서 위와 같이 외부 함수를 사용한다.
 
