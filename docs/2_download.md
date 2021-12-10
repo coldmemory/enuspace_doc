@@ -28,7 +28,9 @@ last_modified_date: now
 * Improved : Contour object x-axis, y-axis text label display.
 * Fixed : Error in assigning address of string variable in SetArrayValue function.
 * Fixed : Fixed line object arrow drawing.
-
+* New : APP api added - enuDeleteFunction API added.
+* New : Script api added - RelativePath API added.
+* Improved : Added line in Series's property of 3d ScatterChart 
 ---
 
 **Release date : 2021.07.07, Version : 6.0.0.0**
