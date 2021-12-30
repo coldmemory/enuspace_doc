@@ -9,8 +9,11 @@ last_modified_date: now
 
 ### ![](./assets/neptune_icon.png)enuSpace for neptune \(2022\)
 
-## We are working.
 
+
+**Release date : 2021.12.30, Version : 6.0.1.0**
+
+64bit Version : [enuSpace for neptune 6.0.1.0 x64 Download \(student\)](http://www.enu-tech.co.kr/student_release/enuspace_setup_6.0.1.0_x64_st.exe)
 
 * Improved : Set 3D Background color function. enuSetWindowColor API deleted.
 * Fixed : 3d - Memory leak patch when removing 3D objects through API.
